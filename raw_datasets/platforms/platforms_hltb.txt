@@ -1,0 +1,96 @@
+3DO
+Acorn Archimedes
+Amazon Luna
+Amiga
+Amiga CD32
+Amstrad CPC
+Apple II
+Arcade
+Atari 2600
+Atari 5200
+Atari 7800
+Atari 8-bit Family
+Atari Jaguar
+Atari Jaguar CD
+Atari Lynx
+Atari ST
+BBC Micro
+Browser
+ColecoVision
+Commodore 64
+Commodore PET
+Commodore VIC-20
+Dreamcast
+Emulated
+FM Towns
+Game & Watch
+Game Boy
+Game Boy Advance
+Game Boy Color
+Gear VR
+Gizmondo
+Google Stadia
+Intellivision
+Interactive Movie
+Linux
+Mac
+Mobile
+MSX
+N-Gage
+NEC PC-88
+NEC PC-98
+NEC PC-FX
+Neo Geo
+Neo Geo CD
+Neo Geo Pocket
+NES
+Nintendo 3DS
+Nintendo 64
+Nintendo DS
+Nintendo GameCube
+Nintendo Switch
+Oculus Go
+Oculus Quest
+Odyssey
+Odyssey 2
+OnLive
+Ouya
+PC
+Philips CD-i
+Playdate
+PlayStation
+PlayStation 2
+PlayStation 3
+PlayStation 4
+PlayStation 5
+PlayStation Mobile
+PlayStation Now
+PlayStation Portable
+PlayStation Vita
+Plug & Play
+Sega 32X
+Sega CD
+Sega Game Gear
+Sega Master System
+Sega Mega Drive/Genesis
+Sega Pico
+Sega Saturn
+SG-1000
+Sharp X1
+Sharp X68000
+Super Nintendo
+Tiger Handheld
+TurboGrafx-16
+TurboGrafx-CD
+Virtual Boy
+Wii
+Wii U
+Windows Phone
+WonderSwan
+Xbox
+Xbox 360
+Xbox One
+Xbox Series X/S
+Zeebo
+ZX Spectrum
+ZX81
