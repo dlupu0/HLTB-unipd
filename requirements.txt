@@ -1,0 +1,6 @@
+In order to run the Jupyter notebooks the following Python libraries are needed:
+os
+pathlib
+json
+pandas
+scrapy
