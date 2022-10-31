@@ -1,0 +1,100 @@
+Platform,Popular,Release date,Manufacturer,CPU,"""Bits""",North America,Europe,Japan,Rest of World,Global,Acronym
+3DO,,1993-10-04,Panasonic/Sanyo (Japan)/GoldStar (South Korea),RISC CPU ARM60 based on ARM architecture @ 12.5 MHz,32-bit,,,,,,
+Acorn Archimedes,,,,,,,,,,,
+Amazon Luna,,,,,,,,,,,
+Amiga,,,,,,,,,,,
+Amiga CD32,,1993-09-17,Commodore (Canada),Motorola 68EC020@ 14.18 MHz (PAL) 14.32 MHz (NTSC),32-bit,,0.1,,,0.1,CD32
+Amstrad CPC,,,,,,,,,,,
+Apple II,,,,,,,,,,,
+Arcade,,,,,,,,,,,
+Atari 2600,,1977-09-11,Atari Inc. (U.S.),MOS Technology 6507,8-bit (CPU),23.54,3.35,2.36,0.75,30.0,2600
+Atari 5200,,1982-11-01,Atari Inc. (U.S.),MOS 6502C @ 1.79 MHz,8-bit (CPU),,,,,1.0,5200
+Atari 7800,,1986-05-01,Atari Corporation (U.S.),Atari SALLY,8-bit,3.77,,,,3.77,7800
+Atari 8-bit Family,,,,,,,,,,,
+Atari Jaguar,,1993-11-23,Atari Corporation (U.S.),"Motorola 68000 @ 13.295 MHz, Custom 32-bit graphics RISC ""Tom"" @ 26.59 MHz, Custom 32-bit sound RISC ""Jerry"" @ 26.59 MHz","64-bit (64-bit graphics, 32-bit processor)",,,,,0.25,AJ
+Atari Jaguar CD,,1995-09-21,Atari Corporation (U.S.),?,64-bit (uses Jaguar processors),,,,,,
+Atari Lynx,,,,,,,,,,1.0,Lynx
+Atari ST,,,,,,,,,,,
+BBC Micro,,,,,,,,,,,
+Browser,,,,,,,,,,,
+ColecoVision,,1982-08-01,Coleco (U.S.),Zilog Z80,8-bit (CPU),,,,,2.0,CV
+Commodore 64,,1990-12-01,Commodore (Canada),MOS Technology 8500 @ 0.985 MHz,8-bit,,,,,,
+Commodore PET,,,,,,,,,,,
+Commodore VIC-20,,,,,,,,,,,
+Dreamcast,,1998-11-27,Sega (Japan),Hitachi SH-4 32-bit RISC @ 200 MHz,"128-bit (32-bit processor, 128-bit graphics)",3.9,1.91,2.25,1.07,9.13,DC
+Emulated,True,,,,,,,,,,
+FM Towns,,1993-02-20,Fujitsu (Japan),AMD 386SX at 16 MHz,32-bit,,,,,,
+Game & Watch,,,,,,,,,,,
+Game Boy,,,,,,43.18,40.05,32.47,2.99,118.69,GB
+Game Boy Advance,,,,,,40.39,21.31,16.96,2.85,81.51,GBA
+Game Boy Color,,,,,,,,,,,
+Gear VR,,,,,,,,,,,
+Gizmondo,,,,,,,,,,0.02,GIZ
+Google Stadia,,,,,,,,,,,
+Intellivision,,1980-01-01,Mattel Electronics (U.S.),General Instrument CP1610,16-bit (CPU),,,,,3.0,Int
+Interactive Movie,,,,,,,,,,,
+Linux,,,,,,,,,,,
+Mac,,,,,,,,,,,
+Mobile,,,,,,,,,,,
+MSX,,,,,,,,,,,
+N-Gage,,,,,,,,,,3.0,NGage
+NEC PC-88,,,,,,,,,,,
+NEC PC-98,,,,,,,,,,,
+NEC PC-FX,,,,,,,,,,,
+Neo Geo,,,,,,,,,,0.98,NG
+Neo Geo CD,,,,,,,,,,,
+Neo Geo Pocket,,,,,,,,,,,
+NES,,1983-07-15,Nintendo (Japan),Ricoh 2A03 processor (MOS Technology 6502 core),8-bit,,,,,,
+Nintendo 3DS,True,,,,,25.47,20.45,24.67,5.35,75.94,3DS
+Nintendo 64,,1996-06-23,Nintendo (Japan),NEC VR4300 @ 93.75 MHz,64-bit,20.11,6.35,5.54,0.93,32.93,N64
+Nintendo DS,,,,,,57.92,51.84,32.99,11.28,154.02,DS
+Nintendo GameCube,,2001-11-14,Nintendo (Japan),IBM PowerPC Gekko @ 486 MHz,"32-bit (CPU)
+128-bit (SIMD)",,,,,,
+Nintendo Switch,True,2017-03-03,Nintendo (Japan),Octa-core (4×ARM Cortex-A57 & 4×ARM Cortex-A53) @ 1.020 GHz,64-bit (CPU),40.95,28.8,26.52,17.75,114.01,NS
+Oculus Go,,,,,,,,,,,
+Oculus Quest,,,,,,,,,,,
+Odyssey,,,,,,,,,,,
+Odyssey 2,,1978-12-01,Magnavox (U.S.) / Philips (Netherlands),Intel 8048,8-bit (CPU),,,,,,
+OnLive,,,,,,,,,,,
+Ouya,,,,,,,,,,,
+PC,True,,,,,,,,,,
+Philips CD-i,,,,,,,,,,,
+Playdate,,,,,,,,,,,
+PlayStation,,1994-12-03,Sony (Japan),R3000 @ 33.8688 MHz,32-bit,40.78,31.09,21.59,9.04,102.49,PS
+PlayStation 2,,2000-03-04,Sony (Japan),"Emotion Engine @ 294.912 MHz (launch), 299 MHz (newer models)",128-bit (SIMD),53.65,55.28,23.18,26.59,158.7,PS2
+PlayStation 3,True,2006-11-11,Sony (Japan),3.2 GHz Cell Broadband Engine with 1 PPE & 7 SPEs,64-bit CPU with set of 128-bit registers,29.92,30.87,10.47,16.14,87.4,PS3
+PlayStation 4,True,2013-11-15,Sony (Japan),Semi-custom 8-core AMD x86-64 Jaguar 1.6 GHz CPU (integrated into APU),64-bit (CPU),38.19,45.92,9.57,23.32,117.01,PS4
+PlayStation 5,True,2020-11-12,Sony (Japan),"Custom 8-core AMD Zen 2, variable frequency, up to 3.5 GHz",64-bit (CPU),9.84,8.38,2.0,4.24,24.46,PS5
+PlayStation Mobile,,,,,,,,,,,
+PlayStation Now,True,,,,,,,,,,
+PlayStation Portable,,,,,,21.41,24.39,20.01,14.98,80.79,PSP
+PlayStation Vita,,,,,,2.7,3.94,5.73,3.44,15.82,PSV
+Plug & Play,,,,,,,,,,,
+Sega 32X,,1994-11-21,Sega (Japan),2 × SH-2 32-bit RISC @ 23 MHz,32-bit,,,,,0.8,S32X
+Sega CD,,1991-12-12,Sega (Japan),Motorola 68000 @ 12.5 MHz,"16-bit (16/32 bit processor, 16 bit graphics)",,,0.4,,2.24,SCD
+Sega Game Gear,,,,,,,,,,,
+Sega Master System,,1985-10-20,"Sega (Japan), Tec Toy (Brazil)",Zilog Z80 @ 4 MHz,8-bit,2.0,6.95,2.52,9.37,20.84,MS
+Sega Mega Drive/Genesis,,1988-10-29,Sega (Japan),"Motorola 68000 @ 7.6 MHz, Zilog Z80 @ 3.58 MHz","16-bit (16/32 bit processor, 16 bit graphics)",,,,,,
+Sega Pico,,1993-06-26,Sega/Majesco Entertainment (Japan),"Motorola 68000 @ 7.6 MHz, Zilog Z80 @ 3.58 MHz",16-bit,,,,,,
+Sega Saturn,,1994-11-22,Sega (Japan),2× Hitachi SH-2 @ 28.6 MHz,32-bit,1.83,1.1,5.8,0.53,9.26,SAT
+SG-1000,,1983-07-15,Sega (Japan),Zilog Z80 @ 3.58 MHz,8-bit,,,,,,
+Sharp X1,,,,,,,,,,,
+Sharp X68000,,,,,,,,,,,
+Super Nintendo,,1990-11-21,Nintendo (Japan),Ricoh 5A22 @ 3.58 MHz,16-bit,,,,,,
+Tiger Handheld,,,,,,,,,,,
+TurboGrafx-16,,,,,,0.75,,7.76,,10.0,TG16
+TurboGrafx-CD,,,,,,,,,,,
+Virtual Boy,,,,,,,,0.14,,0.77,VB
+Wii,,2006-11-19,Nintendo (Japan),"PowerPC 750-based IBM PowerPC ""Broadway"" @ 729 MHz; 2.9 GFLOPS",32-bit (CPU),,,,,,
+Wii U,True,2012-11-18,Nintendo (Japan),"PowerPC 750-based 1.24 GHz Tri-Core IBM PowerPC ""Espresso""",32-bit (CPU),,,,,,
+Windows Phone,,,,,,,,,,,
+WonderSwan,,,,,,,,3.5,,3.5,WS
+Xbox,,2001-11-15,Microsoft (U.S.),"Custom 733 MHz Intel Pentium III ""Coppermine-based"" processor","32-bit (CPU)
+128-bit (SIMD)",15.77,7.17,0.47,1.24,24.65,XB
+Xbox 360,True,2005-11-22,Microsoft (U.S.),Big-endian architecture 3.2 GHz PowerPC Tri-Core Xenon,"64-bit CPU
+128-bit extensions",47.09,25.08,1.66,11.9,85.73,X360
+Xbox One,True,2013-11-22,Microsoft (U.S.),Custom 1.75 GHz AMD 8-core APU (2 quad-core Jaguar modules),64-bit (CPU),31.61,13.01,0.12,6.54,51.28,XOne
+Xbox Series X/S,True,2020-11-10,Microsoft (U.S.),"Custom 8-core AMD Zen 2;Series X: 3.8 GHz, 3.6 GHz with SMTSeries S: 3.6 GHz, 3.4 GHz with SMT",64-bit (CPU),8.95,4.76,0.37,3.42,17.51,XS
+Zeebo,,2009-05-25,Zeebo Inc. (U.S.) / TecToy (Brazil),ARM11 / QDSP-5 in Qualcomm MSM SoC running at 528 MHz,32-bit (CPU),,,,,,
+ZX Spectrum,,,,,,,,,,,
+ZX81,,,,,,,,,,,

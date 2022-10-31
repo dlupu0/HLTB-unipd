@@ -8,7 +8,7 @@ Champion 2711,1978,Unisonic (U.S.),?,General Instrument CP1610,16-bit (CPU)
 Interton VC 4000,1978,Interton (Germany),?,Signetics 2650A,8-bit (CPU)
 Palladium Tele-Cassetten Game,1978,Palladium (Germany),?,,
 1292 Advanced Programmable Video System,1978,Audiosonic,?,Signetics 2650AI,8-bit (CPU)
-Magnavox Odyssey 2,December 1978,Magnavox (U.S.) / Philips (Netherlands),?,Intel 8048,8-bit (CPU)
+Odyssey 2,December 1978,Magnavox (U.S.) / Philips (Netherlands),?,Intel 8048,8-bit (CPU)
 APF Imagination Machine,1979,APF (U.S.),?,Motorola 6800,8-bit (CPU)
 Bandai Super Vision 8000,1979,Bandai (Japan),?,NEC D780C,8-bit (CPU)
 Intellivision,1980,Mattel Electronics (U.S.),ca. 3 million,General Instrument CP1610,16-bit (CPU)
@@ -23,14 +23,14 @@ Compact Vision TV Boy,October 1983,Gakken (Japan),?,Motorola MC6801,8-bit (CPU)
 Videopac+ G7400,1983,Philips (Netherlands),?,Intel 8048 @ 5.91 MHz,8-bit
 My Vision,1983,Nichibutsu (Japan),?,?,?
 Pyuuta Jr.,April 1983,Tomy (Japan),?,TMS9995,16-bit
-Sega SG-1000,"July 15, 1983",Sega (Japan),ca. 2 million,Zilog Z80 @ 3.58 MHz,8-bit
-NES/Family Computer (Famicom),"July 15, 1983",Nintendo (Japan),61.91 million,Ricoh 2A03 processor (MOS Technology 6502 core),8-bit
+SG-1000,"July 15, 1983",Sega (Japan),ca. 2 million,Zilog Z80 @ 3.58 MHz,8-bit
+NES,"July 15, 1983",Nintendo (Japan),61.91 million,Ricoh 2A03 processor (MOS Technology 6502 core),8-bit
 PV-1000,October 1983,Casio (Japan),?,Z80A clocked at 3.579 MHz,8-bit
 Epoch Super Cassette Vision,"July 17, 1984",Epoch (Japan),"400,000",NEC PD7801G,8-bit (CPU)
 Bridge Companion,1985,BBC/Heber (UK),?,Zilog Z80,8-bit
 Video Art,1985,LJN (U.S.),?,?,?
 Zemmix,1985,Daewoo Electronics (South Korea),?,Zilog Z80,8-bit
-Sega Mark III/Sega Master System,"October 20, 1985","Sega (Japan), Tec Toy (Brazil)",ca. 13 million,Zilog Z80 @ 4 MHz,8-bit
+Sega Master System,"October 20, 1985","Sega (Japan), Tec Toy (Brazil)",ca. 13 million,Zilog Z80 @ 4 MHz,8-bit
 Family Computer Disk System,"February 21, 1986",Nintendo (Japan),4.44 million,Ricoh 2A03 processor (MOS Technology 6502 core),8-bit
 Videosmarts,1986,"Connor Electronics (U.S.) (1986–1988), VTech (Hong Kong) (1989–1990)",?,?,?
 Atari 7800,May 1986,Atari Corporation (U.S.),?,Atari SALLY,8-bit
@@ -42,16 +42,16 @@ Terebikko,1988,Bandai (Japan),?,?,?
 VTech Socrates,1988,VTech (Hong Kong),?,Zilog Z80A,8-bit (CPU)
 Video Driver,October 1988,Sega (Japan),?,,?
 Amstrad GX4000,September 1990,Amstrad (UK),"ca. 14,000",Zilog Z80 @ 4 MHz,8-bit
-Commodore 64 Games System,December 1990,Commodore (Canada),"ca. 20,000",MOS Technology 8500 @ 0.985 MHz,8-bit
+Commodore 64,December 1990,Commodore (Canada),"ca. 20,000",MOS Technology 8500 @ 0.985 MHz,8-bit
 PC Engine/TurboGrafx-16,"October 30, 1987",NEC (Japan),ca. 10 million,Hudson Soft HuC6280,"16-bit (8-bit CPU, 16-bit graphics)"
-Sega Genesis/Mega Drive,"October 29, 1988",Sega (Japan),35.25 million,"Motorola 68000 @ 7.6 MHz, Zilog Z80 @ 3.58 MHz","16-bit (16/32 bit processor, 16 bit graphics)"
+Sega Mega Drive/Genesis,"October 29, 1988",Sega (Japan),35.25 million,"Motorola 68000 @ 7.6 MHz, Zilog Z80 @ 3.58 MHz","16-bit (16/32 bit processor, 16 bit graphics)"
 TurboGrafx-CD/CD-ROM²,"December 4, 1988",NEC (Japan),1.92 million,?,"16-bit (8-bit processor, 16-bit graphics)"
 PC Engine2/SuperGrafx,"December 8, 1989",NEC (Japan),"ca. 75,000",Hudson Soft HuC6280,"16-bit (8-bit CPU, 16-bit graphics)"
 Neo-Geo AES,"April 26, 1990",SNK (Japan),"ca. 750,000","Motorola 68000 @ 12 MHz, Zilog Z80A @ 4 MHz","24-bit (16/32 bit processor, 24 bit graphics)"
-Super NES/Super Famicom,"November 21, 1990",Nintendo (Japan),49.1 million,Ricoh 5A22 @ 3.58 MHz,16-bit
+Super Nintendo,"November 21, 1990",Nintendo (Japan),49.1 million,Ricoh 5A22 @ 3.58 MHz,16-bit
 Commodore CDTV,March 1991,Commodore (Canada),"ca. 54,800",Motorola 68000 @ 7 MHz,16-bit
 CD-i,"December 3, 1991",Various,ca. 1.5 million,Philips SCC68070 @ 15.5 MHz,16-bit (could be upgraded to 32-bit)
-Sega CD/Mega CD,"December 12, 1991",Sega (Japan),2.24 million,Motorola 68000 @ 12.5 MHz,"16-bit (16/32 bit processor, 16 bit graphics)"
+Sega CD,"December 12, 1991",Sega (Japan),2.24 million,Motorola 68000 @ 12.5 MHz,"16-bit (16/32 bit processor, 16 bit graphics)"
 Memorex VIS,June 1992,Memorex/Tandy Corp (U.S.),"ca. 11,000",Intel 80286 @ 12 MHz,16-bit
 Sega Pico,"June 26, 1993",Sega/Majesco Entertainment (Japan),ca. 3.8 million,"Motorola 68000 @ 7.6 MHz, Zilog Z80 @ 3.58 MHz",16-bit
 Picno,1992,Konami(Japan),?,?,?
@@ -60,14 +60,14 @@ Neo-Geo CD,"September 9, 1994",SNK (Japan),"570,000","Motorola 68000 @ 12 MHz, 
 Sega 32X,"November 21, 1994",Sega (Japan),"ca. 800,000",2 × SH-2 32-bit RISC @ 23 MHz,32-bit
 Satellaview,"April 23, 1995",Nintendo (Japan),"At least 100,000",?,16-bit
 Super A'Can,"October 25, 1995",Funtech (Taiwan),?,Motorola 68000 @ 10.738635 MHz,16-bit
-FM Towns Marty,"February 20, 1993",Fujitsu (Japan),"ca. 45,000",AMD 386SX at 16 MHz,32-bit
+FM Towns,"February 20, 1993",Fujitsu (Japan),"ca. 45,000",AMD 386SX at 16 MHz,32-bit
 Amiga CD32,"September 17, 1993",Commodore (Canada),"ca. 100,000",Motorola 68EC020@ 14.18 MHz (PAL) 14.32 MHz (NTSC),32-bit
-3DO Interactive Multiplayer,"October 4, 1993",Panasonic/Sanyo (Japan)/GoldStar (South Korea),ca. 2 million,RISC CPU ARM60 based on ARM architecture @ 12.5 MHz,32-bit
+3DO,"October 4, 1993",Panasonic/Sanyo (Japan)/GoldStar (South Korea),ca. 2 million,RISC CPU ARM60 based on ARM architecture @ 12.5 MHz,32-bit
 Atari Jaguar,"November 23, 1993",Atari Corporation (U.S.),"ca. 250,000","Motorola 68000 @ 13.295 MHz, Custom 32-bit graphics RISC ""Tom"" @ 26.59 MHz, Custom 32-bit sound RISC ""Jerry"" @ 26.59 MHz","64-bit (64-bit graphics, 32-bit processor)"
 CPS Changer,1994,Capcom (Japan),?,Motorola 68000 @ 10 MHz,16-bit
 Playdia,"September 23, 1994",Bandai (Japan),?,Toshiba TMP87C800F,8-bit
 Sega Saturn,"November 22, 1994",Sega (Japan),9.26 million,2× Hitachi SH-2 @ 28.6 MHz,32-bit
-Sony PlayStation,"December 3, 1994",Sony (Japan),102.49 million,R3000 @ 33.8688 MHz,32-bit
+PlayStation,"December 3, 1994",Sony (Japan),102.49 million,R3000 @ 33.8688 MHz,32-bit
 PC-FX,"December 23, 1994",NEC (Japan),"ca. 400,000",NEC V810,32-bit
 Apple Bandai Pippin,"March 28, 1995",Bandai (Japan)/Apple Inc. (U.S.),"ca. 42,000",PowerPC 603 RISC (66 MHz),32-bit
 Atari Jaguar CD,"September 21, 1995",Atari Corporation (U.S.),?,?,64-bit (uses Jaguar processors)
