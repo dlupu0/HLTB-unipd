@@ -1,0 +1,426 @@
+@prefix hltb: <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+hltb:11-bit-studios a hltb:Company ;
+    hltb:Company "11 bit studios"^^xsd:string .
+
+hltb:ace-team a hltb:Company ;
+    hltb:Company "ace team"^^xsd:string .
+
+hltb:alientrap a hltb:Company ;
+    hltb:Company "alientrap"^^xsd:string .
+
+hltb:ambrosia-software a hltb:Company ;
+    hltb:Company "ambrosia software"^^xsd:string .
+
+hltb:amplitude-studios a hltb:Company ;
+    hltb:Company "amplitude studios"^^xsd:string .
+
+hltb:ankama-games a hltb:Company ;
+    hltb:Company "ankama games"^^xsd:string .
+
+hltb:anna-anthropy a hltb:Company ;
+    hltb:Company "anna anthropy"^^xsd:string .
+
+hltb:arcane-kids a hltb:Company ;
+    hltb:Company "arcane kids"^^xsd:string .
+
+hltb:arcen-games a hltb:Company ;
+    hltb:Company "arcen games"^^xsd:string .
+
+hltb:arrowhead-game-studios a hltb:Company ;
+    hltb:Company "arrowhead game studios"^^xsd:string .
+
+hltb:artix-entertainment a hltb:Company ;
+    hltb:Company "artix entertainment"^^xsd:string .
+
+hltb:aventurine-sa a hltb:Company ;
+    hltb:Company "aventurine sa"^^xsd:string .
+
+hltb:basilisk-games a hltb:Company ;
+    hltb:Company "basilisk games"^^xsd:string .
+
+hltb:big-finish-games a hltb:Company ;
+    hltb:Company "big finish games"^^xsd:string .
+
+hltb:blitz-games-studios a hltb:Company ;
+    hltb:Company "blitz games studios"^^xsd:string .
+
+hltb:blue-fang-games a hltb:Company ;
+    hltb:Company "blue fang games"^^xsd:string .
+
+hltb:bohemia-interactive-studio a hltb:Company ;
+    hltb:Company "bohemia interactive studio"^^xsd:string .
+
+hltb:cbe-software a hltb:Company ;
+    hltb:Company "cbe software"^^xsd:string .
+
+hltb:ccp-games a hltb:Company ;
+    hltb:Company "ccp games"^^xsd:string .
+
+hltb:choice-provisions a hltb:Company ;
+    hltb:Company "choice provisions"^^xsd:string .
+
+hltb:christine-love a hltb:Company ;
+    hltb:Company "christine love"^^xsd:string .
+
+hltb:chronic-logic a hltb:Company ;
+    hltb:Company "chronic logic"^^xsd:string .
+
+hltb:cinemax a hltb:Company ;
+    hltb:Company "cinemax"^^xsd:string .
+
+hltb:clockstone a hltb:Company ;
+    hltb:Company "clockstone"^^xsd:string .
+
+hltb:coffee-stain-studios a hltb:Company ;
+    hltb:Company "coffee stain studios"^^xsd:string .
+
+hltb:colossal-order a hltb:Company ;
+    hltb:Company "colossal order"^^xsd:string .
+
+hltb:compulsion-games a hltb:Company ;
+    hltb:Company "compulsion games"^^xsd:string .
+
+hltb:croteam a hltb:Company ;
+    hltb:Company "croteam"^^xsd:string .
+
+hltb:curve-digital a hltb:Company ;
+    hltb:Company "curve digital"^^xsd:string .
+
+hltb:cypronia a hltb:Company ;
+    hltb:Company "cypronia"^^xsd:string .
+
+hltb:daedalic-entertainment a hltb:Company ;
+    hltb:Company "daedalic entertainment"^^xsd:string .
+
+hltb:daniel-remar a hltb:Company ;
+    hltb:Company "daniel remar"^^xsd:string .
+
+hltb:dennaton-games a hltb:Company ;
+    hltb:Company "dennaton games"^^xsd:string .
+
+hltb:digital-eel a hltb:Company ;
+    hltb:Company "digital eel"^^xsd:string .
+
+hltb:digital-happiness a hltb:Company ;
+    hltb:Company "digital happiness"^^xsd:string .
+
+hltb:drinkbox-studios a hltb:Company ;
+    hltb:Company "drinkbox studios"^^xsd:string .
+
+hltb:elixir-studios a hltb:Company ;
+    hltb:Company "elixir studios"^^xsd:string .
+
+hltb:eurocom a hltb:Company ;
+    hltb:Company "eurocom"^^xsd:string .
+
+hltb:facepunch-studios a hltb:Company ;
+    hltb:Company "facepunch studios"^^xsd:string .
+
+hltb:firefly-studios a hltb:Company ;
+    hltb:Company "firefly studios"^^xsd:string .
+
+hltb:flying-wild-hog a hltb:Company ;
+    hltb:Company "flying wild hog"^^xsd:string .
+
+hltb:freebird-games a hltb:Company ;
+    hltb:Company "freebird games"^^xsd:string .
+
+hltb:frictional-games a hltb:Company ;
+    hltb:Company "frictional games"^^xsd:string .
+
+hltb:frogwares a hltb:Company ;
+    hltb:Company "frogwares"^^xsd:string .
+
+hltb:frontier-developments a hltb:Company ;
+    hltb:Company "frontier developments"^^xsd:string .
+
+hltb:games-distillery a hltb:Company ;
+    hltb:Company "games distillery"^^xsd:string .
+
+hltb:garagegames a hltb:Company ;
+    hltb:Company "garagegames"^^xsd:string .
+
+hltb:greenheart-games a hltb:Company ;
+    hltb:Company "greenheart games"^^xsd:string .
+
+hltb:haemimont-games a hltb:Company ;
+    hltb:Company "haemimont games"^^xsd:string .
+
+hltb:halfbrick-studios a hltb:Company ;
+    hltb:Company "halfbrick studios"^^xsd:string .
+
+hltb:hanako-games a hltb:Company ;
+    hltb:Company "hanako games"^^xsd:string .
+
+hltb:heart-machine a hltb:Company ;
+    hltb:Company "heart machine"^^xsd:string .
+
+hltb:hexage a hltb:Company ;
+    hltb:Company "hexage"^^xsd:string .
+
+hltb:hidden-path-entertainment a hltb:Company ;
+    hltb:Company "hidden path entertainment"^^xsd:string .
+
+hltb:himalaya-studios a hltb:Company ;
+    hltb:Company "himalaya studios"^^xsd:string .
+
+hltb:hoplon-infotainment a hltb:Company ;
+    hltb:Company "hoplon infotainment"^^xsd:string .
+
+hltb:ice-pick-lodge a hltb:Company ;
+    hltb:Company "ice-pick lodge"^^xsd:string .
+
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#image-&-form> a hltb:Company ;
+    hltb:Company "image & form"^^xsd:string .
+
+hltb:inti-creates a hltb:Company ;
+    hltb:Company "inti creates"^^xsd:string .
+
+hltb:introversion-software a hltb:Company ;
+    hltb:Company "introversion software"^^xsd:string .
+
+hltb:invictus-games a hltb:Company ;
+    hltb:Company "invictus games"^^xsd:string .
+
+hltb:jagex a hltb:Company ;
+    hltb:Company "jagex"^^xsd:string .
+
+hltb:jonas-kyratzes a hltb:Company ;
+    hltb:Company "jonas kyratzes"^^xsd:string .
+
+hltb:keen-software-house a hltb:Company ;
+    hltb:Company "keen software house"^^xsd:string .
+
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#kiro'o-games> a hltb:Company ;
+    hltb:Company "kiro'o games"^^xsd:string .
+
+hltb:kunos-simulazioni a hltb:Company ;
+    hltb:Company "kunos simulazioni"^^xsd:string .
+
+hltb:laminar-research a hltb:Company ;
+    hltb:Company "laminar research"^^xsd:string .
+
+hltb:larian-studios a hltb:Company ;
+    hltb:Company "larian studios"^^xsd:string .
+
+hltb:lazy-8-studios a hltb:Company ;
+    hltb:Company "lazy 8 studios"^^xsd:string .
+
+hltb:little-green-men-games a hltb:Company ;
+    hltb:Company "little green men games"^^xsd:string .
+
+hltb:llamasoft a hltb:Company ;
+    hltb:Company "llamasoft"^^xsd:string .
+
+hltb:madfinger-games a hltb:Company ;
+    hltb:Company "madfinger games"^^xsd:string .
+
+hltb:mega-cat-studios a hltb:Company ;
+    hltb:Company "mega cat studios"^^xsd:string .
+
+hltb:messhof a hltb:Company ;
+    hltb:Company "messhof"^^xsd:string .
+
+hltb:midboss a hltb:Company ;
+    hltb:Company "midboss"^^xsd:string .
+
+hltb:mighty-rabbit-studios a hltb:Company ;
+    hltb:Company "mighty rabbit studios"^^xsd:string .
+
+hltb:mode-7-games a hltb:Company ;
+    hltb:Company "mode 7 games"^^xsd:string .
+
+hltb:mojang a hltb:Company ;
+    hltb:Company "mojang"^^xsd:string .
+
+hltb:molleindustria a hltb:Company ;
+    hltb:Company "molleindustria"^^xsd:string .
+
+hltb:moon-studios a hltb:Company ;
+    hltb:Company "moon studios"^^xsd:string .
+
+hltb:neocoregames a hltb:Company ;
+    hltb:Company "neocoregames"^^xsd:string .
+
+hltb:new-star-games a hltb:Company ;
+    hltb:Company "new star games"^^xsd:string .
+
+hltb:nicalis a hltb:Company ;
+    hltb:Company "nicalis"^^xsd:string .
+
+hltb:nival-interactive a hltb:Company ;
+    hltb:Company "nival interactive"^^xsd:string .
+
+hltb:owlchemy-labs a hltb:Company ;
+    hltb:Company "owlchemy labs"^^xsd:string .
+
+hltb:pixeljam-games a hltb:Company ;
+    hltb:Company "pixeljam games"^^xsd:string .
+
+hltb:positech-games a hltb:Company ;
+    hltb:Company "positech games"^^xsd:string .
+
+hltb:provox-games a hltb:Company ;
+    hltb:Company "provox games"^^xsd:string .
+
+hltb:psyonix-studios a hltb:Company ;
+    hltb:Company "psyonix studios"^^xsd:string .
+
+hltb:puppy-games a hltb:Company ;
+    hltb:Company "puppy games"^^xsd:string .
+
+hltb:q-games a hltb:Company ;
+    hltb:Company "q-games"^^xsd:string .
+
+hltb:rake-in-grass a hltb:Company ;
+    hltb:Company "rake in grass"^^xsd:string .
+
+hltb:red-thread-games a hltb:Company ;
+    hltb:Company "red thread games"^^xsd:string .
+
+hltb:relentless-software a hltb:Company ;
+    hltb:Company "relentless software"^^xsd:string .
+
+hltb:renegade-kid a hltb:Company ;
+    hltb:Company "renegade kid"^^xsd:string .
+
+hltb:roll7 a hltb:Company ;
+    hltb:Company "roll7"^^xsd:string .
+
+hltb:rovio-entertainment a hltb:Company ;
+    hltb:Company "rovio entertainment"^^xsd:string .
+
+hltb:s2-games a hltb:Company ;
+    hltb:Company "s2 games"^^xsd:string .
+
+hltb:saber-interactive a hltb:Company ;
+    hltb:Company "saber interactive"^^xsd:string .
+
+hltb:sandlot-games a hltb:Company ;
+    hltb:Company "sandlot games"^^xsd:string .
+
+hltb:schell-games a hltb:Company ;
+    hltb:Company "schell games"^^xsd:string .
+
+hltb:scott-cawthon a hltb:Company ;
+    hltb:Company "scott cawthon"^^xsd:string .
+
+hltb:sidhe a hltb:Company ;
+    hltb:Company "sidhe"^^xsd:string .
+
+hltb:silver-creek-entertainment a hltb:Company ;
+    hltb:Company "silver creek entertainment"^^xsd:string .
+
+hltb:simogo a hltb:Company ;
+    hltb:Company "simogo"^^xsd:string .
+
+hltb:ska-studios a hltb:Company ;
+    hltb:Company "ska studios"^^xsd:string .
+
+hltb:skygoblin a hltb:Company ;
+    hltb:Company "skygoblin"^^xsd:string .
+
+hltb:soldak-entertainment a hltb:Company ;
+    hltb:Company "soldak entertainment"^^xsd:string .
+
+hltb:spiderweb-software a hltb:Company ;
+    hltb:Company "spiderweb software"^^xsd:string .
+
+hltb:splash-damage a hltb:Company ;
+    hltb:Company "splash damage"^^xsd:string .
+
+hltb:squad a hltb:Company ;
+    hltb:Company "squad"^^xsd:string .
+
+hltb:stardock a hltb:Company ;
+    hltb:Company "stardock"^^xsd:string .
+
+hltb:studio-pixel a hltb:Company ;
+    hltb:Company "studio pixel"^^xsd:string .
+
+hltb:subatomic-studios a hltb:Company ;
+    hltb:Company "subatomic studios"^^xsd:string .
+
+hltb:supergiant-games a hltb:Company ;
+    hltb:Company "supergiant games"^^xsd:string .
+
+hltb:supervillain-studios a hltb:Company ;
+    hltb:Company "supervillain studios"^^xsd:string .
+
+hltb:tale-of-tales a hltb:Company ;
+    hltb:Company "tale of tales"^^xsd:string .
+
+hltb:taleworlds a hltb:Company ;
+    hltb:Company "taleworlds"^^xsd:string .
+
+hltb:tarsier-studios a hltb:Company ;
+    hltb:Company "tarsier studios"^^xsd:string .
+
+hltb:team-shanghai-alice a hltb:Company ;
+    hltb:Company "team shanghai alice"^^xsd:string .
+
+hltb:telltale-games a hltb:Company ;
+    hltb:Company "telltale games"^^xsd:string .
+
+hltb:terri-vellmann a hltb:Company ;
+    hltb:Company "terri vellmann"^^xsd:string .
+
+hltb:terry-cavanagh a hltb:Company ;
+    hltb:Company "terry cavanagh"^^xsd:string .
+
+hltb:three-rings-design a hltb:Company ;
+    hltb:Company "three rings design"^^xsd:string .
+
+hltb:toby-fox a hltb:Company ;
+    hltb:Company "toby fox"^^xsd:string .
+
+hltb:tomorrow-corporation a hltb:Company ;
+    hltb:Company "tomorrow corporation"^^xsd:string .
+
+hltb:torpex-games a hltb:Company ;
+    hltb:Company "torpex games"^^xsd:string .
+
+hltb:trendy-entertainment a hltb:Company ;
+    hltb:Company "trendy entertainment"^^xsd:string .
+
+hltb:tribute-games a hltb:Company ;
+    hltb:Company "tribute games"^^xsd:string .
+
+hltb:trickster-arts a hltb:Company ;
+    hltb:Company "trickster arts"^^xsd:string .
+
+hltb:uber-entertainment a hltb:Company ;
+    hltb:Company "uber entertainment"^^xsd:string .
+
+hltb:vectorpark a hltb:Company ;
+    hltb:Company "vectorpark"^^xsd:string .
+
+hltb:voxelstorm a hltb:Company ;
+    hltb:Company "voxelstorm"^^xsd:string .
+
+hltb:wadjet-eye-games a hltb:Company ;
+    hltb:Company "wadjet eye games"^^xsd:string .
+
+hltb:wolfire-games a hltb:Company ;
+    hltb:Company "wolfire games"^^xsd:string .
+
+hltb:yacht-club-games a hltb:Company ;
+    hltb:Company "yacht club games"^^xsd:string .
+
+hltb:young-horses a hltb:Company ;
+    hltb:Company "young horses"^^xsd:string .
+
+hltb:zoetrope-interactive a hltb:Company ;
+    hltb:Company "zoetrope interactive"^^xsd:string .
+
+hltb:zoink a hltb:Company ;
+    hltb:Company "zoink"^^xsd:string .
+
+hltb:zoonami a hltb:Company ;
+    hltb:Company "zoonami"^^xsd:string .
+
+hltb:zootfly a hltb:Company ;
+    hltb:Company "zootfly"^^xsd:string .
+
