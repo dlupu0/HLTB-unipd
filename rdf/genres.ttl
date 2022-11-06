@@ -1,0 +1,1113 @@
+@prefix hltb: <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#-adventure-puzzle> a hltb:Genre ;
+    hltb:name " adventure-puzzle"^^xsd:string .
+
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#-fantasy> a hltb:Genre ;
+    hltb:name " Fantasy"^^xsd:string .
+
+hltb:2.5d-platform-game a hltb:Genre ;
+    hltb:name "2.5D Platform game"^^xsd:string .
+
+hltb:2.5d-platformer a hltb:Genre ;
+    hltb:name "2.5D Platformer"^^xsd:string .
+
+hltb:2d-action-platformer a hltb:Genre ;
+    hltb:name "2D Action Platformer"^^xsd:string,
+        "2D Action platformer"^^xsd:string,
+        "2D action platformer"^^xsd:string .
+
+hltb:2d-puzzle-platformer a hltb:Genre ;
+    hltb:name "2D puzzle platformer"^^xsd:string .
+
+hltb:2d-versus-fighting a hltb:Genre ;
+    hltb:name "2D versus fighting"^^xsd:string .
+
+hltb:2d-weapon-based-fighting a hltb:Genre ;
+    hltb:name "2D weapon based fighting"^^xsd:string .
+
+hltb:2d-weapon-based-versus-fighting a hltb:Genre ;
+    hltb:name "2D Weapon Based Versus fighting"^^xsd:string .
+
+hltb:3-d a hltb:Genre ;
+    hltb:name "3-D"^^xsd:string .
+
+hltb:3d-platform a hltb:Genre ;
+    hltb:name "3D Platform"^^xsd:string .
+
+hltb:3d-platformer a hltb:Genre ;
+    hltb:name "3D Platformer"^^xsd:string .
+
+hltb:4x a hltb:Genre ;
+    hltb:name "4X"^^xsd:string .
+
+hltb:action a hltb:Genre ;
+    hltb:name "Action"^^xsd:string,
+        "action"^^xsd:string .
+
+hltb:action-\(interactive-movie\) a hltb:Genre ;
+    hltb:name "Action (Interactive movie)"^^xsd:string .
+
+hltb:action-\(rail-shooter\) a hltb:Genre ;
+    hltb:name "Action (Rail shooter)"^^xsd:string .
+
+hltb:action-adventure a hltb:Genre ;
+    hltb:name "Action Adventure"^^xsd:string,
+        "Action adventure"^^xsd:string,
+        "Action-Adventure"^^xsd:string,
+        "Action-adventure"^^xsd:string,
+        "action adventure"^^xsd:string,
+        "action-adventure"^^xsd:string .
+
+hltb:action-adventure-game a hltb:Genre ;
+    hltb:name "Action-adventure game"^^xsd:string .
+
+hltb:action-driving a hltb:Genre ;
+    hltb:name "Action Driving"^^xsd:string .
+
+hltb:action-game a hltb:Genre ;
+    hltb:name "Action game"^^xsd:string .
+
+hltb:action-role-playing a hltb:Genre ;
+    hltb:name "Action role-playing"^^xsd:string .
+
+hltb:action-role-playing-\(hack-and-slash\) a hltb:Genre ;
+    hltb:name "Action role-playing (hack and slash)"^^xsd:string .
+
+hltb:action-role-playing-game a hltb:Genre ;
+    hltb:name "Action role-playing game"^^xsd:string .
+
+hltb:action-rpg a hltb:Genre ;
+    hltb:name "Action RPG"^^xsd:string .
+
+hltb:action-shooter a hltb:Genre ;
+    hltb:name "Action Shooter"^^xsd:string .
+
+hltb:ad a hltb:Genre ;
+    hltb:name "Ad"^^xsd:string .
+
+hltb:adventure a hltb:Genre ;
+    hltb:name "Adventure"^^xsd:string,
+        "adventure"^^xsd:string .
+
+hltb:adventure-game a hltb:Genre ;
+    hltb:name "Adventure game"^^xsd:string .
+
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#adventure.> a hltb:Genre ;
+    hltb:name "Adventure."^^xsd:string .
+
+hltb:aerial-combat a hltb:Genre ;
+    hltb:name "Aerial combat"^^xsd:string .
+
+hltb:american-football a hltb:Genre ;
+    hltb:name "American football"^^xsd:string .
+
+hltb:anazign a hltb:Genre ;
+    hltb:name "ANAZIGN"^^xsd:string .
+
+hltb:arcade a hltb:Genre ;
+    hltb:name "Arcade"^^xsd:string,
+        "arcade"^^xsd:string .
+
+hltb:arcade-golf a hltb:Genre ;
+    hltb:name "Arcade Golf"^^xsd:string .
+
+hltb:arcade-racing a hltb:Genre ;
+    hltb:name "Arcade Racing"^^xsd:string .
+
+hltb:arcade-shooter a hltb:Genre ;
+    hltb:name "Arcade Shooter"^^xsd:string .
+
+hltb:arcade-soccer a hltb:Genre ;
+    hltb:name "Arcade Soccer"^^xsd:string .
+
+hltb:arcade-style-racing a hltb:Genre ;
+    hltb:name "Arcade-style racing"^^xsd:string .
+
+hltb:arena-fighting a hltb:Genre ;
+    hltb:name "Arena Fighting"^^xsd:string .
+
+hltb:art a hltb:Genre ;
+    hltb:name "Art"^^xsd:string .
+
+hltb:art-game a hltb:Genre ;
+    hltb:name "Art game"^^xsd:string .
+
+hltb:artillery a hltb:Genre ;
+    hltb:name "Artillery"^^xsd:string .
+
+hltb:artillery-game a hltb:Genre ;
+    hltb:name "Artillery game"^^xsd:string .
+
+hltb:augmented-reality a hltb:Genre ;
+    hltb:name "Augmented Reality"^^xsd:string .
+
+hltb:battle-arena a hltb:Genre ;
+    hltb:name "Battle Arena"^^xsd:string .
+
+hltb:beat a hltb:Genre ;
+    hltb:name "Beat"^^xsd:string .
+
+hltb:beat-em-up a hltb:Genre ;
+    hltb:name "Beat 'em Up"^^xsd:string,
+        "Beat 'em up"^^xsd:string,
+        "Beat-em-up"^^xsd:string,
+        "beat 'em up"^^xsd:string,
+        "beat-em-up"^^xsd:string .
+
+hltb:beat-em-up-action a hltb:Genre ;
+    hltb:name "Beat 'em up action"^^xsd:string .
+
+hltb:beatem-up a hltb:Genre ;
+    hltb:name "Beat'em up"^^xsd:string .
+
+hltb:block-breaker a hltb:Genre ;
+    hltb:name "Block-breaker"^^xsd:string .
+
+hltb:block-breaking a hltb:Genre ;
+    hltb:name "Block-Breaking"^^xsd:string .
+
+hltb:board-game a hltb:Genre ;
+    hltb:name "Board Game"^^xsd:string .
+
+hltb:boat-racing a hltb:Genre ;
+    hltb:name "Boat racing"^^xsd:string .
+
+hltb:brawler a hltb:Genre ;
+    hltb:name "brawler"^^xsd:string .
+
+hltb:breakout a hltb:Genre ;
+    hltb:name "Breakout"^^xsd:string .
+
+hltb:breakout-clone a hltb:Genre ;
+    hltb:name "Breakout clone"^^xsd:string .
+
+hltb:business-simulation a hltb:Genre ;
+    hltb:name "Business Simulation"^^xsd:string,
+        "Business simulation"^^xsd:string .
+
+hltb:business-simulation-game a hltb:Genre ;
+    hltb:name "Business simulation game"^^xsd:string .
+
+hltb:car-combat a hltb:Genre ;
+    hltb:name "Car Combat"^^xsd:string,
+        "Car combat"^^xsd:string .
+
+hltb:card a hltb:Genre ;
+    hltb:name "Card"^^xsd:string .
+
+hltb:card-battle a hltb:Genre ;
+    hltb:name "Card Battle"^^xsd:string,
+        "Card battle"^^xsd:string .
+
+hltb:card-game a hltb:Genre ;
+    hltb:name "Card Game"^^xsd:string,
+        "Card game"^^xsd:string .
+
+hltb:cart-racer a hltb:Genre ;
+    hltb:name "Cart Racer"^^xsd:string .
+
+hltb:casual a hltb:Genre ;
+    hltb:name "Casual"^^xsd:string .
+
+hltb:chess a hltb:Genre ;
+    hltb:name "Chess"^^xsd:string .
+
+hltb:cinematic-platformer a hltb:Genre ;
+    hltb:name "Cinematic platformer"^^xsd:string .
+
+hltb:city-builder a hltb:Genre ;
+    hltb:name "City-Builder"^^xsd:string .
+
+hltb:city-building a hltb:Genre ;
+    hltb:name "City-Building"^^xsd:string,
+        "City-building"^^xsd:string,
+        "city-building"^^xsd:string .
+
+hltb:city-building-game a hltb:Genre ;
+    hltb:name "city-building game"^^xsd:string .
+
+hltb:collectible-card-game a hltb:Genre ;
+    hltb:name "collectible card game"^^xsd:string .
+
+hltb:combat a hltb:Genre ;
+    hltb:name "Combat"^^xsd:string .
+
+hltb:combat-flight-simulator a hltb:Genre ;
+    hltb:name "Combat Flight Simulator"^^xsd:string,
+        "Combat flight simulator"^^xsd:string .
+
+hltb:combat-simulation a hltb:Genre ;
+    hltb:name "Combat Simulation"^^xsd:string .
+
+hltb:combat-simulator a hltb:Genre ;
+    hltb:name "combat simulator"^^xsd:string .
+
+hltb:comedy-adventure a hltb:Genre ;
+    hltb:name "Comedy-adventure"^^xsd:string .
+
+hltb:compilation a hltb:Genre ;
+    hltb:name "Compilation"^^xsd:string .
+
+hltb:computer-role-playing a hltb:Genre ;
+    hltb:name "Computer role-playing"^^xsd:string .
+
+hltb:computer-role-playing-game a hltb:Genre ;
+    hltb:name "Computer role-playing game"^^xsd:string .
+
+hltb:console-role-playing a hltb:Genre ;
+    hltb:name "Console role-playing"^^xsd:string .
+
+hltb:console-rpg a hltb:Genre ;
+    hltb:name "Console RPG"^^xsd:string .
+
+hltb:construction a hltb:Genre ;
+    hltb:name "Construction"^^xsd:string .
+
+hltb:construction-and-management-simulation a hltb:Genre ;
+    hltb:name "Construction and management simulation"^^xsd:string .
+
+hltb:crossover a hltb:Genre ;
+    hltb:name "Crossover"^^xsd:string .
+
+hltb:cyberpunk a hltb:Genre ;
+    hltb:name "Cyberpunk"^^xsd:string .
+
+hltb:date-simulation a hltb:Genre ;
+    hltb:name "Date Simulation"^^xsd:string .
+
+hltb:dating a hltb:Genre ;
+    hltb:name "Dating"^^xsd:string .
+
+hltb:digital-pet a hltb:Genre ;
+    hltb:name "Digital pet"^^xsd:string,
+        "digital pet"^^xsd:string .
+
+hltb:dramatic a hltb:Genre ;
+    hltb:name "Dramatic"^^xsd:string .
+
+hltb:driving a hltb:Genre ;
+    hltb:name "Driving"^^xsd:string .
+
+hltb:driving-sandbox a hltb:Genre ;
+    hltb:name "Driving Sandbox"^^xsd:string .
+
+hltb:dungeon-crawl a hltb:Genre ;
+    hltb:name "Dungeon Crawl"^^xsd:string,
+        "dungeon crawl"^^xsd:string .
+
+hltb:dungeon-crawler a hltb:Genre ;
+    hltb:name "Dungeon Crawler"^^xsd:string,
+        "Dungeon crawler"^^xsd:string .
+
+hltb:dungeon-crawler-rpg a hltb:Genre ;
+    hltb:name "Dungeon Crawler RPG"^^xsd:string .
+
+hltb:educational a hltb:Genre ;
+    hltb:name "Educational"^^xsd:string,
+        "educational"^^xsd:string .
+
+hltb:edutainment a hltb:Genre ;
+    hltb:name "Edutainment"^^xsd:string .
+
+hltb:emergent a hltb:Genre ;
+    hltb:name "Emergent"^^xsd:string .
+
+hltb:exercise a hltb:Genre ;
+    hltb:name "Exercise"^^xsd:string .
+
+hltb:extreme-racing a hltb:Genre ;
+    hltb:name "Extreme racing"^^xsd:string .
+
+hltb:extreme-sports a hltb:Genre ;
+    hltb:name "Extreme Sports"^^xsd:string,
+        "Extreme sports"^^xsd:string .
+
+hltb:family a hltb:Genre ;
+    hltb:name "Family"^^xsd:string .
+
+hltb:family-games a hltb:Genre ;
+    hltb:name "Family Games"^^xsd:string .
+
+hltb:fantasy-action-adventure a hltb:Genre ;
+    hltb:name "Fantasy action-adventure"^^xsd:string .
+
+hltb:fantasy-first-person-shooter a hltb:Genre ;
+    hltb:name "Fantasy First-person shooter"^^xsd:string .
+
+hltb:fantasy-romance-visual-novel a hltb:Genre ;
+    hltb:name "fantasy romance visual novel"^^xsd:string .
+
+hltb:fantasy-turn-based-strategy a hltb:Genre ;
+    hltb:name "Fantasy turn-based strategy"^^xsd:string .
+
+hltb:farm-simulation a hltb:Genre ;
+    hltb:name "Farm simulation"^^xsd:string .
+
+hltb:fighting a hltb:Genre ;
+    hltb:name "Fighting"^^xsd:string,
+        "fighting"^^xsd:string .
+
+hltb:fighting-action a hltb:Genre ;
+    hltb:name "Fighting Action"^^xsd:string .
+
+hltb:fighting-game a hltb:Genre ;
+    hltb:name "Fighting game"^^xsd:string .
+
+hltb:first-person a hltb:Genre ;
+    hltb:name "First person"^^xsd:string,
+        "First-Person"^^xsd:string,
+        "First-person"^^xsd:string .
+
+hltb:first-person-action a hltb:Genre ;
+    hltb:name "First-person Action"^^xsd:string .
+
+hltb:first-person-adventure a hltb:Genre ;
+    hltb:name "First-person adventure"^^xsd:string .
+
+hltb:first-person-shooter a hltb:Genre ;
+    hltb:name "First Person Shooter"^^xsd:string,
+        "First person shooter"^^xsd:string,
+        "First-Person Shooter"^^xsd:string,
+        "First-person Shooter"^^xsd:string,
+        "First-person shooter"^^xsd:string,
+        "first person shooter"^^xsd:string,
+        "first-person shooter"^^xsd:string .
+
+hltb:first-person-shooter-and-puzzle a hltb:Genre ;
+    hltb:name "First-person shooter and puzzle"^^xsd:string .
+
+hltb:first-person-slasher a hltb:Genre ;
+    hltb:name "First-person slasher"^^xsd:string .
+
+hltb:first-peson a hltb:Genre ;
+    hltb:name "First-Peson"^^xsd:string .
+
+hltb:fishing a hltb:Genre ;
+    hltb:name "Fishing"^^xsd:string .
+
+hltb:fitness a hltb:Genre ;
+    hltb:name "Fitness"^^xsd:string .
+
+hltb:flight a hltb:Genre ;
+    hltb:name "Flight"^^xsd:string .
+
+hltb:flight-combat a hltb:Genre ;
+    hltb:name "Flight Combat"^^xsd:string .
+
+hltb:flight-simulation a hltb:Genre ;
+    hltb:name "Flight Simulation"^^xsd:string,
+        "Flight simulation"^^xsd:string .
+
+hltb:flight-simulator a hltb:Genre ;
+    hltb:name "Flight simulator"^^xsd:string,
+        "flight simulator"^^xsd:string .
+
+hltb:flying-platformer a hltb:Genre ;
+    hltb:name "Flying Platformer"^^xsd:string .
+
+hltb:fmv a hltb:Genre ;
+    hltb:name "FMV"^^xsd:string .
+
+hltb:fmv-rail-shooter a hltb:Genre ;
+    hltb:name "FMV rail shooter"^^xsd:string .
+
+hltb:fps a hltb:Genre ;
+    hltb:name "FPS"^^xsd:string .
+
+hltb:game-show a hltb:Genre ;
+    hltb:name "Game Show"^^xsd:string .
+
+hltb:god-game a hltb:Genre ;
+    hltb:name "God game"^^xsd:string,
+        "god game"^^xsd:string .
+
+hltb:golf a hltb:Genre ;
+    hltb:name "Golf"^^xsd:string .
+
+hltb:gothic-horror a hltb:Genre ;
+    hltb:name "Gothic horror"^^xsd:string .
+
+hltb:grand-strategy a hltb:Genre ;
+    hltb:name "Grand strategy"^^xsd:string .
+
+hltb:graphic-adventure a hltb:Genre ;
+    hltb:name "Graphic Adventure"^^xsd:string,
+        "Graphic adventure"^^xsd:string,
+        "graphic adventure"^^xsd:string .
+
+hltb:hack-and-slash a hltb:Genre ;
+    hltb:name "Hack and Slash"^^xsd:string,
+        "Hack and slash"^^xsd:string,
+        "Hack-and-slash"^^xsd:string,
+        "hack and slash"^^xsd:string .
+
+hltb:hack-n-slash a hltb:Genre ;
+    hltb:name "Hack 'n' Slash"^^xsd:string .
+
+hltb:hacking-simulation a hltb:Genre ;
+    hltb:name "Hacking simulation"^^xsd:string .
+
+hltb:hidden-object a hltb:Genre ;
+    hltb:name "Hidden Object"^^xsd:string .
+
+hltb:historic-action-adventure a hltb:Genre ;
+    hltb:name "Historic action-adventure"^^xsd:string .
+
+hltb:historical-real-time-strategy a hltb:Genre ;
+    hltb:name "Historical Real-Time Strategy"^^xsd:string .
+
+hltb:history a hltb:Genre ;
+    hltb:name "History"^^xsd:string .
+
+hltb:horror a hltb:Genre ;
+    hltb:name "Horror"^^xsd:string .
+
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#http:> a hltb:Genre ;
+    hltb:name "http:"^^xsd:string .
+
+hltb:indie a hltb:Genre ;
+    hltb:name "Indie"^^xsd:string .
+
+hltb:innovative-rpg a hltb:Genre ;
+    hltb:name "Innovative RPG"^^xsd:string .
+
+hltb:interactive-art a hltb:Genre ;
+    hltb:name "Interactive Art"^^xsd:string .
+
+hltb:interactive-drama a hltb:Genre ;
+    hltb:name "Interactive drama"^^xsd:string .
+
+hltb:interactive-fiction a hltb:Genre ;
+    hltb:name "Interactive Fiction"^^xsd:string .
+
+hltb:interactive-movie a hltb:Genre ;
+    hltb:name "Interactive Movie"^^xsd:string,
+        "Interactive movie"^^xsd:string,
+        "interactive movie"^^xsd:string .
+
+hltb:isometric-shooter a hltb:Genre ;
+    hltb:name "Isometric Shooter"^^xsd:string .
+
+hltb:kart-racer a hltb:Genre ;
+    hltb:name "Kart Racer"^^xsd:string .
+
+hltb:kart-racing a hltb:Genre ;
+    hltb:name "Kart Racing"^^xsd:string .
+
+hltb:kickboxing a hltb:Genre ;
+    hltb:name "Kickboxing"^^xsd:string .
+
+hltb:life-simulation a hltb:Genre ;
+    hltb:name "Life Simulation"^^xsd:string,
+        "Life simulation"^^xsd:string .
+
+hltb:life-simulation-game a hltb:Genre ;
+    hltb:name "Life simulation game"^^xsd:string .
+
+hltb:light-gun a hltb:Genre ;
+    hltb:name "Light Gun"^^xsd:string,
+        "Light gun"^^xsd:string .
+
+hltb:light-gun-shooter a hltb:Genre ;
+    hltb:name "Light Gun Shooter"^^xsd:string,
+        "Light gun shooter"^^xsd:string,
+        "Light-Gun Shooter"^^xsd:string .
+
+hltb:manic-shooter a hltb:Genre ;
+    hltb:name "Manic shooter"^^xsd:string .
+
+hltb:massively-multiplayer a hltb:Genre ;
+    hltb:name "Massively Multiplayer"^^xsd:string .
+
+hltb:maze a hltb:Genre ;
+    hltb:name "Maze"^^xsd:string .
+
+hltb:mech-simulator a hltb:Genre ;
+    hltb:name "Mech Simulator"^^xsd:string,
+        "Mech simulator"^^xsd:string .
+
+hltb:mecha a hltb:Genre ;
+    hltb:name "Mecha"^^xsd:string .
+
+hltb:mecha-simulation a hltb:Genre ;
+    hltb:name "Mecha Simulation"^^xsd:string,
+        "Mecha simulation"^^xsd:string .
+
+hltb:mecha-simulation-game a hltb:Genre ;
+    hltb:name "Mecha simulation game"^^xsd:string .
+
+hltb:medical-simulation a hltb:Genre ;
+    hltb:name "Medical simulation"^^xsd:string .
+
+hltb:medieval- a hltb:Genre ;
+    hltb:name "Medieval "^^xsd:string .
+
+hltb:medieval-fantasy-action a hltb:Genre ;
+    hltb:name "Medieval Fantasy Action"^^xsd:string .
+
+hltb:mini-game-compilation a hltb:Genre ;
+    hltb:name "Mini-game compilation"^^xsd:string .
+
+hltb:mini-games a hltb:Genre ;
+    hltb:name "Mini-Games"^^xsd:string .
+
+hltb:minigames a hltb:Genre ;
+    hltb:name "minigames"^^xsd:string .
+
+hltb:mmor a hltb:Genre ;
+    hltb:name "MMOR"^^xsd:string .
+
+hltb:mmorpg a hltb:Genre ;
+    hltb:name "MMORPG"^^xsd:string .
+
+hltb:moba a hltb:Genre ;
+    hltb:name "Moba"^^xsd:string .
+
+hltb:multi-directional-shooter a hltb:Genre ;
+    hltb:name "Multi-Directional Shooter"^^xsd:string,
+        "Multi-directional shooter"^^xsd:string .
+
+hltb:multidirectional a hltb:Genre ;
+    hltb:name "Multidirectional"^^xsd:string .
+
+hltb:multidirectional-shooter a hltb:Genre ;
+    hltb:name "Multidirectional shooter"^^xsd:string .
+
+hltb:music a hltb:Genre ;
+    hltb:name "Music"^^xsd:string,
+        "music"^^xsd:string .
+
+hltb:musical a hltb:Genre ;
+    hltb:name "Musical"^^xsd:string .
+
+hltb:mystery a hltb:Genre ;
+    hltb:name "Mystery"^^xsd:string .
+
+hltb:off-road-arcade-racing a hltb:Genre ;
+    hltb:name "Off-road arcade racing"^^xsd:string .
+
+hltb:off-road-racing a hltb:Genre ;
+    hltb:name "Off-road racing"^^xsd:string .
+
+hltb:on-rails a hltb:Genre ;
+    hltb:name "On-Rails"^^xsd:string .
+
+hltb:open-world a hltb:Genre ;
+    hltb:name "Open World"^^xsd:string,
+        "Open world"^^xsd:string,
+        "open world"^^xsd:string .
+
+hltb:party a hltb:Genre ;
+    hltb:name "Party"^^xsd:string .
+
+hltb:pc a hltb:Genre ;
+    hltb:name "PC"^^xsd:string .
+
+hltb:pedophilia a hltb:Genre ;
+    hltb:name "Pedophilia"^^xsd:string .
+
+hltb:pet-raising-simulation a hltb:Genre ;
+    hltb:name "Pet-raising simulation"^^xsd:string .
+
+hltb:pet-simulator a hltb:Genre ;
+    hltb:name "Pet Simulator"^^xsd:string .
+
+hltb:pinball a hltb:Genre ;
+    hltb:name "Pinball"^^xsd:string .
+
+hltb:platform a hltb:Genre ;
+    hltb:name "Platform"^^xsd:string,
+        "platform"^^xsd:string .
+
+hltb:platform-game a hltb:Genre ;
+    hltb:name "Platform game"^^xsd:string .
+
+hltb:platform-shoot-em-up a hltb:Genre ;
+    hltb:name "Platform shoot 'em up"^^xsd:string .
+
+hltb:platformer a hltb:Genre ;
+    hltb:name "Platformer"^^xsd:string,
+        "platformer"^^xsd:string .
+
+hltb:platforming a hltb:Genre ;
+    hltb:name "Platforming"^^xsd:string,
+        "platforming"^^xsd:string .
+
+hltb:poetic-adventure a hltb:Genre ;
+    hltb:name "Poetic Adventure"^^xsd:string .
+
+hltb:point-and-click a hltb:Genre ;
+    hltb:name "Point and Click"^^xsd:string,
+        "Point-and-Click"^^xsd:string .
+
+hltb:point-and-click-adventure a hltb:Genre ;
+    hltb:name "Point-and-click adventure"^^xsd:string .
+
+hltb:post-retro a hltb:Genre ;
+    hltb:name "post-retro"^^xsd:string .
+
+hltb:prinnies.com a hltb:Genre ;
+    hltb:name "prinnies.com"^^xsd:string .
+
+hltb:professional-wrestling a hltb:Genre ;
+    hltb:name "Professional wrestling"^^xsd:string .
+
+hltb:professional-wrestling-fighting a hltb:Genre ;
+    hltb:name "Professional wrestling Fighting"^^xsd:string .
+
+hltb:psychological-horror a hltb:Genre ;
+    hltb:name "Psychological horror"^^xsd:string .
+
+hltb:psychological-thriller a hltb:Genre ;
+    hltb:name "Psychological thriller"^^xsd:string .
+
+hltb:pub-games a hltb:Genre ;
+    hltb:name "Pub games"^^xsd:string .
+
+hltb:puzzle a hltb:Genre ;
+    hltb:name "Puzzle"^^xsd:string,
+        "puzzle"^^xsd:string .
+
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#puzzle-&-cards> a hltb:Genre ;
+    hltb:name "Puzzle & Cards"^^xsd:string .
+
+hltb:puzzle-game a hltb:Genre ;
+    hltb:name "Puzzle game"^^xsd:string .
+
+hltb:puzzle-platforming a hltb:Genre ;
+    hltb:name "Puzzle platforming"^^xsd:string .
+
+hltb:puzzle-rpg a hltb:Genre ;
+    hltb:name "Puzzle RPG"^^xsd:string .
+
+hltb:puzzles a hltb:Genre ;
+    hltb:name "Puzzles"^^xsd:string .
+
+hltb:quiz a hltb:Genre ;
+    hltb:name "Quiz"^^xsd:string .
+
+hltb:racing a hltb:Genre ;
+    hltb:name "Racing"^^xsd:string,
+        "racing"^^xsd:string .
+
+hltb:racing-game a hltb:Genre ;
+    hltb:name "Racing game"^^xsd:string .
+
+hltb:rail-shooter a hltb:Genre ;
+    hltb:name "Rail Shooter"^^xsd:string,
+        "Rail shooter"^^xsd:string,
+        "rail shooter"^^xsd:string .
+
+hltb:real-time a hltb:Genre ;
+    hltb:name "Real-Time"^^xsd:string .
+
+hltb:real-time-grand-strategy a hltb:Genre ;
+    hltb:name "Real-time grand strategy"^^xsd:string .
+
+hltb:real-time-strategy a hltb:Genre ;
+    hltb:name "Real Time Strategy"^^xsd:string,
+        "Real time strategy"^^xsd:string,
+        "Real-Time Strategy"^^xsd:string,
+        "Real-time Strategy"^^xsd:string,
+        "Real-time strategy"^^xsd:string,
+        "real-time strategy"^^xsd:string .
+
+hltb:real-time-tactical-rpg a hltb:Genre ;
+    hltb:name "Real-time tactical RPG"^^xsd:string .
+
+hltb:real-time-tactical-shooter a hltb:Genre ;
+    hltb:name "Real-time tactical shooter"^^xsd:string .
+
+hltb:real-time-tactics a hltb:Genre ;
+    hltb:name "Real-Time Tactics"^^xsd:string,
+        "Real-time Tactics"^^xsd:string,
+        "Real-time tactics"^^xsd:string,
+        "real-time tactics"^^xsd:string .
+
+hltb:rhythm a hltb:Genre ;
+    hltb:name "Rhythm"^^xsd:string .
+
+hltb:rhythm-game a hltb:Genre ;
+    hltb:name "Rhythm game"^^xsd:string .
+
+hltb:rhythm-simulation a hltb:Genre ;
+    hltb:name "Rhythm Simulation"^^xsd:string .
+
+hltb:roguelike a hltb:Genre ;
+    hltb:name "Roguelike"^^xsd:string .
+
+hltb:role-playing a hltb:Genre ;
+    hltb:name "Role Playing"^^xsd:string,
+        "Role playing"^^xsd:string,
+        "Role-Playing"^^xsd:string,
+        "Role-playing"^^xsd:string,
+        "role playing"^^xsd:string,
+        "role-playing"^^xsd:string .
+
+hltb:role-playing-game a hltb:Genre ;
+    hltb:name "Role-playing game"^^xsd:string .
+
+hltb:rpg a hltb:Genre ;
+    hltb:name "RPG"^^xsd:string .
+
+hltb:rts a hltb:Genre ;
+    hltb:name "RTS"^^xsd:string .
+
+hltb:run-and-gun a hltb:Genre ;
+    hltb:name "Run and Gun"^^xsd:string,
+        "Run and gun"^^xsd:string,
+        "run and gun"^^xsd:string .
+
+hltb:sandbox a hltb:Genre ;
+    hltb:name "Sandbox"^^xsd:string,
+        "sandbox"^^xsd:string .
+
+hltb:sci-fi-action-rpg a hltb:Genre ;
+    hltb:name "Sci-fi Action-RPG"^^xsd:string .
+
+hltb:sci-fi-puzzle-platform-game a hltb:Genre ;
+    hltb:name "Sci-fi puzzle-platform game"^^xsd:string .
+
+hltb:science-fiction a hltb:Genre ;
+    hltb:name "Science fiction"^^xsd:string .
+
+hltb:scrolling a hltb:Genre ;
+    hltb:name "Scrolling"^^xsd:string .
+
+hltb:scrolling-shooter a hltb:Genre ;
+    hltb:name "Scrolling Shooter"^^xsd:string,
+        "Scrolling shooter"^^xsd:string .
+
+hltb:shoot a hltb:Genre ;
+    hltb:name "Shoot"^^xsd:string .
+
+hltb:shoot-em-up a hltb:Genre ;
+    hltb:name "Shoot 'Em Up"^^xsd:string,
+        "Shoot 'em Up"^^xsd:string,
+        "Shoot 'em up"^^xsd:string,
+        "Shoot em' Up"^^xsd:string,
+        "Shoot em' up"^^xsd:string,
+        "Shoot-em-up"^^xsd:string,
+        "shoot 'em up"^^xsd:string .
+
+hltb:shoote a hltb:Genre ;
+    hltb:name "Shoote"^^xsd:string .
+
+hltb:shooter a hltb:Genre ;
+    hltb:name "Shooter"^^xsd:string,
+        "shooter"^^xsd:string .
+
+hltb:shooters a hltb:Genre ;
+    hltb:name "Shooters"^^xsd:string .
+
+hltb:shooting a hltb:Genre ;
+    hltb:name "Shooting"^^xsd:string,
+        "shooting"^^xsd:string .
+
+hltb:side a hltb:Genre ;
+    hltb:name "Side"^^xsd:string .
+
+hltb:side-scroller a hltb:Genre ;
+    hltb:name "Side Scroller"^^xsd:string,
+        "Side-Scroller"^^xsd:string,
+        "Side-scroller"^^xsd:string,
+        "side-scroller"^^xsd:string .
+
+hltb:side-scrolling a hltb:Genre ;
+    hltb:name "Side Scrolling"^^xsd:string,
+        "Side scrolling"^^xsd:string,
+        "Side-Scrolling"^^xsd:string,
+        "Side-scrolling"^^xsd:string,
+        "side-scrolling"^^xsd:string .
+
+hltb:side-scrolling-beat-em-up a hltb:Genre ;
+    hltb:name "Side-scrolling beat 'em up"^^xsd:string .
+
+hltb:side-scrolling-platform a hltb:Genre ;
+    hltb:name "Side-scrolling platform"^^xsd:string .
+
+hltb:side-scrolling-platform-game a hltb:Genre ;
+    hltb:name "Side-scrolling platform game"^^xsd:string .
+
+hltb:side-scrolling-shooter a hltb:Genre ;
+    hltb:name "Side-scrolling shooter"^^xsd:string .
+
+hltb:sidescroller a hltb:Genre ;
+    hltb:name "Sidescroller"^^xsd:string .
+
+hltb:simulation a hltb:Genre ;
+    hltb:name "Simulation"^^xsd:string,
+        "simulation"^^xsd:string .
+
+hltb:simulation-driving a hltb:Genre ;
+    hltb:name "Simulation Driving"^^xsd:string .
+
+hltb:simulator a hltb:Genre ;
+    hltb:name "Simulator"^^xsd:string .
+
+hltb:social a hltb:Genre ;
+    hltb:name "Social"^^xsd:string .
+
+hltb:social-simulation a hltb:Genre ;
+    hltb:name "Social simulation"^^xsd:string .
+
+hltb:space-combat a hltb:Genre ;
+    hltb:name "Space Combat"^^xsd:string .
+
+hltb:space-combat-sim a hltb:Genre ;
+    hltb:name "Space Combat Sim"^^xsd:string .
+
+hltb:space-combat-simulation a hltb:Genre ;
+    hltb:name "Space combat simulation"^^xsd:string .
+
+hltb:space-combat-simulator a hltb:Genre ;
+    hltb:name "Space combat simulator"^^xsd:string .
+
+hltb:space-shooter a hltb:Genre ;
+    hltb:name "space-shooter"^^xsd:string .
+
+hltb:space-simulation a hltb:Genre ;
+    hltb:name "Space Simulation"^^xsd:string,
+        "Space simulation"^^xsd:string .
+
+hltb:space-simulator a hltb:Genre ;
+    hltb:name "Space simulator"^^xsd:string .
+
+hltb:space-trading a hltb:Genre ;
+    hltb:name "Space trading"^^xsd:string .
+
+hltb:space-trading-and-combat-simulator a hltb:Genre ;
+    hltb:name "Space trading and combat simulator"^^xsd:string .
+
+hltb:sport a hltb:Genre ;
+    hltb:name "Sport"^^xsd:string .
+
+hltb:sports a hltb:Genre ;
+    hltb:name "Sports"^^xsd:string .
+
+hltb:sports-game a hltb:Genre ;
+    hltb:name "Sports game"^^xsd:string .
+
+hltb:stealth a hltb:Genre ;
+    hltb:name "Stealth"^^xsd:string,
+        "stealth"^^xsd:string .
+
+hltb:stealth-action a hltb:Genre ;
+    hltb:name "Stealth Action"^^xsd:string,
+        "Stealth action"^^xsd:string .
+
+hltb:stealth-based-game a hltb:Genre ;
+    hltb:name "Stealth-based game"^^xsd:string .
+
+hltb:stealth-game a hltb:Genre ;
+    hltb:name "Stealth game"^^xsd:string .
+
+hltb:steampunk a hltb:Genre ;
+    hltb:name "Steampunk"^^xsd:string .
+
+hltb:steath a hltb:Genre ;
+    hltb:name "Steath"^^xsd:string .
+
+hltb:strategy a hltb:Genre ;
+    hltb:name "Strategy"^^xsd:string,
+        "strategy"^^xsd:string .
+
+hltb:strategy-game a hltb:Genre ;
+    hltb:name "Strategy game"^^xsd:string .
+
+hltb:strategy-rpg a hltb:Genre ;
+    hltb:name "Strategy RPG"^^xsd:string,
+        "Strategy-RPG"^^xsd:string .
+
+hltb:strategy-side-scroller a hltb:Genre ;
+    hltb:name "strategy side-scroller"^^xsd:string .
+
+hltb:stratergy a hltb:Genre ;
+    hltb:name "Stratergy"^^xsd:string .
+
+hltb:submarine-adventure a hltb:Genre ;
+    hltb:name "Submarine adventure"^^xsd:string .
+
+hltb:submarine-simulator a hltb:Genre ;
+    hltb:name "Submarine simulator"^^xsd:string .
+
+hltb:surgical-action-game a hltb:Genre ;
+    hltb:name "Surgical action game"^^xsd:string .
+
+hltb:survival a hltb:Genre ;
+    hltb:name "Survival"^^xsd:string .
+
+hltb:survival-horror a hltb:Genre ;
+    hltb:name "Survival Horror"^^xsd:string,
+        "Survival horror"^^xsd:string,
+        "survival horror"^^xsd:string .
+
+hltb:tactical a hltb:Genre ;
+    hltb:name "Tactical"^^xsd:string .
+
+hltb:tactical-action a hltb:Genre ;
+    hltb:name "Tactical action"^^xsd:string .
+
+hltb:tactical-role-playing a hltb:Genre ;
+    hltb:name "Tactical role-playing"^^xsd:string .
+
+hltb:tactical-role-playing-game a hltb:Genre ;
+    hltb:name "Tactical role-playing game"^^xsd:string .
+
+hltb:tactical-rpg a hltb:Genre ;
+    hltb:name "Tactical RPG"^^xsd:string .
+
+hltb:tactical-shooter a hltb:Genre ;
+    hltb:name "Tactical Shooter"^^xsd:string,
+        "Tactical shooter"^^xsd:string .
+
+hltb:tactical-wargame a hltb:Genre ;
+    hltb:name "Tactical Wargame"^^xsd:string .
+
+hltb:tactics a hltb:Genre ;
+    hltb:name "Tactics"^^xsd:string .
+
+hltb:tbs a hltb:Genre ;
+    hltb:name "TBS"^^xsd:string .
+
+hltb:text a hltb:Genre ;
+    hltb:name "Text"^^xsd:string .
+
+hltb:text-adventure a hltb:Genre ;
+    hltb:name "Text Adventure"^^xsd:string,
+        "Text adventure"^^xsd:string .
+
+hltb:third a hltb:Genre ;
+    hltb:name "Third"^^xsd:string,
+        "third"^^xsd:string .
+
+hltb:third-person a hltb:Genre ;
+    hltb:name "Third person"^^xsd:string,
+        "Third-Person"^^xsd:string,
+        "Third-person"^^xsd:string .
+
+hltb:third-person-action-adventure a hltb:Genre ;
+    hltb:name "Third-Person Action Adventure"^^xsd:string,
+        "Third-person action adventure"^^xsd:string,
+        "Third-person action-adventure"^^xsd:string .
+
+hltb:third-person-action-puzzle a hltb:Genre ;
+    hltb:name "Third person action puzzle"^^xsd:string .
+
+hltb:third-person-hack-and-slash a hltb:Genre ;
+    hltb:name "Third-person hack and slash"^^xsd:string .
+
+hltb:third-person-shooter a hltb:Genre ;
+    hltb:name "Third person shooter"^^xsd:string,
+        "Third-Person Shooter"^^xsd:string,
+        "Third-person Shooter"^^xsd:string,
+        "Third-person shooter"^^xsd:string,
+        "third-person shooter"^^xsd:string .
+
+hltb:third-person-shooter-sandbox a hltb:Genre ;
+    hltb:name "Third-person shooter Sandbox"^^xsd:string .
+
+hltb:third-person-tactical-shooter a hltb:Genre ;
+    hltb:name "Third person tactical shooter"^^xsd:string .
+
+hltb:top-down a hltb:Genre ;
+    hltb:name "Top-Down"^^xsd:string,
+        "Top-down"^^xsd:string .
+
+hltb:top-down-shooter a hltb:Genre ;
+    hltb:name "Top-down shooter"^^xsd:string .
+
+hltb:tower-defense a hltb:Genre ;
+    hltb:name "Tower Defense"^^xsd:string,
+        "Tower defense"^^xsd:string .
+
+hltb:traditional-soccer a hltb:Genre ;
+    hltb:name "Traditional soccer"^^xsd:string .
+
+hltb:trivia a hltb:Genre ;
+    hltb:name "Trivia"^^xsd:string .
+
+hltb:turn-based a hltb:Genre ;
+    hltb:name "Turn-Based"^^xsd:string .
+
+hltb:turn-based-role-playing a hltb:Genre ;
+    hltb:name "Turn-based role-playing"^^xsd:string .
+
+hltb:turn-based-strategy a hltb:Genre ;
+    hltb:name "Turn based strategy"^^xsd:string,
+        "Turn-Based Strategy"^^xsd:string,
+        "Turn-based Strategy"^^xsd:string,
+        "Turn-based strategy"^^xsd:string,
+        "turn-based strategy"^^xsd:string .
+
+hltb:turn-based-strategy-real-time-tactics a hltb:Genre ;
+    hltb:name "Turn-based strategy Real-time tactics"^^xsd:string .
+
+hltb:turn-based-tactical a hltb:Genre ;
+    hltb:name "turn-based tactical"^^xsd:string .
+
+hltb:turn-based-tactics a hltb:Genre ;
+    hltb:name "Turn-Based Tactics"^^xsd:string,
+        "Turn-based tactics"^^xsd:string,
+        "turn-based tactics"^^xsd:string .
+
+hltb:twin-stick-shooter a hltb:Genre ;
+    hltb:name "Twin Stick Shooter"^^xsd:string .
+
+hltb:various a hltb:Genre ;
+    hltb:name "Various"^^xsd:string .
+
+hltb:vehicle-combat a hltb:Genre ;
+    hltb:name "Vehicle combat"^^xsd:string .
+
+hltb:vehicle-simulation a hltb:Genre ;
+    hltb:name "Vehicle simulation"^^xsd:string .
+
+hltb:vehicular-combat a hltb:Genre ;
+    hltb:name "Vehicular Combat"^^xsd:string,
+        "Vehicular combat"^^xsd:string .
+
+hltb:versus-fighting a hltb:Genre ;
+    hltb:name "Versus fighting"^^xsd:string .
+
+hltb:vertical-scrolling-shooter a hltb:Genre ;
+    hltb:name "Vertical Scrolling Shooter"^^xsd:string,
+        "Vertical scrolling shooter"^^xsd:string .
+
+hltb:vertical-shooter a hltb:Genre ;
+    hltb:name "Vertical Shooter"^^xsd:string .
+
+hltb:virtual-pet a hltb:Genre ;
+    hltb:name "Virtual Pet"^^xsd:string .
+
+hltb:virtual-reality a hltb:Genre ;
+    hltb:name "Virtual Reality"^^xsd:string .
+
+hltb:visual-novel a hltb:Genre ;
+    hltb:name "Visual Novel"^^xsd:string,
+        "Visual novel"^^xsd:string,
+        "visual novel"^^xsd:string .
+
+hltb:war a hltb:Genre ;
+    hltb:name "War"^^xsd:string .
+
+hltb:wargame a hltb:Genre ;
+    hltb:name "Wargame"^^xsd:string .
+
+hltb:western a hltb:Genre ;
+    hltb:name "Western"^^xsd:string .
+
+hltb:western-steampunk-role-playing-game a hltb:Genre ;
+    hltb:name "Western steampunk role-playing game"^^xsd:string .
+
+hltb:world-war-i a hltb:Genre ;
+    hltb:name "World War I"^^xsd:string .
+
+hltb:wrestling a hltb:Genre ;
+    hltb:name "Wrestling"^^xsd:string .
+
+hltb:www.cobramobile.com a hltb:Genre ;
+    hltb:name "www.cobramobile.com"^^xsd:string .
+

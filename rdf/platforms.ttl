@@ -1,0 +1,450 @@
+@prefix hltb: <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+hltb:3do a hltb:Platform ;
+    hltb:bits "32"^^xsd:int ;
+    hltb:cpu "RISC CPU ARM60 based on ARM architecture @ 12.5 MHz"^^xsd:string ;
+    hltb:name "3DO"^^xsd:string ;
+    hltb:releaseDate "1993-01-04T00:00:00"^^xsd:dateTime .
+
+hltb:acorn-archimedes a hltb:Platform ;
+    hltb:name "Acorn Archimedes"^^xsd:string .
+
+hltb:amazon-luna a hltb:Platform ;
+    hltb:name "Amazon Luna"^^xsd:string .
+
+hltb:amiga a hltb:Platform ;
+    hltb:name "Amiga"^^xsd:string .
+
+hltb:amiga-cd32 a hltb:Platform ;
+    hltb:acronym "CD32"^^xsd:string ;
+    hltb:bits "32"^^xsd:int ;
+    hltb:cpu "Motorola 68EC020@ 14.18 MHz (PAL) 14.32 MHz (NTSC)"^^xsd:string ;
+    hltb:name "Amiga CD32"^^xsd:string ;
+    hltb:releaseDate "1993-01-17T00:00:00"^^xsd:dateTime .
+
+hltb:amstrad-cpc a hltb:Platform ;
+    hltb:name "Amstrad CPC"^^xsd:string .
+
+hltb:apple-ii a hltb:Platform ;
+    hltb:name "Apple II"^^xsd:string .
+
+hltb:arcade a hltb:Platform ;
+    hltb:name "Arcade"^^xsd:string .
+
+hltb:atari-2600 a hltb:Platform ;
+    hltb:acronym "2600"^^xsd:string ;
+    hltb:bits "8"^^xsd:int ;
+    hltb:cpu "MOS Technology 6507"^^xsd:string ;
+    hltb:name "Atari 2600"^^xsd:string ;
+    hltb:releaseDate "1977-01-11T00:00:00"^^xsd:dateTime .
+
+hltb:atari-5200 a hltb:Platform ;
+    hltb:acronym "5200"^^xsd:string ;
+    hltb:bits "8"^^xsd:int ;
+    hltb:cpu "MOS 6502C @ 1.79 MHz"^^xsd:string ;
+    hltb:name "Atari 5200"^^xsd:string ;
+    hltb:releaseDate "1982-01-01T00:00:00"^^xsd:dateTime .
+
+hltb:atari-7800 a hltb:Platform ;
+    hltb:acronym "7800"^^xsd:string ;
+    hltb:bits "8"^^xsd:int ;
+    hltb:cpu "Atari SALLY"^^xsd:string ;
+    hltb:name "Atari 7800"^^xsd:string ;
+    hltb:releaseDate "1986-01-01T00:00:00"^^xsd:dateTime .
+
+hltb:atari-8-bit-family a hltb:Platform ;
+    hltb:name "Atari 8-bit Family"^^xsd:string .
+
+hltb:atari-jaguar a hltb:Platform ;
+    hltb:acronym "AJ"^^xsd:string ;
+    hltb:bits "64"^^xsd:int ;
+    hltb:cpu "Motorola 68000 @ 13.295 MHz, Custom 32-bit graphics RISC \"Tom\" @ 26.59 MHz, Custom 32-bit sound RISC \"Jerry\" @ 26.59 MHz"^^xsd:string ;
+    hltb:name "Atari Jaguar"^^xsd:string ;
+    hltb:releaseDate "1993-01-23T00:00:00"^^xsd:dateTime .
+
+hltb:atari-jaguar-cd a hltb:Platform ;
+    hltb:bits "64"^^xsd:int ;
+    hltb:cpu "?"^^xsd:string ;
+    hltb:name "Atari Jaguar CD"^^xsd:string ;
+    hltb:releaseDate "1995-01-21T00:00:00"^^xsd:dateTime .
+
+hltb:atari-lynx a hltb:Platform ;
+    hltb:acronym "Lynx"^^xsd:string ;
+    hltb:name "Atari Lynx"^^xsd:string .
+
+hltb:atari-st a hltb:Platform ;
+    hltb:name "Atari ST"^^xsd:string .
+
+hltb:bbc-micro a hltb:Platform ;
+    hltb:name "BBC Micro"^^xsd:string .
+
+hltb:browser a hltb:Platform ;
+    hltb:name "Browser"^^xsd:string .
+
+hltb:colecovision a hltb:Platform ;
+    hltb:acronym "CV"^^xsd:string ;
+    hltb:bits "8"^^xsd:int ;
+    hltb:cpu "Zilog Z80"^^xsd:string ;
+    hltb:name "ColecoVision"^^xsd:string ;
+    hltb:releaseDate "1982-01-01T00:00:00"^^xsd:dateTime .
+
+hltb:commodore-64 a hltb:Platform ;
+    hltb:bits "8"^^xsd:int ;
+    hltb:cpu "MOS Technology 8500 @ 0.985 MHz"^^xsd:string ;
+    hltb:name "Commodore 64"^^xsd:string ;
+    hltb:releaseDate "1990-01-01T00:00:00"^^xsd:dateTime .
+
+hltb:commodore-pet a hltb:Platform ;
+    hltb:name "Commodore PET"^^xsd:string .
+
+hltb:commodore-vic-20 a hltb:Platform ;
+    hltb:name "Commodore VIC-20"^^xsd:string .
+
+hltb:dreamcast a hltb:Platform ;
+    hltb:acronym "DC"^^xsd:string ;
+    hltb:bits "128"^^xsd:int ;
+    hltb:cpu "Hitachi SH-4 32-bit RISC @ 200 MHz"^^xsd:string ;
+    hltb:name "Dreamcast"^^xsd:string ;
+    hltb:releaseDate "1998-01-27T00:00:00"^^xsd:dateTime .
+
+hltb:emulated a hltb:Platform ;
+    hltb:name "Emulated"^^xsd:string ;
+    hltb:popular true .
+
+hltb:fm-towns a hltb:Platform ;
+    hltb:bits "32"^^xsd:int ;
+    hltb:cpu "AMD 386SX at 16 MHz"^^xsd:string ;
+    hltb:name "FM Towns"^^xsd:string ;
+    hltb:releaseDate "1993-01-20T00:00:00"^^xsd:dateTime .
+
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#game-&-watch> a hltb:Platform ;
+    hltb:name "Game & Watch"^^xsd:string .
+
+hltb:game-boy a hltb:Platform ;
+    hltb:acronym "GB"^^xsd:string ;
+    hltb:name "Game Boy"^^xsd:string .
+
+hltb:game-boy-advance a hltb:Platform ;
+    hltb:acronym "GBA"^^xsd:string ;
+    hltb:name "Game Boy Advance"^^xsd:string .
+
+hltb:game-boy-color a hltb:Platform ;
+    hltb:name "Game Boy Color"^^xsd:string .
+
+hltb:gear-vr a hltb:Platform ;
+    hltb:name "Gear VR"^^xsd:string .
+
+hltb:gizmondo a hltb:Platform ;
+    hltb:acronym "GIZ"^^xsd:string ;
+    hltb:name "Gizmondo"^^xsd:string .
+
+hltb:google-stadia a hltb:Platform ;
+    hltb:name "Google Stadia"^^xsd:string .
+
+hltb:intellivision a hltb:Platform ;
+    hltb:acronym "Int"^^xsd:string ;
+    hltb:bits "16"^^xsd:int ;
+    hltb:cpu "General Instrument CP1610"^^xsd:string ;
+    hltb:name "Intellivision"^^xsd:string ;
+    hltb:releaseDate "1980-01-01T00:00:00"^^xsd:dateTime .
+
+hltb:interactive-movie a hltb:Platform ;
+    hltb:name "Interactive Movie"^^xsd:string .
+
+hltb:linux a hltb:Platform ;
+    hltb:name "Linux"^^xsd:string .
+
+hltb:mac a hltb:Platform ;
+    hltb:name "Mac"^^xsd:string .
+
+hltb:mobile a hltb:Platform ;
+    hltb:name "Mobile"^^xsd:string .
+
+hltb:msx a hltb:Platform ;
+    hltb:name "MSX"^^xsd:string .
+
+hltb:n-gage a hltb:Platform ;
+    hltb:acronym "NGage"^^xsd:string ;
+    hltb:name "N-Gage"^^xsd:string .
+
+hltb:nec-pc-88 a hltb:Platform ;
+    hltb:name "NEC PC-88"^^xsd:string .
+
+hltb:nec-pc-98 a hltb:Platform ;
+    hltb:name "NEC PC-98"^^xsd:string .
+
+hltb:nec-pc-fx a hltb:Platform ;
+    hltb:name "NEC PC-FX"^^xsd:string .
+
+hltb:neo-geo a hltb:Platform ;
+    hltb:acronym "NG"^^xsd:string ;
+    hltb:name "Neo Geo"^^xsd:string .
+
+hltb:neo-geo-cd a hltb:Platform ;
+    hltb:name "Neo Geo CD"^^xsd:string .
+
+hltb:neo-geo-pocket a hltb:Platform ;
+    hltb:name "Neo Geo Pocket"^^xsd:string .
+
+hltb:nes a hltb:Platform ;
+    hltb:bits "8"^^xsd:int ;
+    hltb:cpu "Ricoh 2A03 processor (MOS Technology 6502 core)"^^xsd:string ;
+    hltb:name "NES"^^xsd:string ;
+    hltb:releaseDate "1983-01-15T00:00:00"^^xsd:dateTime .
+
+hltb:nintendo-3ds a hltb:Platform ;
+    hltb:acronym "3DS"^^xsd:string ;
+    hltb:name "Nintendo 3DS"^^xsd:string ;
+    hltb:popular true .
+
+hltb:nintendo-64 a hltb:Platform ;
+    hltb:acronym "N64"^^xsd:string ;
+    hltb:bits "64"^^xsd:int ;
+    hltb:cpu "NEC VR4300 @ 93.75 MHz"^^xsd:string ;
+    hltb:name "Nintendo 64"^^xsd:string ;
+    hltb:releaseDate "1996-01-23T00:00:00"^^xsd:dateTime .
+
+hltb:nintendo-ds a hltb:Platform ;
+    hltb:acronym "DS"^^xsd:string ;
+    hltb:name "Nintendo DS"^^xsd:string .
+
+hltb:nintendo-gamecube a hltb:Platform ;
+    hltb:bits "32"^^xsd:int ;
+    hltb:cpu "IBM PowerPC Gekko @ 486 MHz"^^xsd:string ;
+    hltb:name "Nintendo GameCube"^^xsd:string ;
+    hltb:releaseDate "2001-01-14T00:00:00"^^xsd:dateTime .
+
+hltb:nintendo-switch a hltb:Platform ;
+    hltb:acronym "NS"^^xsd:string ;
+    hltb:bits "64"^^xsd:int ;
+    hltb:cpu "Octa-core (4×ARM Cortex-A57 & 4×ARM Cortex-A53) @ 1.020 GHz"^^xsd:string ;
+    hltb:name "Nintendo Switch"^^xsd:string ;
+    hltb:popular true ;
+    hltb:releaseDate "2017-01-03T00:00:00"^^xsd:dateTime .
+
+hltb:oculus-go a hltb:Platform ;
+    hltb:name "Oculus Go"^^xsd:string .
+
+hltb:oculus-quest a hltb:Platform ;
+    hltb:name "Oculus Quest"^^xsd:string .
+
+hltb:odyssey a hltb:Platform ;
+    hltb:name "Odyssey"^^xsd:string .
+
+hltb:odyssey-2 a hltb:Platform ;
+    hltb:bits "8"^^xsd:int ;
+    hltb:cpu "Intel 8048"^^xsd:string ;
+    hltb:name "Odyssey 2"^^xsd:string ;
+    hltb:releaseDate "1978-01-01T00:00:00"^^xsd:dateTime .
+
+hltb:onlive a hltb:Platform ;
+    hltb:name "OnLive"^^xsd:string .
+
+hltb:ouya a hltb:Platform ;
+    hltb:name "Ouya"^^xsd:string .
+
+hltb:pc a hltb:Platform ;
+    hltb:name "PC"^^xsd:string ;
+    hltb:popular true .
+
+hltb:philips-cd-i a hltb:Platform ;
+    hltb:name "Philips CD-i"^^xsd:string .
+
+hltb:playdate a hltb:Platform ;
+    hltb:name "Playdate"^^xsd:string .
+
+hltb:playstation a hltb:Platform ;
+    hltb:acronym "PS"^^xsd:string ;
+    hltb:bits "32"^^xsd:int ;
+    hltb:cpu "R3000 @ 33.8688 MHz"^^xsd:string ;
+    hltb:name "PlayStation"^^xsd:string ;
+    hltb:releaseDate "1994-01-03T00:00:00"^^xsd:dateTime .
+
+hltb:playstation-2 a hltb:Platform ;
+    hltb:acronym "PS2"^^xsd:string ;
+    hltb:bits "128"^^xsd:int ;
+    hltb:cpu "Emotion Engine @ 294.912 MHz (launch), 299 MHz (newer models)"^^xsd:string ;
+    hltb:name "PlayStation 2"^^xsd:string ;
+    hltb:releaseDate "2000-01-04T00:00:00"^^xsd:dateTime .
+
+hltb:playstation-3 a hltb:Platform ;
+    hltb:acronym "PS3"^^xsd:string ;
+    hltb:bits "64"^^xsd:int ;
+    hltb:cpu "3.2 GHz Cell Broadband Engine with 1 PPE & 7 SPEs"^^xsd:string ;
+    hltb:name "PlayStation 3"^^xsd:string ;
+    hltb:popular true ;
+    hltb:releaseDate "2006-01-11T00:00:00"^^xsd:dateTime .
+
+hltb:playstation-4 a hltb:Platform ;
+    hltb:acronym "PS4"^^xsd:string ;
+    hltb:bits "64"^^xsd:int ;
+    hltb:cpu "Semi-custom 8-core AMD x86-64 Jaguar 1.6 GHz CPU (integrated into APU)"^^xsd:string ;
+    hltb:name "PlayStation 4"^^xsd:string ;
+    hltb:popular true ;
+    hltb:releaseDate "2013-01-15T00:00:00"^^xsd:dateTime .
+
+hltb:playstation-5 a hltb:Platform ;
+    hltb:acronym "PS5"^^xsd:string ;
+    hltb:bits "64"^^xsd:int ;
+    hltb:cpu "Custom 8-core AMD Zen 2, variable frequency, up to 3.5 GHz"^^xsd:string ;
+    hltb:name "PlayStation 5"^^xsd:string ;
+    hltb:popular true ;
+    hltb:releaseDate "2020-01-12T00:00:00"^^xsd:dateTime .
+
+hltb:playstation-mobile a hltb:Platform ;
+    hltb:name "PlayStation Mobile"^^xsd:string .
+
+hltb:playstation-now a hltb:Platform ;
+    hltb:name "PlayStation Now"^^xsd:string ;
+    hltb:popular true .
+
+hltb:playstation-portable a hltb:Platform ;
+    hltb:acronym "PSP"^^xsd:string ;
+    hltb:name "PlayStation Portable"^^xsd:string .
+
+hltb:playstation-vita a hltb:Platform ;
+    hltb:acronym "PSV"^^xsd:string ;
+    hltb:name "PlayStation Vita"^^xsd:string .
+
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#plug-&-play> a hltb:Platform ;
+    hltb:name "Plug & Play"^^xsd:string .
+
+hltb:sega-32x a hltb:Platform ;
+    hltb:acronym "S32X"^^xsd:string ;
+    hltb:bits "32"^^xsd:int ;
+    hltb:cpu "2 × SH-2 32-bit RISC @ 23 MHz"^^xsd:string ;
+    hltb:name "Sega 32X"^^xsd:string ;
+    hltb:releaseDate "1994-01-21T00:00:00"^^xsd:dateTime .
+
+hltb:sega-cd a hltb:Platform ;
+    hltb:acronym "SCD"^^xsd:string ;
+    hltb:bits "16"^^xsd:int ;
+    hltb:cpu "Motorola 68000 @ 12.5 MHz"^^xsd:string ;
+    hltb:name "Sega CD"^^xsd:string ;
+    hltb:releaseDate "1991-01-12T00:00:00"^^xsd:dateTime .
+
+hltb:sega-game-gear a hltb:Platform ;
+    hltb:name "Sega Game Gear"^^xsd:string .
+
+hltb:sega-master-system a hltb:Platform ;
+    hltb:acronym "MS"^^xsd:string ;
+    hltb:bits "8"^^xsd:int ;
+    hltb:cpu "Zilog Z80 @ 4 MHz"^^xsd:string ;
+    hltb:name "Sega Master System"^^xsd:string ;
+    hltb:releaseDate "1985-01-20T00:00:00"^^xsd:dateTime .
+
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#sega-mega-drive/genesis> a hltb:Platform ;
+    hltb:bits "16"^^xsd:int ;
+    hltb:cpu "Motorola 68000 @ 7.6 MHz, Zilog Z80 @ 3.58 MHz"^^xsd:string ;
+    hltb:name "Sega Mega Drive/Genesis"^^xsd:string ;
+    hltb:releaseDate "1988-01-29T00:00:00"^^xsd:dateTime .
+
+hltb:sega-pico a hltb:Platform ;
+    hltb:bits "16"^^xsd:int ;
+    hltb:cpu "Motorola 68000 @ 7.6 MHz, Zilog Z80 @ 3.58 MHz"^^xsd:string ;
+    hltb:name "Sega Pico"^^xsd:string ;
+    hltb:releaseDate "1993-01-26T00:00:00"^^xsd:dateTime .
+
+hltb:sega-saturn a hltb:Platform ;
+    hltb:acronym "SAT"^^xsd:string ;
+    hltb:bits "32"^^xsd:int ;
+    hltb:cpu "2× Hitachi SH-2 @ 28.6 MHz"^^xsd:string ;
+    hltb:name "Sega Saturn"^^xsd:string ;
+    hltb:releaseDate "1994-01-22T00:00:00"^^xsd:dateTime .
+
+hltb:sg-1000 a hltb:Platform ;
+    hltb:bits "8"^^xsd:int ;
+    hltb:cpu "Zilog Z80 @ 3.58 MHz"^^xsd:string ;
+    hltb:name "SG-1000"^^xsd:string ;
+    hltb:releaseDate "1983-01-15T00:00:00"^^xsd:dateTime .
+
+hltb:sharp-x1 a hltb:Platform ;
+    hltb:name "Sharp X1"^^xsd:string .
+
+hltb:sharp-x68000 a hltb:Platform ;
+    hltb:name "Sharp X68000"^^xsd:string .
+
+hltb:super-nintendo a hltb:Platform ;
+    hltb:bits "16"^^xsd:int ;
+    hltb:cpu "Ricoh 5A22 @ 3.58 MHz"^^xsd:string ;
+    hltb:name "Super Nintendo"^^xsd:string ;
+    hltb:releaseDate "1990-01-21T00:00:00"^^xsd:dateTime .
+
+hltb:tiger-handheld a hltb:Platform ;
+    hltb:name "Tiger Handheld"^^xsd:string .
+
+hltb:turbografx-16 a hltb:Platform ;
+    hltb:acronym "TG16"^^xsd:string ;
+    hltb:name "TurboGrafx-16"^^xsd:string .
+
+hltb:turbografx-cd a hltb:Platform ;
+    hltb:name "TurboGrafx-CD"^^xsd:string .
+
+hltb:virtual-boy a hltb:Platform ;
+    hltb:acronym "VB"^^xsd:string ;
+    hltb:name "Virtual Boy"^^xsd:string .
+
+hltb:wii a hltb:Platform ;
+    hltb:bits "32"^^xsd:int ;
+    hltb:cpu "PowerPC 750-based IBM PowerPC \"Broadway\" @ 729 MHz; 2.9 GFLOPS"^^xsd:string ;
+    hltb:name "Wii"^^xsd:string ;
+    hltb:releaseDate "2006-01-19T00:00:00"^^xsd:dateTime .
+
+hltb:wii-u a hltb:Platform ;
+    hltb:bits "32"^^xsd:int ;
+    hltb:cpu "PowerPC 750-based 1.24 GHz Tri-Core IBM PowerPC \"Espresso\""^^xsd:string ;
+    hltb:name "Wii U"^^xsd:string ;
+    hltb:popular true ;
+    hltb:releaseDate "2012-01-18T00:00:00"^^xsd:dateTime .
+
+hltb:windows-phone a hltb:Platform ;
+    hltb:name "Windows Phone"^^xsd:string .
+
+hltb:wonderswan a hltb:Platform ;
+    hltb:acronym "WS"^^xsd:string ;
+    hltb:name "WonderSwan"^^xsd:string .
+
+hltb:xbox a hltb:Platform ;
+    hltb:acronym "XB"^^xsd:string ;
+    hltb:bits "32"^^xsd:int ;
+    hltb:cpu "Custom 733 MHz Intel Pentium III \"Coppermine-based\" processor"^^xsd:string ;
+    hltb:name "Xbox"^^xsd:string ;
+    hltb:releaseDate "2001-01-15T00:00:00"^^xsd:dateTime .
+
+hltb:xbox-360 a hltb:Platform ;
+    hltb:acronym "X360"^^xsd:string ;
+    hltb:bits "64"^^xsd:int ;
+    hltb:cpu "Big-endian architecture 3.2 GHz PowerPC Tri-Core Xenon"^^xsd:string ;
+    hltb:name "Xbox 360"^^xsd:string ;
+    hltb:popular true ;
+    hltb:releaseDate "2005-01-22T00:00:00"^^xsd:dateTime .
+
+hltb:xbox-one a hltb:Platform ;
+    hltb:acronym "XOne"^^xsd:string ;
+    hltb:bits "64"^^xsd:int ;
+    hltb:cpu "Custom 1.75 GHz AMD 8-core APU (2 quad-core Jaguar modules)"^^xsd:string ;
+    hltb:name "Xbox One"^^xsd:string ;
+    hltb:popular true ;
+    hltb:releaseDate "2013-01-22T00:00:00"^^xsd:dateTime .
+
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#xbox-series-x/s> a hltb:Platform ;
+    hltb:acronym "XS"^^xsd:string ;
+    hltb:bits "64"^^xsd:int ;
+    hltb:cpu "Custom 8-core AMD Zen 2;Series X: 3.8 GHz, 3.6 GHz with SMTSeries S: 3.6 GHz, 3.4 GHz with SMT"^^xsd:string ;
+    hltb:name "Xbox Series X/S"^^xsd:string ;
+    hltb:popular true ;
+    hltb:releaseDate "2020-01-10T00:00:00"^^xsd:dateTime .
+
+hltb:zeebo a hltb:Platform ;
+    hltb:bits "32"^^xsd:int ;
+    hltb:cpu "ARM11 / QDSP-5 in Qualcomm MSM SoC running at 528 MHz"^^xsd:string ;
+    hltb:name "Zeebo"^^xsd:string ;
+    hltb:releaseDate "2009-01-25T00:00:00"^^xsd:dateTime .
+
+hltb:zx-spectrum a hltb:Platform ;
+    hltb:name "ZX Spectrum"^^xsd:string .
+
+hltb:zx81 a hltb:Platform ;
+    hltb:name "ZX81"^^xsd:string .
+
