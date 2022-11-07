@@ -1,205 +1,658 @@
 ,Developer,City,Administrative division,Country,Est.,"Notable games, series or franchises",selected_titles_series
-1,11 bit studios,Warsaw,Masovian Voivodeship,Poland,2010,Frostpunk,[]
-2,11 bit studios,Warsaw,Masovian Voivodeship,Poland,2010,Frostpunk,['Frostpunk']
-5,2K Sports,Novato,California,United States,2005,NBA 2K seriesNHL 2K seriesWWE 2K series,[]
-6,343 Industries,Redmond,Washington,United States,2009,Halo series,[]
-11,989 Studios,Foster City,California,United States,1995,Twisted Metal III–4Jet Moto 2124,['Twisted Metal III']
-13,Acclaim Studios Austin,Santa Clara,California,United States,1991,Turok seriesAll-Star Baseball seriesSouth Park series,['All-Star Baseball 2002']
-14,Accolade,San Jose,California,United States,1984,HardBall! seriesStar Control seriesTest Drive II–III,['Test Drive III: The Passion']
-16,Access Software,Salt Lake City,Utah,United States,1982,Under a Killing MoonThe Pandora Directive,"['Under a Killing Moon', 'The Pandora Directive']"
-21,Activision,Santa Monica,California,United States,1979,Call of Duty seriesCrash Bandicoot seriesSpyro the Dragon seriesTony Hawk's Pro Skater seriesGuitar Hero seriesSkylanders seriesMechWarrior 2,[]
-22,Adventure Soft,Birmingham,England,United Kingdom,1992,Simon the Sorcerer series,"['Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe', 'Simon the Sorcerer']"
-26,Amazon Game Studios,Seattle,Washington,United States,2012,New World,[]
-37,ArenaNet,Bellevue,Washington,United States,2000,Guild WarsGuild Wars 2,['Guild Wars 2']
-48,Atomic Planet Entertainment,Middlesbrough,England,United Kingdom,2000,Taito Legends series,[]
-51,Backflip Studios,Boulder,Colorado,United States,2009,DragonVale,[]
-53,Beenox,Quebec City,Quebec,Canada,2000,Spider-Man game seriesCrash Team Racing Nitro-Fueled,['Crash Team Racing Nitro-Fueled']
-55,Bethesda Game Studios,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,"['The Elder Scrolls V: Skyrim - Dawnguard DLC', 'The Elder Scrolls III: Morrowind', 'The Elder Scrolls IV: Oblivion - Game of the Year Edition', 'The Elder Scrolls V: Skyrim - Special Edition', 'The Elder Scrolls V: Skyrim - Hearthfire', 'The Elder Scrolls V: Skyrim - Dragonborn DLC', 'The Elder Scrolls V: Skyrim', 'The Elder Scrolls III: Morrowind - Game of the Year Edition', 'The Elder Scrolls IV: Orrery', 'The Elder Scrolls V: Skyrim VR']"
-56,Bethesda Softworks,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,"['The Elder Scrolls IV: Shivering Isles', 'The Elder Scrolls III: Tribunal', 'The Elder Scrolls Adventures: Redguard', 'The Elder Scrolls Travels: Stormhold', 'The Elder Scrolls III: Bloodmoon', 'An Elder Scrolls Legend: Battlespire', 'The Elder Scrolls IV: Knights of the Nine', 'The Elder Scrolls II: Daggerfall']"
-59,Big Huge Games,Baltimore,Maryland,United States,2000,Rise of NationsKingdoms of Amalur: ReckoningDomiNations,['Rise of Nations']
-60,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,"['Anthem', ""Baldur's Gate II: Shadows of Amn"", 'Mass Effect 2: Arrival DLC', 'Dragon Age II: Mark of The Assassin DLC', 'Mass Effect 3: Omega DLC', 'Star Wars: The Old Republic', ""Baldur's Gate II: Throne of Bhaal"", 'Mass Effect 2: Overlord DLC', 'Dragon Age II: Legacy DLC', 'Mass Effect 2: Lair of the Shadow Broker DLC', 'Mass Effect 3: Extended Cut DLC', 'Star Wars: Knights of the Old Republic', 'Mass Effect 3: From Ashes DLC', 'Mass Effect 2: Normandy Crash Site DLC', 'Mass Effect Trilogy', 'Star Wars: The Old Republic - Rise of the Hutt Cartel', 'Dragon Age II', 'Mass Effect 3: Leviathan DLC', 'Mass Effect 2: Zaeed - The Price of Revenge DLC', 'Mass Effect 3', 'Dragon Age II: The Exiled Prince DLC', 'Star Wars: The Old Republic - Shadow of Revan', 'Mass Effect 2: Kasumi DLC', 'Mass Effect 2: Firewalker Pack DLC', 'Mass Effect Galaxy', 'Mass Effect 2', ""Baldur's Gate"", 'Mass Effect 3: Citadel DLC', 'Neverwinter Nights']"
-61,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,['Heroes of Dragon Age']
-62,The Bitmap Brothers,London,England,United Kingdom,1987,Xenon series,[]
-64,Bits Studios,London,England,United Kingdom,1991,Spider-Man: Return of the Sinister Six,['Spider-Man: Return of the Sinister Six']
-65,Bizarre Creations,Liverpool,England,United Kingdom,1994,Project Gotham Racing seriesGeometry Wars series,"['Project Gotham Racing 4', 'Project Gotham Racing 3', 'Project Gotham Racing', 'Project Gotham Racing 2']"
-67,Black Isle Studios,Orange County,California,United States,1996,Fallout 2Planescape: TormentIcewind Dale,"['Icewind Dale', 'Fallout 2', 'Planescape: Torment']"
-68,Black Rock Studio,Brighton,England,United Kingdom,1998,MotoGP 2ATV Offroad Fury 3,[]
-70,Blitz Games Studios,Leamington Spa,England,United Kingdom,1990,Karaoke Revolution,[]
-71,Blizzard Entertainment,Irvine,California,United States,1991,Diablo seriesStarCraft seriesWarcraft seriesHearthstoneHeroes of the StormOverwatch,"['StarCraft II: Heart of the Swarm', 'Hearthstone: Heroes of Warcraft', 'Heroes of the Storm', 'Overwatch']"
-75,Blue Fang Games,Waltham,Massachusetts,United States,1998,Zoo Tycoon series,"['Zoo Tycoon', 'Zoo Tycoon 2 DS']"
-76,Blue Tongue Entertainment,Melbourne,Victoria,Australia,1995,Jurassic Park: Operation Genesisde BlobMarvel Super Hero Squad,['Jurassic Park: Operation Genesis']
-79,Boss Key Productions,Raleigh,North Carolina,United States,2014,LawBreakers,['LawBreakers']
-82,Bullfrog Productions,Guildford,England,United Kingdom,1987,Theme ParkMagic CarpetSyndicateDungeon Keeper series,"['Dungeon Keeper', 'Syndicate', 'Magic Carpet', 'Theme Park', 'Magic Carpet 2: The Netherworlds', 'Dungeon Keeper 2', 'Theme Park World']"
-83,Bungie,Bellevue,Washington,United States,1991,Halo seriesMarathonOniMythPathways into DarknessMinotaur: The Labyrinths of CreteOperation: Desert StormDestiny series,['Destiny']
-87,Capcom Vancouver,Burnaby,British Columbia,Canada,2005,Dead Rising series,"['Dead Rising 3: Operation Broken Eagle', 'Dead Rising 3: Chaos Rising DLC', 'Dead Rising 3', 'Dead Rising 3: Fallen Angel DLC', 'Dead Rising 3: The Last Agent DLC']"
-88,Carbine Studios,Aliso Viejo,California,United States,2005,WildStar,['WildStar']
-95,CD Projekt Red,Warsaw,Masovian Voivodeship,Poland,2002,The Witcher seriesCyberpunk 2077,['Cyberpunk 2077']
-96,CD Projekt Red,Warsaw,Masovian Voivodeship,Poland,2002,The Witcher seriesCyberpunk 2077,[]
-97,Certain Affinity,Austin,Texas,United States,2006,Halo series,[]
-98,Chair Entertainment,Salt Lake City,Utah,United States,2005,UndertowShadow ComplexInfinity Blade series,['Undertow']
-106,Codemasters,Southam,England,United Kingdom,1985,F1 seriesColin McRae Rally seriesOperation Flashpoint seriesGrid series,"['Colin McRae Rally 3', 'Colin McRae Rally 04']"
-112,Compulsion Games,Montreal,Quebec,Canada,2009,ContrastWe Happy Few,"['Contrast', 'We Happy Few']"
-113,Core Design,Derby,England,United Kingdom,1988,Tomb Raider series,[]
-114,Core Design,Derby,England,United Kingdom,1988,Tomb Raider series,"['Tomb Raider Starring Lara Croft', 'Tomb Raider Chronicles', 'Tomb Raider Gold - The Shadow of the Cat', 'Tomb Raider II: Golden Mask', 'Tomb Raider II', 'Tomb Raider III', 'Tomb Raider (2000)']"
-117,Creative Assembly,Horsham,England,United Kingdom,1987,Total War seriesAlien: Isolation,"['Medieval: Total War - Gold Edition', 'SHOGUN: Total War - Gold Edition', 'Total War Battles: Kingdom', 'Total War Saga: Thrones of Britannia']"
-119,Criterion Games,Guildford,England,United Kingdom,1993,Burnout series,['Burnout']
-123,Cryptic Studios,Los Gatos,California,United States,2000,City of HeroesChampions OnlineStar Trek Online,"['Star Trek Online', 'Champions Online']"
-124,Crystal Dynamics,Redwood City,California,United States,1992,Legacy Of Kain seriesTomb Raider series (second era),"['Rise of the Tomb Raider - Cold Darkness Awakened', 'Blood Omen 2: Legacy of Kain', 'Rise of the Tomb Raider - Baba Yaga: The Temple of the Witch', 'Rise of the Tomb Raider', 'Rise of the Tomb Raider - Blood Ties', 'Tomb Raider: Tomb of the Lost Adventurer DLC']"
-132,Dambuster Studios,Nottingham,England,United Kingdom,2014,Homefront: The RevolutionDead Island 2,[]
-133,Day 1 Studios,Chicago,Illinois,United States,2001,Axis & Allies seriesMechAssault series,['MechAssault']
-134,Daybreak Game Company,San Diego,California,United States,1997,EverQuest seriesPlanetSide seriesH1Z1 series,['H1Z1']
-140,Digital Extremes,London,Ontario,Canada,1993,Warframe,['Warframe']
-150,Double Fine Productions,San Francisco,California,United States,2000,PsychonautsBroken AgeGang Beasts,['Broken Age']
-151,Dynamix,Eugene,Oregon,United States,1984,Red BaronFront Page Sports seriesBetrayal at KrondorTribes seriesMechWarrior,"['Red Baron 3D', 'Red Baron', 'MechWarrior', 'Betrayal at Krondor']"
-154,Eat Sleep Play,Salt Lake City,Utah,United States,2007,Twisted Metal series,['Twisted Metal (2012)']
-160,Electronic Arts,Redwood City,California,United States,1982,FIFA seriesNeed For Speed seriesPlants vs. Zombies series Apex Legends,[]
-161,EA Sports,Redwood City,California,United States,1982,FIFA seriesNeed For Speed seriesPlants vs. Zombies series Apex Legends,[]
-164,Ensemble Studios,Dallas,Texas,United States,1995,Age of Empires seriesAge of MythologyHalo Wars,"['Age of Empires', 'Age of Empires II: The Conquerors', 'Age of Empires III: Complete Collection', 'Age of Empires II: The Age of Kings', 'Age of Mythology']"
-165,Epic Games,Cary,North Carolina,United States,1991,Unreal seriesGears of War seriesShadow ComplexInfinity Blade seriesFortnite,"['Gears of War', 'Gears of War 2: Road to Ruin DLC', ""Gears of War 3: RAAM's Shadow DLC"", 'Gears of War 2', 'Gears of War 3']"
-168,Epyx,San Francisco,California,United States,1978,California Games seriesImpossible Mission seriesJumpman seriesPitstop seriesSummer Games series,"['California Games', 'Impossible Mission (1984)', 'California Games II', 'Summer Games II']"
-171,Evolution Studios,Runcorn,England,United Kingdom,1999,World Rally Championship seriesMotorStorm series,"['World Rally Championship (2001)', 'MotorStorm']"
-177,FASA Studio,Redmond,Washington,United States,1994,MechCommander seriesMechWarrior 4,[]
-181,Firaxis Games,Sparks,Maryland,United States,1996,Civilization series (part 3 and later)XCOM (Reboot) series,[]
-186,Flagship Studios,San Francisco,California,United States,2003,Hellgate:LondonMythos,['Mythos']
-196,FTL Games,San Diego,California,United States,1982,Dungeon Master series,"['Dungeon Master', 'Dungeon Master II: The Legend of Skullkeep']"
-206,GameHouse,Seattle,Washington,United States,1998,Delicious series,[]
-207,GameHouse,Seattle,Washington,United States,1998,Delicious series,[]
-214,Glu Mobile,San Francisco,California,United States,2001,Deer Hunter series,[]
-221,Gray Matter Interactive,Los Angeles,California,United States,1993,Call of Duty: United Offensive,['Call of Duty: United Offensive']
-222,Gremlin Interactive,Sheffield,England,United Kingdom,1984,Zool and Premier Manager,[]
-225,Griptonite Games,Kirkland,Washington,United States,1994,Marvel Super Hero Squad: Comic Combat,['Marvel Super Hero Squad: Comic Combat']
-227,Guerrilla Cambridge,Cambridge,England,United Kingdom,"1997 (as SCE Cambridge Studio), 2013",MediEvil series,[]
-229,Gunfire Games,Austin,Texas,United States,2014,Darksiders IIIRemnant: From the Ashes,['Darksiders III']
-235,Halfbrick,Brisbane,Queensland,Australia,2001,Fruit Ninja seriesJetpack Joyride,[]
-237,Hangar 13,Novato,California,United States,2014,Mafia III,['Mafia III']
-238,Harebrained Schemes,Seattle,Washington,United States,2011,Shadowrun ReturnsShadowrun: DragonfallShadowrun: Hong Kong,"['Shadowrun: Hong Kong', 'Shadowrun: Dragonfall', 'Shadowrun Returns']"
-239,Harmonix Music Systems,Cambridge,Massachusetts,United States,1995,Guitar Hero seriesRock Band seriesDance Central series,"['Guitar Hero Encore: Rocks the 80s', 'Dance Central 2', 'Rock Band Track Pack: Country', 'Rock Band Track Pack: Volume 1', 'Rock Band Track Pack: Volume 2', 'Guitar Hero', 'Guitar Hero II', 'Rock Band Track Pack: Metal', 'Dance Central']"
-240,Headstrong Games,London,England,United Kingdom,2000,Battalion Wars seriesArt Academy series,"['New Art Academy', 'Disney Art Academy', 'Pokémon Art Academy']"
-244,High Impact Games,Burbank,California,United States,2003,Ratchet & Clank: Size MattersSecret Agent ClankJak and Daxter: The Lost Frontier,"['Ratchet & Clank: Size Matters', 'Jak and Daxter: The Lost Frontier']"
-245,High Moon Studios,San Diego,California,United States,2005,Transformers: War for Cybertron seriesDeadpool,"['Transformers: War for Cybertron', 'Deadpool']"
-248,Hothead Games,Vancouver,British Columbia,Canada,2006,DeathSpankSwarm,['DeathSpank']
-253,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,"['Freddi Fish 5: The Case of the Creature of Coral Cove', 'Spy Fox 3: ""Operation Ozone""', 'Pajama Sam 3: You Are What You Eat From Your Head To Your Feet', 'Spy Fox in Dry Cereal', 'Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch', 'Freddi Fish 2: The Case of the Haunted Schoolhouse', ""Putt-Putt: Pep's Birthday Surprise"", 'Spy Fox in Hold the Mustard', ""Freddi Fish and Luther's Water Worries"", 'Spy Fox in Cheese Chase', ""Freddi Fish and Luther's Maze Madness"", ""Putt-Putt and Pep's Dog on a Stick"", 'Spy Fox 2: ""Some Assembly Required""', ""Fatty Bear's Birthday Surprise"", 'Freddi Fish and the Case of the Stolen Conch Shell', ""Putt-Putt and Fatty Bear's Activity Pack"", ""Pajama Sam 2: Thunder and Lightning Aren't so Frightening"", 'Freddi Fish and the Case of the Missing Kelp Seeds']"
-255,id Software,Mesquite,Texas,United States,1991,Wolfenstein seriesDoom seriesQuake series,[]
-256,id Software,Mesquite,Texas,United States,1991,Wolfenstein seriesDoom seriesQuake series,['Quake']
-263,Infinity Ward,Woodland Hills,California,United States,2002,Call of Duty series,"['Call of Duty 4: Modern Warfare', 'Call of Duty Classic', 'Call of Duty 2', 'Call of Duty']"
-264,Infocom,Cambridge,Massachusetts,United States,1979,Zork seriesPlanetfall seriesThe Hitchhiker's Guide to the GalaxyLeather Goddesses of Phobos,"['Leather Goddesses of Phobos', ""The Hitchhiker's Guide to the Galaxy"", 'Return to Zork', 'Planetfall', 'Leather Goddesses of Phobos 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X!']"
-265,Incognito Entertainment,Salt Lake City,Utah,United States,1999,Twisted Metal seriesWarhawk (2007),[]
-266,Incredible Technologies,Arlington Heights,Illinois,United States,1985,Golden Tee Golf,[]
-269,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),"['Ratchet & Clank', 'Ratchet & Clank Future: Tools of Destruction', 'Sunset Overdrive', 'Spyro the Dragon', 'Ratchet & Clank (2016)', 'Ratchet & Clank: All 4 One', 'Ratchet & Clank: Going Commando', 'Ratchet & Clank: Up Your Arsenal', 'Ratchet & Clank Future: Quest for Booty', 'Ratchet & Clank: Full Frontal Assault', 'Resistance 2', 'Ratchet & Clank Future: A Crack in Time', 'Ratchet & Clank Collection', 'Ratchet & Clank: Into the Nexus']"
-271,Interplay Entertainment,Beverly Hills,California,United States,1983,Earthworm Jim seriesClayFighter seriesWastelandFallout seriesThe Bard's Tale series,['Fallout']
-273,inXile Entertainment,Newport Beach,California,United States,2002,Wasteland 2The Bard's Tale IV: Barrows Deep,['Wasteland 2']
-274,inXile Entertainment,Newport Beach,California,United States,2002,Wasteland 2The Bard's Tale IV: Barrows Deep,"[""The Bard's Tale IV: Barrows Deep""]"
-276,Ion Storm,Dallas,Texas,United States,1996,DaikatanaAnachronox,"['Daikatana', 'Anachronox']"
-280,Iron Lore Entertainment,Maynard,Massachusetts,United States,2000,"Titan Quest seriesWarhammer 40,000: Dawn of War – Soulstorm",[]
-281,Irrational Games,Quincy,Massachusetts,United States,1996,System Shock 2Freedom Force seriesBioShock series,"['Freedom Force vs. the 3rd Reich', 'BioShock Infinite: Burial at Sea - Episode 2 DLC', 'Freedom Force (2002)']"
-283,Jagex,Cambridge,England,United Kingdom,2001,RuneScape,[]
-285,Jam City,Los Angeles,California,United States,2007,Harry Potter: Hogwarts Mystery,['Harry Potter: Hogwarts Mystery']
-286,Javaground,Irvine,Massachusetts,United States,2001,God of War: Betrayal,['God of War: Betrayal']
-295,Krome Studios,Brisbane,Queensland,Australia,1999,The Legend of Spyro: A New Beginning,[]
-296,Krome Studios Melbourne,Melbourne,Victoria,Australia,1988,Horace series,[]
-297,Kuju Entertainment,Shalford,England,United Kingdom,1998,Microsoft Train Simulator,['Microsoft Train Simulator']
-303,Legend Entertainment,Chantilly,Virginia,United States,1989,Spellcasting seriesSuperhero League of HobokenThe Wheel of TimeUnreal II,"['Superhero League of Hoboken', 'The Wheel of Time']"
-308,Lionhead Studios,Guildford,England,United Kingdom,1997,Black & White seriesFable series,"['Black & White 2: Battle of the Gods', 'Black & White', 'Black & White 2', 'Black & White: Creature Isle']"
-309,Liquid Entertainment,Pasadena,California,United States,1999,Battle Realms,['Battle Realms']
-314,Locomotive Games,Santa Clara,California,United States,1997,Jet Moto 3,[]
-317,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,"['Star Wars: Starfighter', 'Star Wars: The Force Unleashed', 'Star Wars: Masters of Teras Kasi', 'Star Wars: The Force Unleashed - Ultimate Sith Edition', 'Star Wars: Jedi Starfighter', 'Star Wars Jedi Knight: Dark Forces II', 'Sam & Max Hit the Road', 'Star Wars: Obi-Wan', 'Star Wars Jedi Knight: Mysteries of the Sith', 'Star Wars: Rebel Assault II: The Hidden Empire', 'Star Wars: Yoda Stories', ""Monkey Island 2: LeChuck's Revenge"", 'Star Wars: Jedi Power Battles', 'Star Wars: The Force Unleashed II', 'Star Wars: The Force Unleashed II - Endor DLC', 'Star Wars: Bounty Hunter', 'Star Wars (1991)', 'Star Wars Episode I: Jedi Power Battles', 'Star Wars: Republic Commando', 'Escape from Monkey Island', 'Star Wars Episode II: Attack of the Clones', 'The Curse of Monkey Island', 'Star Wars: Rebel Assault I & II', 'Full Throttle (1995)', 'Grim Fandango', 'Star Wars: Dark Forces', 'Star Wars: The Force Unleashed - Tatooine DLC', 'Day of the Tentacle', 'Star Wars Episode I: Racer', 'Star Wars: The Force Unleashed - Hoth DLC', 'Star Wars: The Clone Wars - Jedi Alliance', 'Star Wars: The Force Unleashed - Jedi Temple DLC', 'Star Wars: Assault Team', 'Star Wars: Rebel Assault']"
-326,Maxis,Emeryville,California,United States,1987,The Sims seriesSimCity series,[]
-327,Media Molecule,Guildford,England,United Kingdom,2006,LittleBigPlanet seriesTereaway,['LittleBigPlanet']
-332,Microsoft,Redmond,Washington,United States,2013,SolitaireMahjongMinesweeperWordament,[]
-333,Midway Games,Chicago,Illinois,United States,1988,Mortal Kombat series,[]
-338,Mode 7 Games,Brighton,East Sussex,United Kingdom,2005,Frozen Synapse seriesTokyo 42,['Frozen Synapse']
-339,Monolith Productions,Kirkland,Washington,United States,1994,F.E.A.R. seriesMiddle-earth: Shadow of Mordor Middle-earth: Shadow of War,"['Middle-Earth: Shadow of War - The Desolation of Mordor', 'Middle-Earth: Shadow of War', 'Middle-Earth: Shadow of War - Blade of Galadriel', 'Middle-Earth: Shadow of Mordor - Game of the Year', 'Middle-Earth: Shadow of Mordor - The Bright Lord DLC']"
-345,Mythic Entertainment,Fairfax,Virginia,United States,1995,Dark Age of Camelot,['Dark Age of Camelot']
-352,NaturalMotion,London,England,United Kingdom,2001,Backbreaker series,['Backbreaker']
-353,Naughty Dog,Santa Monica,California,United States,1986,Crash Bandicoot seriesJak and Daxter seriesUncharted seriesThe Last of Us series,"['Crash Bandicoot 3: Warped', 'Jak and Daxter: The Precursor Legacy', 'Crash Bandicoot', 'Crash Bandicoot 2: Cortex Strikes Back', 'The Last of Us Remastered', 'The Last of Us']"
-360,NetherRealm Studios,Chicago,Illinois,United States,2010,Mortal Kombat seriesInjustice: Gods Among Us Injustice 2,"['Mortal Kombat XL', 'Mortal Kombat (2011)', 'Injustice 2', 'Mortal Kombat X', 'Injustice: Gods Among Us', 'Mortal Kombat Arcade Kollection']"
-362,Neversoft,Woodland Hills,California,United States,1994,Guitar Hero seriesTony Hawk seriesGun,[]
-365,New World Interactive,Denver,Colorado,United States,2010,Insurgency,[]
-368,Nicalis,Santa Ana,California,United States,2007,VVVVVVCave StoryNightSky1001 SpikesThe Binding of Isaac: RebirthCrystal Crisis,"['NightSky', 'The Binding of Isaac: Rebirth']"
-373,Ninja Theory,Cambridge,England,United Kingdom,2000,Heavenly SwordEnslaved: Odyssey to the WestDmC: Devil May CryHellblade: Senua's Sacrifice,"[""Hellblade: Senua's Sacrifice"", 'Heavenly Sword', 'Enslaved: Odyssey to the West', 'DmC: Devil May Cry']"
-378,NovaLogic,Agoura Hills,California,United States,1985,Delta Force seriesJoint Operations series,['Delta Force']
-379,NovaLogic,Agoura Hills,California,United States,1985,Delta Force seriesJoint Operations series,['Delta Force 2']
-385,Obsidian Entertainment,Irvine,California,United States,2004,Fallout New VegasNeverwinter Nights 2Dungeon Siege IIISouth Park: The Stick of TruthPillars of EternityThe Outer Worlds,"['Dungeon Siege III', 'The Outer Worlds', 'South Park: The Stick of Truth', 'Neverwinter Nights 2', 'Pillars of Eternity']"
-387,Origin Systems,Austin,Texas,United States,1983,Ultima seriesUltima OnlineWing Commander series,[]
-388,Origin Systems,Austin,Texas,United States,1983,Ultima seriesUltima OnlineWing Commander series,"['Wing Commander II: Vengeance of the Kilrathi - Special Operations 1', 'Wing Commander III: Heart of the Tiger', 'Wing Commander II: Vengeance of the Kilrathi - Special Operations 2', 'Wing Commander IV: The Price of Freedom', 'Wing Commander', 'Wing Commander II: Vengeance of the Kilrathi']"
-389,OtherSide Entertainment,Boston,Massachusetts,United States,2013,Underworld AscendantSystem Shock 3,['Underworld Ascendant']
-390,Outrage Entertainment,Ann Arbor,Michigan,United States,1996,Descent 3,['Descent 3']
-393,Page 44 Studios,San Francisco,California,United States,1998,FreekstyleHigh School Musical 3: Senior Year DanceMadden NFL 11 iOSuDraw PictionaryWorld of Goo iOS,[]
-401,Parallax Software,Ann Arbor,Michigan,United States,1993,Descent series,['Descent']
-402,Pandemic Studios,Los Angeles,California,United States,1998,Star Wars: BattlefrontDestroy All Humans! seriesFull Spectrum WarriorMercenaries: Playground of DestructionThe Saboteur,"['Destroy All Humans! 2', 'Destroy All Humans!', 'Mercenaries: Playground of Destruction', 'Star Wars: Battlefront (2004)', 'Star Wars: Battlefront II (2005)', 'Star Wars: The Clone Wars', 'Full Spectrum Warrior']"
-410,Piranha Games,Vancouver,British Columbia,Canada,2000,MechWarrior 5MechWarrior OnlineBass Pro Shops: The StrikeDie Hard: Nakatomi Plaza,"['Bass Pro Shops: The Strike', 'Die Hard: Nakatomi Plaza', 'MechWarrior Online']"
-414,Playfish,London,England,United Kingdom,2007,The Sims Social,[]
-416,Playground Games,Royal Leamington Spa,England,United Kingdom,2009,Forza Horizon seriesFable (2020),"['Forza Horizon 3', 'Forza Horizon 4: Fortune Island', 'Forza Horizon 4', 'Forza Horizon 3: Blizzard Mountain', 'Forza Horizon 2 Presents Fast & Furious']"
-419,PopCap Games,Seattle,Washington,United States,2000,Bejeweled seriesPlants vs. Zombies seriesPeggle seriesZuma,"['Plants vs. Zombies: Garden Warfare', 'Plants vs. Zombies: Heroes', 'Plants vs. Zombies', ""Plants vs. Zombies 2: It's About Time"", 'Plants vs. Zombies: Garden Warfare 2', 'Bejeweled']"
-421,Psyonix,San Diego,California,United States,2001,Rocket LeagueXCOM: Enemy Unknown,['Rocket League']
-426,Rainbow Studios,Phoenix,Arizona,United States,1996,MX vs. ATV series,"['MX vs ATV All Out', 'MX vs. ATV Unleashed', 'MX vs. ATV Alive', 'MX vs. ATV Supercross']"
-427,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,"[""Battletoads in Ragnarok's World"", 'Donkey Kong Land', 'Donkey Kong 64', 'Killer Instinct Gold', ""Donkey Kong Country 3: Dixie Kong's Double Trouble!"", ""Conker's Bad Fur Day"", 'Sea of Thieves', 'Donkey Kong Land III', 'Perfect Dark Zero', ""Donkey Kong Country 2: Diddy's Kong Quest"", 'Donkey Kong Country', 'Killer Instinct 2 Classic', 'Killer Instinct (1994)', 'GoldenEye 007 (1997)', 'Banjo-Kazooie', 'Donkey Kong Land 2']"
-428,Raven Software,Middleton,Wisconsin,United States,1990,HereticHexenSingularityCall of Duty seriesStar Wars Jedi Knight II: Jedi OutcastSoldier of Fortune II: Double HelixMarvel: Ultimate Alliance,"['Heretic', 'Hexen II - Mission Pack: Portal of Praevus', 'Hexen II', 'Hexen', 'Marvel: Ultimate Alliance', 'Soldier of Fortune', 'Heretic II', 'Singularity']"
-429,Ready at Dawn,Irvine,California,United States,2003,DaxterThe Order: 1886DeformersLone Echo,"['Deformers', 'Lone Echo']"
-430,Ready at Dawn,Irvine,California,United States,2003,DaxterThe Order: 1886DeformersLone Echo,['Daxter']
-435,Realtime Worlds,Dundee,Scotland,United Kingdom,2002,Crackdown,['Crackdown']
-439,Red Storm Entertainment,Cary,North Carolina,United States,1996,Tom Clancy's Ghost ReconTom Clancy's Rainbow Six,"[""Tom Clancy's Rainbow Six""]"
-440,Reflexive Entertainment,Lake Forest,California,United States,1997,Airport Mania series,[]
-441,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,"['Company of Heroes 2: Ardennes Assault', 'Warhammer 40,000: Dawn of War - Winter Assault', 'Homeworld', 'Warhammer 40,000: Dawn of War - Dark Crusade', 'Warhammer 40,000: Dawn of War III', 'Company of Heroes', 'Warhammer 40,000: Dawn of War II', 'Warhammer 40,000: Dawn of War', 'Company of Heroes 2', 'Warhammer 40,000: Dawn of War II - Chaos Rising', 'Warhammer 40,000: Dawn of War II - Retribution', 'Company of Heroes: The Great War 1918', 'Warhammer 40,000: Dawn of War II - Retribution: The Last Standalone']"
-443,Respawn Entertainment,"Sherman Oaks, Los Angeles",California,United States,2010,TitanfallApex LegendsStar Wars Jedi: Fallen Order,"['Titanfall', 'Star Wars Jedi: Fallen Order', 'Apex Legends']"
-446,Riot Games,Santa Monica,California,United States,2006,League of Legends Legends of Runeterra Valorant,['League of Legends']
-449,Rockstar Games,New York CityBangaloreLeedsLincolnLondonBallardvaleEdinburghCarlsbadOakville,New YorkKarnatakaEnglandScotlandMassachusettsCaliforniaOntario,United States,199820162004200220052008200220021999,Grand Theft Auto franchiseManhunt seriesMidnight Club seriesRed Dead seriesBully,['Grand Theft Auto Online']
-450,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,"['Batman: Arkham City GOTY', 'Batman: Arkham Knight - Premium Edition', 'Batman: Arkham Asylum GOTY', 'Batman: Arkham Knight - Harley Quinn Story Pack', 'Batman: Arkham Knight - GCPD Lockdown', 'Batman: Arkham Knight - Red Hood Story Pack', 'Batman: Arkham Knight - Season of Infamy: Most Wanted', ""Batman: Arkham City - Harley Quinn's Revenge DLC"", 'Batman: Arkham Knight - A Flip of a Coin', 'Batman: Arkham Knight', ""Batman: Arkham Knight - Catwoman's Revenge"", 'Batman: Arkham Asylum']"
-454,Runic Games,Seattle,Washington,United States,2008,Torchlight,['Torchlight']
-457,Saber Interactive,Millburn,New Jersey,United States,2001,World War Z,[]
-461,Sanzaru Games,Foster City,California,United States,2006,Sly Cooper: Thieves in TimeSonic Boom: Shattered CrystalSonic Boom: Fire & Ice,"['Sly Cooper: Thieves in Time', 'Sonic Boom: Fire & Ice', 'Sonic Boom: Shattered Crystal']"
-463,Schell Games,Pittsburgh,Pennsylvania,United States,2002,I Expect You To Die,['I Expect You To Die']
-465,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,[]
-466,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,"['Hatsune Miku: Project DIVA 2nd', 'Phantasy Star Generation: 1', 'Valkyria Chronicles II', 'Valkyria Chronicles 4', 'Phantasy Star III: Generations of Doom', 'Super Monkey Ball Deluxe', 'Hatsune Miku: Project Mirai DX', 'Phantasy Star Online 2', 'Super Monkey Ball: Step & Roll', 'Golden Axe Warrior', 'Sakura Taisen V - Episode 0: Kouya no Samurai Musume', 'Phantasy Star IV: The End of the Millennium', 'Hatsune Miku: Project DIVA Future Tone', 'Super Monkey Ball: Banana Blitz', 'Super Monkey Ball Touch & Roll', 'Hatsune Miku: Project DIVA', 'Valkyria Chronicles Remastered', 'Hatsune Miku: Project DIVA Extend', 'Golden Axe II', 'Golden Axe III']"
-470,Sensible Software,Cambridge,England,United Kingdom,1986,Sensible Soccer seriesCannon Fodder seriesMega Lo ManiaWizballWizkidMicroprose SoccerShoot-'Em-Up Construction KitParallaxSensible Golf,"['Cannon Fodder', 'Mega Lo Mania', 'Sensible Soccer', 'Wizball', 'Sensible Golf', 'Sensible World of Soccer', 'Cannon Fodder 2']"
-472,SIE Bend Studio,Bend,Oregon,United States,"1993 (Founded as Blank, Berlyn and Co., later Eidetic)",Syphon Filter seriesDays Gone,['Days Gone']
-474,SIE San Diego Studio,San Diego,California,United States,2001,MLB: The Show series,"['MLB 17: The Show', 'MLB The Show 19']"
-475,SIE Santa Monica Studio,Los Angeles,California,United States,1999,God of War series,['God of War (2018)']
-476,SCE Studio Liverpool,Liverpool,England,United Kingdom,1984,Wipeout seriesFormula One seriesColony Wars series,"['Formula One Championship Edition', 'Wipeout 2048 - Wipeout HD Game Pack']"
-477,SingleTrac,Salt Lake City,Utah,United States,1994,Twisted Metal 1–2Jet Moto 1–2Warhawk (1995),"['Warhawk (1995)', 'Jet Moto']"
-480,Sierra Entertainment,Oakhurst,California,United States,1979,Mystery HouseKing's Quest seriesSpace Quest seriesPolice Quest seriesLeisure Suit Larry seriesQuest for Glory seriesGabriel Knight series,"['Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals', ""King's Quest IV: The Perils of Rosella"", 'Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work', ""King's Quest VI: Heir Today, Gone Tomorrow""]"
-481,Silicon Knights,St. Catharines,Ontario,Canada,1992,Blood Omen: Legacy of KainEternal Darkness: Sanity's RequiemToo Human,"['Too Human', 'Blood Omen: Legacy of Kain', ""Eternal Darkness: Sanity's Requiem""]"
-483,Simtex,Austin,Texas,United States,1988,Master of Orion seriesMaster of Magic,"['Master of Orion II: Battle at Antares', 'Master of Orion (1993)', 'Master of Magic (1994)']"
-486,Slant Six Games,Vancouver,British Columbia,Canada,2005,SOCOM U.S. Navy SEALs seriesResident Evil: Operation Raccoon City,"['SOCOM: U.S. Navy SEALs Fireteam Bravo 3', 'SOCOM: U.S. Navy SEALs Confrontation', 'SOCOM: U.S. Navy SEALs Tactical Strike']"
-487,Sledgehammer Games,Foster City,California,United States,2009,Call of Duty: Advanced Warfareco-developer of Call of Duty: Modern Warfare 3,['Call of Duty: Advanced Warfare']
-489,Slightly Mad Studios,London,England,United Kingdom,2008,Project CARS series,"['Project CARS - Pagani Edition', 'Project CARS']"
-494,Snowblind Studios,Seattle,Washington,United States,1997,Top Gear OverdriveChampions of Norrath,"['Champions of Norrath', 'Top Gear Overdrive']"
-496,Sony Computer Entertainment,"Tokyo (SIE, Inc.) San Mateo (SIE, LLC)","Japan (SIE, Inc.) California (SIE, LLC)",United States,1994,Various titles,[]
-502,Splash Damage,London,England,United Kingdom,2001,Enemy Territory: Quake WarsBrinkDirty Bomb,"['Dirty Bomb', 'Brink']"
-507,Stainless Steel Studios,Cambridge,Massachusetts,United States,1998,Empire Earth,['Empire Earth']
-509,Stardock,Plymouth,Michigan,United States,1991,Galactic Civilizations series,"['Galactic Civilizations II: Dread Lords', 'Galactic Civilizations II: Twilight of the Arnor', 'Galactic Civilizations III', 'Galactic Civilizations', 'Galactic Civilizations II: Dark Avatar']"
-511,Strategic Simulations,Sunnyvale,California,United States,1979,Gold Box seriesPanzer General series,"['Panzer General 3D Assault', 'Panzer General']"
-514,Sucker Punch Productions,Bellevue,Washington,United States,1997,Rocket: Robot on WheelsSly Cooper seriesInfamous seriesGhost of Tsushima,"['Ghost of Tsushima', 'Sly Cooper and the Thievius Raccoonus', 'Rocket: Robot on Wheels']"
-519,SuperVillain Studios,Orange County,California,United States,2004,Order Up!,['Order Up!']
-523,Sunstorm Interactive,Indianapolis,Indiana,United States,1995,Deer Hunter series,"['Deer Hunter II: Extended Season', 'Deer Hunter 3: The Legend Continues', 'Deer Hunter 4: World-Class Record Bucks']"
-536,Team Bondi,Sydney,New South Wales,Australia,2003,L.A. Noire,[]
-542,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,"['The Walking Dead - Episode 1: A New Day', 'The Wolf Among Us', 'The Wolf Among Us - Episode 1: Faith', ""Sam & Max 205: What's New, Beelzebub?"", 'The Walking Dead: A New Frontier - Episode 2: Ties That Bind (Part II)', 'Sam & Max 301: The Penal Zone', 'The Walking Dead - A Telltale Games Series', ""The Wolf Among Us - Episode 4: In Sheep's Clothing"", 'Back to the Future: The Game', 'Sam & Max 305: The City That Dares Not Sleep', 'Sam & Max 204: Chariots of the Dogs', 'The Walking Dead - Episode 3: Long Road Ahead', 'Minecraft: Story Mode', 'The Wolf Among Us - Episode 5: Cry Wolf', 'Minecraft: Story Mode - Season Two', 'Minecraft: Story Mode - Season Two: Episode 1 - Hero in Residence', 'Minecraft: Story Mode - Season Two: Episode 2 - Giant Consequences', 'The Walking Dead: A New Frontier', 'Back to the Future: The Game - Episode 4: Double Visions', 'Back to the Future: The Game - Episode 5: Outatime', 'Game of Thrones - Episode 4: Sons of Winter', 'Game of Thrones - Episode 2: The Lost Lords', 'Minecraft: Story Mode - Episode 6: A Portal to Mystery', 'Minecraft: Story Mode - Season Two: Episode 3 - Jailhouse Block', 'The Walking Dead - Episode 4: Around Every Corner', 'Game of Thrones - Episode 3: The Sword in the Darkness', 'Minecraft: Story Mode - Episode 3: The Last Place You Look', ""Sam & Max 303: They Stole Max's Brain!"", 'Tales from the Borderlands: Episode 2 - Atlas Mugged', 'Game of Thrones - Episode 1: Iron From Ice', 'The Walking Dead - Episode 5: No Time Left', 'Minecraft: Story Mode - Season Two: Episode 4 - Below the Bedrock', 'The Walking Dead: A New Frontier - Episode 1: Ties That Bind (Part I)', 'Sam & Max 105: Reality 2.0', 'Back to the Future: The Game - Episode 2: Get Tannen!', 'Sam & Max Beyond Time and Space', 'The Walking Dead Collection: The Telltale Series', ""Minecraft: Story Mode - Episode 8: A Journey's End?"", 'The Wolf Among Us - Episode 3: A Crooked Mile', ""Back to the Future: The Game - Episode 1: It's About Time"", 'Minecraft: Story Mode - Episode 4: A Block and a Hard Place', 'Game of Thrones - Episode 6: The Ice Dragon', 'Tales from the Borderlands: Episode 3 - Catch A Ride', 'Tales from the Borderlands: Episode 5 - The Vault of the Traveler', 'Minecraft: Story Mode - Episode 7: Access Denied', 'Sam & Max 203: Night of the Raving Dead', 'The Walking Dead: Season 2 - Episode 2: A House Divided', 'Tales of Monkey Island: Chapter 4 - The Trial and Execution of Guybrush Threepwood', 'Tales from the Borderlands', 'Sam & Max Save the World', 'Minecraft: Story Mode - Season Two: Episode 5 - Above and Beyond', 'Sam & Max 103: The Mole, the Mob, and the Meatball', ""Sam & Max: The Devil's Playhouse"", 'Sam & Max 104: Abe Lincoln Must Die!', 'Sam & Max 102: Situation: Comedy', 'Tales from the Borderlands: Episode 1 - Zer0 Sum', 'Minecraft: Story Mode - Episode 1: The Order of the Stone', 'Minecraft: Story Mode - Episode 2: Assembly Required', 'Game of Thrones - A Telltale Games Series', 'The Walking Dead: A New Frontier - Episode 4: Thicker Than Water', 'Sam & Max 106: Bright Side of the Moon', 'Sam & Max 302: The Tomb of Sammun-Mak', 'Sam & Max 202: Moai Better Blues', 'The Walking Dead - Episode 2: Starved for Help', 'Game of Thrones - Episode 5: A Nest of Vipers', 'The Walking Dead: A New Frontier - Episode 5: From the Gallows', 'Sam & Max 201: Ice Station Santa', 'Minecraft: Story Mode - Episode 5: Order Up!', 'Tales from the Borderlands: Episode 4 - Escape Plan Bravo', 'Sam & Max 101: Culture Shock', 'Sam & Max 304: Beyond the Alley of the Dolls', 'Back to the Future: The Game - Episode 3: Citizen Brown', 'The Walking Dead: A New Frontier - Episode 3: Above the Law', 'The Wolf Among Us - Episode 2: Smoke and Mirrors', 'The Wolf Among Us: Season 2']"
-545,Terminal Reality,Lewisville,Texas,United States,1994,Monster Truck Madness series,[]
-546,Tetris Online,Honolulu,Hawaii,United States,2006,Tetris Friends,[]
-550,The Chinese Room,Brighton,England,United Kingdom,2007,Amnesia: A Machine For Pigs,[]
-554,Three Fields Entertainment,Petersfield,England,United Kingdom,2014,Danger Zone seriesDangerous Driving series,"['Danger Zone 2', 'Danger Zone', 'Dangerous Driving']"
-566,Toys for Bob,Novato,California,United States,1989,Skylanders seriesSpyro Reignited Trilogy,[]
-567,Toys for Bob,Novato,California,United States,1989,Skylanders seriesSpyro Reignited Trilogy,['Spyro Reignited Trilogy']
-569,Transmission Games,Melbourne,Victoria,Australia,1996,Heroes of the PacificHeroes Over Europe,"['Heroes of the Pacific', 'Heroes Over Europe']"
-570,Traveller's Tales,Knutsford,England,United Kingdom,1990,Lego series,[]
-571,Treyarch,Santa Monica,California,United States,1996,Call of Duty seriesSpider-Man (2002),"['Call of Duty 3', 'Call of Duty: Black Ops III - Eclipse DLC Pack', 'Call of Duty: Black Ops II - Vengeance DLC', 'Call of Duty: Black Ops II - Apocalypse DLC', 'Call of Duty: Black Ops II - Uprising DLC', 'Call of Duty: Black Ops III - Awakening DLC Pack', 'Call of Duty: Black Ops II - Revolution DLC', 'Call of Duty: Modern Warfare - Reflex Edition']"
-577,Trion Worlds,Redwood City,California,United States,2006,Rift,['Rift']
-580,Turn 10 Studios,Redmond,Washington,United States,2001,Forza Motorsport series,"['Forza Motorsport 2', 'Forza Motorsport 5', 'Forza Motorsport 6: Apex', 'Forza Motorsport 3', 'Forza Motorsport 4', 'Forza Motorsport 7', 'Forza Motorsport 6', 'Forza Motorsport']"
-582,Two Point Studios,Surrey,England,United Kingdom,2016,Two Point Hospital,['Two Point Hospital']
-587,Ubisoft Reflections,Newcastle upon Tyne,England,United Kingdom,1984,Driver seriesDestruction Derby series,[]
-589,Ultimate Play the Game,Ashby-de-la-Zouch,England,United Kingdom,1982,JetpacLunar JetmanAtic AtacSabreman seriesAlien 8,[]
-590,Ultimate Play the Game,Ashby-de-la-Zouch,England,United Kingdom,1982,JetpacLunar JetmanAtic AtacSabreman seriesAlien 8,[]
-591,Undead Labs,Seattle,Washington,United States,2009,State of Decay series,"['State of Decay 2 - Daybreak DLC', 'State of Decay 2', 'State of Decay']"
-592,United Front Games,Vancouver,British Columbia,Canada,2006,ModNation RacersSleeping DogsLittleBigPlanet Karting,['ModNation Racers']
-595,Valve,Kirkland,Washington,United States,1996,Half-Life seriesPortal seriesLeft 4 Dead seriesTeam Fortress 2Dota 2Counter-Strike series,['Left 4 Dead 2: The Passing DLC']
-598,Venan Entertainment,Cromwell,Connecticut,United States,2002,Ninjatown,['Ninjatown']
-599,Vicarious Visions,Albany (Menands),New York,United States,1990,Guitar Hero seriesTony Hawk seriesCrash Bandicoot N. Sane TrilogyMarvel: Ultimate Alliance 2,"['Crash Bandicoot N. Sane Trilogy', ""Crash Bandicoot Purple: Ripto's Rampage"", 'Crash Bandicoot 2: N-Tranced']"
-600,Vigil Games,Austin,Texas,United States,2005,Darksiders series,[]
-602,Visceral Games,Redwood City,California,United States,1998,Dead Space series,"['Dead Space 3', 'Dead Space 2: Severed DLC', 'Dead Space 3: Awakened DLC', 'Dead Space 2', 'Dead Space']"
-603,Visual Concepts,Novato,California,United States,1988,NFL 2KNBA 2K seriesMLB 2K series,"['NFL 2K', 'NBA 2K']"
-608,Webfoot Technologies,Chicago,Illinois,United States,1993,Dragon Ball Z: The Legacy of GokuYou Don't Know Jack!  series[which?]Deadly Rooms of Death,"[""Dragon Ball Z: Buu's Fury"", 'Dragon Ball GT: Transformation', 'Dragon Ball Z: The Legacy of Goku II', 'Dragon Ball Z: The Legacy of Goku']"
-611,Westwood Studios,Las Vegas,Nevada,United States,1985,Eye of the BeholderDune IIThe Legend of Kyrandia seriesLands of Lore seriesCommand & Conquer series,"['The Legend of Kyrandia Book One', ""The Legend of Kyrandia Book Three: Malcolm's Revenge"", 'Command & Conquer: Renegade', 'Command & Conquer: The Covert Operations', 'Command & Conquer: Red Alert', 'The Legend of Kyrandia Book Two: The Hand of Fate', 'Command & Conquer: Tiberian Sun', 'Dune II: The Building of a Dynasty', 'Command & Conquer: Red Alert - Retaliation', 'Lands of Lore III']"
-612,Wideload Games,Chicago,Illinois,United States,2003,Stubbs the Zombie in Rebel Without a Pulse,[]
-620,ZeniMax Online Studios,Hunt Valley,Maryland,United States,2007,The Elder Scrolls Online,['The Elder Scrolls Online']
-622,Zipper Interactive,Redmond,Washington,United States,1995,SOCOM U.S. Navy SEALs seriesMechWarrior 3,"['SOCOM: U.S. Navy SEALs Fireteam Bravo', 'MechWarrior 3', 'SOCOM 3: U.S. Navy SEALs', 'SOCOM: U.S. Navy SEALs Combined Assault', 'SOCOM: U.S. Navy SEALs Fireteam Bravo 2', 'SOCOM 4: U.S. Navy SEALs / Special Forces', 'SOCOM: U.S. Navy SEALs']"
-626,Zynga,San Francisco,California,United States,2007,FarmVilleZynga Poker,['FarmVille']
+0,11 bit studios,Warsaw,Masovian Voivodeship,Poland,2010,Frostpunk,
+1,11 bit studios,Warsaw,Masovian Voivodeship,Poland,2010,Frostpunk,Frostpunk
+2,2K Sports,Novato,California,United States,2005,NBA 2K seriesNHL 2K seriesWWE 2K series,
+3,343 Industries,Redmond,Washington,United States,2009,Halo series,
+4,989 Studios,Foster City,California,United States,1995,Twisted Metal III–4Jet Moto 2124,Twisted Metal III
+5,Acclaim Studios Austin,Santa Clara,California,United States,1991,Turok seriesAll-Star Baseball seriesSouth Park series,All-Star Baseball 2002
+6,Accolade,San Jose,California,United States,1984,HardBall! seriesStar Control seriesTest Drive II–III,Test Drive III: The Passion
+7,Access Software,Salt Lake City,Utah,United States,1982,Under a Killing MoonThe Pandora Directive,Under a Killing Moon
+8,Access Software,Salt Lake City,Utah,United States,1982,Under a Killing MoonThe Pandora Directive,The Pandora Directive
+9,Activision,Santa Monica,California,United States,1979,Call of Duty seriesCrash Bandicoot seriesSpyro the Dragon seriesTony Hawk's Pro Skater seriesGuitar Hero seriesSkylanders seriesMechWarrior 2,
+10,Adventure Soft,Birmingham,England,United Kingdom,1992,Simon the Sorcerer series,"Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe"
+11,Adventure Soft,Birmingham,England,United Kingdom,1992,Simon the Sorcerer series,Simon the Sorcerer
+12,Amazon Game Studios,Seattle,Washington,United States,2012,New World,
+13,ArenaNet,Bellevue,Washington,United States,2000,Guild WarsGuild Wars 2,Guild Wars 2
+14,Atomic Planet Entertainment,Middlesbrough,England,United Kingdom,2000,Taito Legends series,
+15,Backflip Studios,Boulder,Colorado,United States,2009,DragonVale,
+16,Beenox,Quebec City,Quebec,Canada,2000,Spider-Man game seriesCrash Team Racing Nitro-Fueled,Crash Team Racing Nitro-Fueled
+17,Bethesda Game Studios,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls V: Skyrim - Dawnguard DLC
+18,Bethesda Game Studios,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls III: Morrowind
+19,Bethesda Game Studios,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls IV: Oblivion - Game of the Year Edition
+20,Bethesda Game Studios,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls V: Skyrim - Special Edition
+21,Bethesda Game Studios,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls V: Skyrim - Hearthfire
+22,Bethesda Game Studios,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls V: Skyrim - Dragonborn DLC
+23,Bethesda Game Studios,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls V: Skyrim
+24,Bethesda Game Studios,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls III: Morrowind - Game of the Year Edition
+25,Bethesda Game Studios,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls IV: Orrery
+26,Bethesda Game Studios,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls V: Skyrim VR
+27,Bethesda Softworks,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls IV: Shivering Isles
+28,Bethesda Softworks,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls III: Tribunal
+29,Bethesda Softworks,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls Adventures: Redguard
+30,Bethesda Softworks,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls Travels: Stormhold
+31,Bethesda Softworks,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls III: Bloodmoon
+32,Bethesda Softworks,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,An Elder Scrolls Legend: Battlespire
+33,Bethesda Softworks,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls IV: Knights of the Nine
+34,Bethesda Softworks,Rockville,Maryland,United States,2001,The Elder Scrolls seriesFallout series,The Elder Scrolls II: Daggerfall
+35,Big Huge Games,Baltimore,Maryland,United States,2000,Rise of NationsKingdoms of Amalur: ReckoningDomiNations,Rise of Nations
+36,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Anthem
+37,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Baldur's Gate II: Shadows of Amn
+38,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 2: Arrival DLC
+39,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Dragon Age II: Mark of The Assassin DLC
+40,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 3: Omega DLC
+41,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Star Wars: The Old Republic
+42,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Baldur's Gate II: Throne of Bhaal
+43,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 2: Overlord DLC
+44,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Dragon Age II: Legacy DLC
+45,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 2: Lair of the Shadow Broker DLC
+46,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 3: Extended Cut DLC
+47,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Star Wars: Knights of the Old Republic
+48,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 3: From Ashes DLC
+49,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 2: Normandy Crash Site DLC
+50,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect Trilogy
+51,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Star Wars: The Old Republic - Rise of the Hutt Cartel
+52,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Dragon Age II
+53,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 3: Leviathan DLC
+54,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 2: Zaeed - The Price of Revenge DLC
+55,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 3
+56,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Dragon Age II: The Exiled Prince DLC
+57,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Star Wars: The Old Republic - Shadow of Revan
+58,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 2: Kasumi DLC
+59,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 2: Firewalker Pack DLC
+60,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect Galaxy
+61,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 2
+62,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Baldur's Gate
+63,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Mass Effect 3: Citadel DLC
+64,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Neverwinter Nights
+65,BioWare,Edmonton,Alberta,Canada,1995,Baldur's Gate seriesMass Effect seriesDragon Age seriesNeverwinter NightsStar Wars: The Old RepublicAnthem,Heroes of Dragon Age
+66,The Bitmap Brothers,London,England,United Kingdom,1987,Xenon series,
+67,Bits Studios,London,England,United Kingdom,1991,Spider-Man: Return of the Sinister Six,Spider-Man: Return of the Sinister Six
+68,Bizarre Creations,Liverpool,England,United Kingdom,1994,Project Gotham Racing seriesGeometry Wars series,Project Gotham Racing 4
+69,Bizarre Creations,Liverpool,England,United Kingdom,1994,Project Gotham Racing seriesGeometry Wars series,Project Gotham Racing 3
+70,Bizarre Creations,Liverpool,England,United Kingdom,1994,Project Gotham Racing seriesGeometry Wars series,Project Gotham Racing
+71,Bizarre Creations,Liverpool,England,United Kingdom,1994,Project Gotham Racing seriesGeometry Wars series,Project Gotham Racing 2
+72,Black Isle Studios,Orange County,California,United States,1996,Fallout 2Planescape: TormentIcewind Dale,Icewind Dale
+73,Black Isle Studios,Orange County,California,United States,1996,Fallout 2Planescape: TormentIcewind Dale,Fallout 2
+74,Black Isle Studios,Orange County,California,United States,1996,Fallout 2Planescape: TormentIcewind Dale,Planescape: Torment
+75,Black Rock Studio,Brighton,England,United Kingdom,1998,MotoGP 2ATV Offroad Fury 3,
+76,Blitz Games Studios,Leamington Spa,England,United Kingdom,1990,Karaoke Revolution,
+77,Blizzard Entertainment,Irvine,California,United States,1991,Diablo seriesStarCraft seriesWarcraft seriesHearthstoneHeroes of the StormOverwatch,StarCraft II: Heart of the Swarm
+78,Blizzard Entertainment,Irvine,California,United States,1991,Diablo seriesStarCraft seriesWarcraft seriesHearthstoneHeroes of the StormOverwatch,Hearthstone: Heroes of Warcraft
+79,Blizzard Entertainment,Irvine,California,United States,1991,Diablo seriesStarCraft seriesWarcraft seriesHearthstoneHeroes of the StormOverwatch,Heroes of the Storm
+80,Blizzard Entertainment,Irvine,California,United States,1991,Diablo seriesStarCraft seriesWarcraft seriesHearthstoneHeroes of the StormOverwatch,Overwatch
+81,Blue Fang Games,Waltham,Massachusetts,United States,1998,Zoo Tycoon series,Zoo Tycoon
+82,Blue Fang Games,Waltham,Massachusetts,United States,1998,Zoo Tycoon series,Zoo Tycoon 2 DS
+83,Blue Tongue Entertainment,Melbourne,Victoria,Australia,1995,Jurassic Park: Operation Genesisde BlobMarvel Super Hero Squad,Jurassic Park: Operation Genesis
+84,Boss Key Productions,Raleigh,North Carolina,United States,2014,LawBreakers,LawBreakers
+85,Bullfrog Productions,Guildford,England,United Kingdom,1987,Theme ParkMagic CarpetSyndicateDungeon Keeper series,Dungeon Keeper
+86,Bullfrog Productions,Guildford,England,United Kingdom,1987,Theme ParkMagic CarpetSyndicateDungeon Keeper series,Syndicate
+87,Bullfrog Productions,Guildford,England,United Kingdom,1987,Theme ParkMagic CarpetSyndicateDungeon Keeper series,Magic Carpet
+88,Bullfrog Productions,Guildford,England,United Kingdom,1987,Theme ParkMagic CarpetSyndicateDungeon Keeper series,Theme Park
+89,Bullfrog Productions,Guildford,England,United Kingdom,1987,Theme ParkMagic CarpetSyndicateDungeon Keeper series,Magic Carpet 2: The Netherworlds
+90,Bullfrog Productions,Guildford,England,United Kingdom,1987,Theme ParkMagic CarpetSyndicateDungeon Keeper series,Dungeon Keeper 2
+91,Bullfrog Productions,Guildford,England,United Kingdom,1987,Theme ParkMagic CarpetSyndicateDungeon Keeper series,Theme Park World
+92,Bungie,Bellevue,Washington,United States,1991,Halo seriesMarathonOniMythPathways into DarknessMinotaur: The Labyrinths of CreteOperation: Desert StormDestiny series,Destiny
+93,Capcom Vancouver,Burnaby,British Columbia,Canada,2005,Dead Rising series,Dead Rising 3: Operation Broken Eagle
+94,Capcom Vancouver,Burnaby,British Columbia,Canada,2005,Dead Rising series,Dead Rising 3: Chaos Rising DLC
+95,Capcom Vancouver,Burnaby,British Columbia,Canada,2005,Dead Rising series,Dead Rising 3
+96,Capcom Vancouver,Burnaby,British Columbia,Canada,2005,Dead Rising series,Dead Rising 3: Fallen Angel DLC
+97,Capcom Vancouver,Burnaby,British Columbia,Canada,2005,Dead Rising series,Dead Rising 3: The Last Agent DLC
+98,Carbine Studios,Aliso Viejo,California,United States,2005,WildStar,WildStar
+99,CD Projekt Red,Warsaw,Masovian Voivodeship,Poland,2002,The Witcher seriesCyberpunk 2077,Cyberpunk 2077
+100,CD Projekt Red,Warsaw,Masovian Voivodeship,Poland,2002,The Witcher seriesCyberpunk 2077,
+101,Certain Affinity,Austin,Texas,United States,2006,Halo series,
+102,Chair Entertainment,Salt Lake City,Utah,United States,2005,UndertowShadow ComplexInfinity Blade series,Undertow
+103,Codemasters,Southam,England,United Kingdom,1985,F1 seriesColin McRae Rally seriesOperation Flashpoint seriesGrid series,Colin McRae Rally 3
+104,Codemasters,Southam,England,United Kingdom,1985,F1 seriesColin McRae Rally seriesOperation Flashpoint seriesGrid series,Colin McRae Rally 04
+105,Compulsion Games,Montreal,Quebec,Canada,2009,ContrastWe Happy Few,Contrast
+106,Compulsion Games,Montreal,Quebec,Canada,2009,ContrastWe Happy Few,We Happy Few
+107,Core Design,Derby,England,United Kingdom,1988,Tomb Raider series,
+108,Core Design,Derby,England,United Kingdom,1988,Tomb Raider series,Tomb Raider Starring Lara Croft
+109,Core Design,Derby,England,United Kingdom,1988,Tomb Raider series,Tomb Raider Chronicles
+110,Core Design,Derby,England,United Kingdom,1988,Tomb Raider series,Tomb Raider Gold - The Shadow of the Cat
+111,Core Design,Derby,England,United Kingdom,1988,Tomb Raider series,Tomb Raider II: Golden Mask
+112,Core Design,Derby,England,United Kingdom,1988,Tomb Raider series,Tomb Raider II
+113,Core Design,Derby,England,United Kingdom,1988,Tomb Raider series,Tomb Raider III
+114,Core Design,Derby,England,United Kingdom,1988,Tomb Raider series,Tomb Raider (2000)
+115,Creative Assembly,Horsham,England,United Kingdom,1987,Total War seriesAlien: Isolation,Medieval: Total War - Gold Edition
+116,Creative Assembly,Horsham,England,United Kingdom,1987,Total War seriesAlien: Isolation,SHOGUN: Total War - Gold Edition
+117,Creative Assembly,Horsham,England,United Kingdom,1987,Total War seriesAlien: Isolation,Total War Battles: Kingdom
+118,Creative Assembly,Horsham,England,United Kingdom,1987,Total War seriesAlien: Isolation,Total War Saga: Thrones of Britannia
+119,Criterion Games,Guildford,England,United Kingdom,1993,Burnout series,Burnout
+120,Cryptic Studios,Los Gatos,California,United States,2000,City of HeroesChampions OnlineStar Trek Online,Star Trek Online
+121,Cryptic Studios,Los Gatos,California,United States,2000,City of HeroesChampions OnlineStar Trek Online,Champions Online
+122,Crystal Dynamics,Redwood City,California,United States,1992,Legacy Of Kain seriesTomb Raider series (second era),Rise of the Tomb Raider - Cold Darkness Awakened
+123,Crystal Dynamics,Redwood City,California,United States,1992,Legacy Of Kain seriesTomb Raider series (second era),Blood Omen 2: Legacy of Kain
+124,Crystal Dynamics,Redwood City,California,United States,1992,Legacy Of Kain seriesTomb Raider series (second era),Rise of the Tomb Raider - Baba Yaga: The Temple of the Witch
+125,Crystal Dynamics,Redwood City,California,United States,1992,Legacy Of Kain seriesTomb Raider series (second era),Rise of the Tomb Raider
+126,Crystal Dynamics,Redwood City,California,United States,1992,Legacy Of Kain seriesTomb Raider series (second era),Rise of the Tomb Raider - Blood Ties
+127,Crystal Dynamics,Redwood City,California,United States,1992,Legacy Of Kain seriesTomb Raider series (second era),Tomb Raider: Tomb of the Lost Adventurer DLC
+128,Dambuster Studios,Nottingham,England,United Kingdom,2014,Homefront: The RevolutionDead Island 2,
+129,Day 1 Studios,Chicago,Illinois,United States,2001,Axis & Allies seriesMechAssault series,MechAssault
+130,Daybreak Game Company,San Diego,California,United States,1997,EverQuest seriesPlanetSide seriesH1Z1 series,H1Z1
+131,Digital Extremes,London,Ontario,Canada,1993,Warframe,Warframe
+132,Double Fine Productions,San Francisco,California,United States,2000,PsychonautsBroken AgeGang Beasts,Broken Age
+133,Dynamix,Eugene,Oregon,United States,1984,Red BaronFront Page Sports seriesBetrayal at KrondorTribes seriesMechWarrior,Red Baron 3D
+134,Dynamix,Eugene,Oregon,United States,1984,Red BaronFront Page Sports seriesBetrayal at KrondorTribes seriesMechWarrior,Red Baron
+135,Dynamix,Eugene,Oregon,United States,1984,Red BaronFront Page Sports seriesBetrayal at KrondorTribes seriesMechWarrior,MechWarrior
+136,Dynamix,Eugene,Oregon,United States,1984,Red BaronFront Page Sports seriesBetrayal at KrondorTribes seriesMechWarrior,Betrayal at Krondor
+137,Eat Sleep Play,Salt Lake City,Utah,United States,2007,Twisted Metal series,Twisted Metal (2012)
+138,Electronic Arts,Redwood City,California,United States,1982,FIFA seriesNeed For Speed seriesPlants vs. Zombies series Apex Legends,
+139,EA Sports,Redwood City,California,United States,1982,FIFA seriesNeed For Speed seriesPlants vs. Zombies series Apex Legends,
+140,Ensemble Studios,Dallas,Texas,United States,1995,Age of Empires seriesAge of MythologyHalo Wars,Age of Empires
+141,Ensemble Studios,Dallas,Texas,United States,1995,Age of Empires seriesAge of MythologyHalo Wars,Age of Empires II: The Conquerors
+142,Ensemble Studios,Dallas,Texas,United States,1995,Age of Empires seriesAge of MythologyHalo Wars,Age of Empires III: Complete Collection
+143,Ensemble Studios,Dallas,Texas,United States,1995,Age of Empires seriesAge of MythologyHalo Wars,Age of Empires II: The Age of Kings
+144,Ensemble Studios,Dallas,Texas,United States,1995,Age of Empires seriesAge of MythologyHalo Wars,Age of Mythology
+145,Epic Games,Cary,North Carolina,United States,1991,Unreal seriesGears of War seriesShadow ComplexInfinity Blade seriesFortnite,Gears of War
+146,Epic Games,Cary,North Carolina,United States,1991,Unreal seriesGears of War seriesShadow ComplexInfinity Blade seriesFortnite,Gears of War 2: Road to Ruin DLC
+147,Epic Games,Cary,North Carolina,United States,1991,Unreal seriesGears of War seriesShadow ComplexInfinity Blade seriesFortnite,Gears of War 3: RAAM's Shadow DLC
+148,Epic Games,Cary,North Carolina,United States,1991,Unreal seriesGears of War seriesShadow ComplexInfinity Blade seriesFortnite,Gears of War 2
+149,Epic Games,Cary,North Carolina,United States,1991,Unreal seriesGears of War seriesShadow ComplexInfinity Blade seriesFortnite,Gears of War 3
+150,Epyx,San Francisco,California,United States,1978,California Games seriesImpossible Mission seriesJumpman seriesPitstop seriesSummer Games series,California Games
+151,Epyx,San Francisco,California,United States,1978,California Games seriesImpossible Mission seriesJumpman seriesPitstop seriesSummer Games series,Impossible Mission (1984)
+152,Epyx,San Francisco,California,United States,1978,California Games seriesImpossible Mission seriesJumpman seriesPitstop seriesSummer Games series,California Games II
+153,Epyx,San Francisco,California,United States,1978,California Games seriesImpossible Mission seriesJumpman seriesPitstop seriesSummer Games series,Summer Games II
+154,Evolution Studios,Runcorn,England,United Kingdom,1999,World Rally Championship seriesMotorStorm series,World Rally Championship (2001)
+155,Evolution Studios,Runcorn,England,United Kingdom,1999,World Rally Championship seriesMotorStorm series,MotorStorm
+156,FASA Studio,Redmond,Washington,United States,1994,MechCommander seriesMechWarrior 4,
+157,Firaxis Games,Sparks,Maryland,United States,1996,Civilization series (part 3 and later)XCOM (Reboot) series,
+158,Flagship Studios,San Francisco,California,United States,2003,Hellgate:LondonMythos,Mythos
+159,FTL Games,San Diego,California,United States,1982,Dungeon Master series,Dungeon Master
+160,FTL Games,San Diego,California,United States,1982,Dungeon Master series,Dungeon Master II: The Legend of Skullkeep
+161,GameHouse,Seattle,Washington,United States,1998,Delicious series,
+162,GameHouse,Seattle,Washington,United States,1998,Delicious series,
+163,Glu Mobile,San Francisco,California,United States,2001,Deer Hunter series,
+164,Gray Matter Interactive,Los Angeles,California,United States,1993,Call of Duty: United Offensive,Call of Duty: United Offensive
+165,Gremlin Interactive,Sheffield,England,United Kingdom,1984,Zool and Premier Manager,
+166,Griptonite Games,Kirkland,Washington,United States,1994,Marvel Super Hero Squad: Comic Combat,Marvel Super Hero Squad: Comic Combat
+167,Guerrilla Cambridge,Cambridge,England,United Kingdom,"1997 (as SCE Cambridge Studio), 2013",MediEvil series,
+168,Gunfire Games,Austin,Texas,United States,2014,Darksiders IIIRemnant: From the Ashes,Darksiders III
+169,Halfbrick,Brisbane,Queensland,Australia,2001,Fruit Ninja seriesJetpack Joyride,
+170,Hangar 13,Novato,California,United States,2014,Mafia III,Mafia III
+171,Harebrained Schemes,Seattle,Washington,United States,2011,Shadowrun ReturnsShadowrun: DragonfallShadowrun: Hong Kong,Shadowrun: Hong Kong
+172,Harebrained Schemes,Seattle,Washington,United States,2011,Shadowrun ReturnsShadowrun: DragonfallShadowrun: Hong Kong,Shadowrun: Dragonfall
+173,Harebrained Schemes,Seattle,Washington,United States,2011,Shadowrun ReturnsShadowrun: DragonfallShadowrun: Hong Kong,Shadowrun Returns
+174,Harmonix Music Systems,Cambridge,Massachusetts,United States,1995,Guitar Hero seriesRock Band seriesDance Central series,Guitar Hero Encore: Rocks the 80s
+175,Harmonix Music Systems,Cambridge,Massachusetts,United States,1995,Guitar Hero seriesRock Band seriesDance Central series,Dance Central 2
+176,Harmonix Music Systems,Cambridge,Massachusetts,United States,1995,Guitar Hero seriesRock Band seriesDance Central series,Rock Band Track Pack: Country
+177,Harmonix Music Systems,Cambridge,Massachusetts,United States,1995,Guitar Hero seriesRock Band seriesDance Central series,Rock Band Track Pack: Volume 1
+178,Harmonix Music Systems,Cambridge,Massachusetts,United States,1995,Guitar Hero seriesRock Band seriesDance Central series,Rock Band Track Pack: Volume 2
+179,Harmonix Music Systems,Cambridge,Massachusetts,United States,1995,Guitar Hero seriesRock Band seriesDance Central series,Guitar Hero
+180,Harmonix Music Systems,Cambridge,Massachusetts,United States,1995,Guitar Hero seriesRock Band seriesDance Central series,Guitar Hero II
+181,Harmonix Music Systems,Cambridge,Massachusetts,United States,1995,Guitar Hero seriesRock Band seriesDance Central series,Rock Band Track Pack: Metal
+182,Harmonix Music Systems,Cambridge,Massachusetts,United States,1995,Guitar Hero seriesRock Band seriesDance Central series,Dance Central
+183,Headstrong Games,London,England,United Kingdom,2000,Battalion Wars seriesArt Academy series,New Art Academy
+184,Headstrong Games,London,England,United Kingdom,2000,Battalion Wars seriesArt Academy series,Disney Art Academy
+185,Headstrong Games,London,England,United Kingdom,2000,Battalion Wars seriesArt Academy series,Pokémon Art Academy
+186,High Impact Games,Burbank,California,United States,2003,Ratchet & Clank: Size MattersSecret Agent ClankJak and Daxter: The Lost Frontier,Ratchet & Clank: Size Matters
+187,High Impact Games,Burbank,California,United States,2003,Ratchet & Clank: Size MattersSecret Agent ClankJak and Daxter: The Lost Frontier,Jak and Daxter: The Lost Frontier
+188,High Moon Studios,San Diego,California,United States,2005,Transformers: War for Cybertron seriesDeadpool,Transformers: War for Cybertron
+189,High Moon Studios,San Diego,California,United States,2005,Transformers: War for Cybertron seriesDeadpool,Deadpool
+190,Hothead Games,Vancouver,British Columbia,Canada,2006,DeathSpankSwarm,DeathSpank
+191,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Freddi Fish 5: The Case of the Creature of Coral Cove
+192,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,"Spy Fox 3: ""Operation Ozone"""
+193,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Pajama Sam 3: You Are What You Eat From Your Head To Your Feet
+194,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Spy Fox in Dry Cereal
+195,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch
+196,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Freddi Fish 2: The Case of the Haunted Schoolhouse
+197,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Putt-Putt: Pep's Birthday Surprise
+198,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Spy Fox in Hold the Mustard
+199,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Freddi Fish and Luther's Water Worries
+200,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Spy Fox in Cheese Chase
+201,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Freddi Fish and Luther's Maze Madness
+202,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Putt-Putt and Pep's Dog on a Stick
+203,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,"Spy Fox 2: ""Some Assembly Required"""
+204,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Fatty Bear's Birthday Surprise
+205,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Freddi Fish and the Case of the Stolen Conch Shell
+206,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Putt-Putt and Fatty Bear's Activity Pack
+207,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Pajama Sam 2: Thunder and Lightning Aren't so Frightening
+208,Humongous Entertainment,Bothell,Washington,United States,1992,Fatty Bear's Birthday SurprisePutt-Putt seriesFreddi Fish seriesPajama Sam seriesSpy Fox seriesBackyard Sports series,Freddi Fish and the Case of the Missing Kelp Seeds
+209,id Software,Mesquite,Texas,United States,1991,Wolfenstein seriesDoom seriesQuake series,
+210,id Software,Mesquite,Texas,United States,1991,Wolfenstein seriesDoom seriesQuake series,Quake
+211,Infinity Ward,Woodland Hills,California,United States,2002,Call of Duty series,Call of Duty 4: Modern Warfare
+212,Infinity Ward,Woodland Hills,California,United States,2002,Call of Duty series,Call of Duty Classic
+213,Infinity Ward,Woodland Hills,California,United States,2002,Call of Duty series,Call of Duty 2
+214,Infinity Ward,Woodland Hills,California,United States,2002,Call of Duty series,Call of Duty
+215,Infocom,Cambridge,Massachusetts,United States,1979,Zork seriesPlanetfall seriesThe Hitchhiker's Guide to the GalaxyLeather Goddesses of Phobos,Leather Goddesses of Phobos
+216,Infocom,Cambridge,Massachusetts,United States,1979,Zork seriesPlanetfall seriesThe Hitchhiker's Guide to the GalaxyLeather Goddesses of Phobos,The Hitchhiker's Guide to the Galaxy
+217,Infocom,Cambridge,Massachusetts,United States,1979,Zork seriesPlanetfall seriesThe Hitchhiker's Guide to the GalaxyLeather Goddesses of Phobos,Return to Zork
+218,Infocom,Cambridge,Massachusetts,United States,1979,Zork seriesPlanetfall seriesThe Hitchhiker's Guide to the GalaxyLeather Goddesses of Phobos,Planetfall
+219,Infocom,Cambridge,Massachusetts,United States,1979,Zork seriesPlanetfall seriesThe Hitchhiker's Guide to the GalaxyLeather Goddesses of Phobos,Leather Goddesses of Phobos 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X!
+220,Incognito Entertainment,Salt Lake City,Utah,United States,1999,Twisted Metal seriesWarhawk (2007),
+221,Incredible Technologies,Arlington Heights,Illinois,United States,1985,Golden Tee Golf,
+222,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Ratchet & Clank
+223,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Ratchet & Clank Future: Tools of Destruction
+224,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Sunset Overdrive
+225,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Spyro the Dragon
+226,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Ratchet & Clank (2016)
+227,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Ratchet & Clank: All 4 One
+228,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Ratchet & Clank: Going Commando
+229,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Ratchet & Clank: Up Your Arsenal
+230,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Ratchet & Clank Future: Quest for Booty
+231,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Ratchet & Clank: Full Frontal Assault
+232,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Resistance 2
+233,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Ratchet & Clank Future: A Crack in Time
+234,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Ratchet & Clank Collection
+235,Insomniac Games,Burbank,California,United States,1994,Spyro the Dragon seriesRatchet & Clank seriesResistance seriesSunset OverdriveSpider-Man (2018),Ratchet & Clank: Into the Nexus
+236,Interplay Entertainment,Beverly Hills,California,United States,1983,Earthworm Jim seriesClayFighter seriesWastelandFallout seriesThe Bard's Tale series,Fallout
+237,inXile Entertainment,Newport Beach,California,United States,2002,Wasteland 2The Bard's Tale IV: Barrows Deep,Wasteland 2
+238,inXile Entertainment,Newport Beach,California,United States,2002,Wasteland 2The Bard's Tale IV: Barrows Deep,The Bard's Tale IV: Barrows Deep
+239,Ion Storm,Dallas,Texas,United States,1996,DaikatanaAnachronox,Daikatana
+240,Ion Storm,Dallas,Texas,United States,1996,DaikatanaAnachronox,Anachronox
+241,Iron Lore Entertainment,Maynard,Massachusetts,United States,2000,"Titan Quest seriesWarhammer 40,000: Dawn of War – Soulstorm",
+242,Irrational Games,Quincy,Massachusetts,United States,1996,System Shock 2Freedom Force seriesBioShock series,Freedom Force vs. the 3rd Reich
+243,Irrational Games,Quincy,Massachusetts,United States,1996,System Shock 2Freedom Force seriesBioShock series,BioShock Infinite: Burial at Sea - Episode 2 DLC
+244,Irrational Games,Quincy,Massachusetts,United States,1996,System Shock 2Freedom Force seriesBioShock series,Freedom Force (2002)
+245,Jagex,Cambridge,England,United Kingdom,2001,RuneScape,
+246,Jam City,Los Angeles,California,United States,2007,Harry Potter: Hogwarts Mystery,Harry Potter: Hogwarts Mystery
+247,Javaground,Irvine,Massachusetts,United States,2001,God of War: Betrayal,God of War: Betrayal
+248,Krome Studios,Brisbane,Queensland,Australia,1999,The Legend of Spyro: A New Beginning,
+249,Krome Studios Melbourne,Melbourne,Victoria,Australia,1988,Horace series,
+250,Kuju Entertainment,Shalford,England,United Kingdom,1998,Microsoft Train Simulator,Microsoft Train Simulator
+251,Legend Entertainment,Chantilly,Virginia,United States,1989,Spellcasting seriesSuperhero League of HobokenThe Wheel of TimeUnreal II,Superhero League of Hoboken
+252,Legend Entertainment,Chantilly,Virginia,United States,1989,Spellcasting seriesSuperhero League of HobokenThe Wheel of TimeUnreal II,The Wheel of Time
+253,Lionhead Studios,Guildford,England,United Kingdom,1997,Black & White seriesFable series,Black & White 2: Battle of the Gods
+254,Lionhead Studios,Guildford,England,United Kingdom,1997,Black & White seriesFable series,Black & White
+255,Lionhead Studios,Guildford,England,United Kingdom,1997,Black & White seriesFable series,Black & White 2
+256,Lionhead Studios,Guildford,England,United Kingdom,1997,Black & White seriesFable series,Black & White: Creature Isle
+257,Liquid Entertainment,Pasadena,California,United States,1999,Battle Realms,Battle Realms
+258,Locomotive Games,Santa Clara,California,United States,1997,Jet Moto 3,
+259,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Starfighter
+260,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: The Force Unleashed
+261,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Masters of Teras Kasi
+262,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: The Force Unleashed - Ultimate Sith Edition
+263,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Jedi Starfighter
+264,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars Jedi Knight: Dark Forces II
+265,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Sam & Max Hit the Road
+266,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Obi-Wan
+267,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars Jedi Knight: Mysteries of the Sith
+268,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Rebel Assault II: The Hidden Empire
+269,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Yoda Stories
+270,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Monkey Island 2: LeChuck's Revenge
+271,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Jedi Power Battles
+272,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: The Force Unleashed II
+273,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: The Force Unleashed II - Endor DLC
+274,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Bounty Hunter
+275,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars (1991)
+276,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars Episode I: Jedi Power Battles
+277,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Republic Commando
+278,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Escape from Monkey Island
+279,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars Episode II: Attack of the Clones
+280,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,The Curse of Monkey Island
+281,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Rebel Assault I & II
+282,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Full Throttle (1995)
+283,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Grim Fandango
+284,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Dark Forces
+285,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: The Force Unleashed - Tatooine DLC
+286,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Day of the Tentacle
+287,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars Episode I: Racer
+288,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: The Force Unleashed - Hoth DLC
+289,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: The Clone Wars - Jedi Alliance
+290,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: The Force Unleashed - Jedi Temple DLC
+291,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Assault Team
+292,LucasArts,San Francisco,California,United States,1982,Maniac MansionSam & Max Hit the RoadDay of the TentacleMonkey Island seriesThe DigFull ThrottleGrim FandangoStar Wars: The Force Unleashed seriesStar Wars: Battlefront series,Star Wars: Rebel Assault
+293,Maxis,Emeryville,California,United States,1987,The Sims seriesSimCity series,
+294,Media Molecule,Guildford,England,United Kingdom,2006,LittleBigPlanet seriesTereaway,LittleBigPlanet
+295,Microsoft,Redmond,Washington,United States,2013,SolitaireMahjongMinesweeperWordament,
+296,Midway Games,Chicago,Illinois,United States,1988,Mortal Kombat series,
+297,Mode 7 Games,Brighton,East Sussex,United Kingdom,2005,Frozen Synapse seriesTokyo 42,Frozen Synapse
+298,Monolith Productions,Kirkland,Washington,United States,1994,F.E.A.R. seriesMiddle-earth: Shadow of Mordor Middle-earth: Shadow of War,Middle-Earth: Shadow of War - The Desolation of Mordor
+299,Monolith Productions,Kirkland,Washington,United States,1994,F.E.A.R. seriesMiddle-earth: Shadow of Mordor Middle-earth: Shadow of War,Middle-Earth: Shadow of War
+300,Monolith Productions,Kirkland,Washington,United States,1994,F.E.A.R. seriesMiddle-earth: Shadow of Mordor Middle-earth: Shadow of War,Middle-Earth: Shadow of War - Blade of Galadriel
+301,Monolith Productions,Kirkland,Washington,United States,1994,F.E.A.R. seriesMiddle-earth: Shadow of Mordor Middle-earth: Shadow of War,Middle-Earth: Shadow of Mordor - Game of the Year
+302,Monolith Productions,Kirkland,Washington,United States,1994,F.E.A.R. seriesMiddle-earth: Shadow of Mordor Middle-earth: Shadow of War,Middle-Earth: Shadow of Mordor - The Bright Lord DLC
+303,Mythic Entertainment,Fairfax,Virginia,United States,1995,Dark Age of Camelot,Dark Age of Camelot
+304,NaturalMotion,London,England,United Kingdom,2001,Backbreaker series,Backbreaker
+305,Naughty Dog,Santa Monica,California,United States,1986,Crash Bandicoot seriesJak and Daxter seriesUncharted seriesThe Last of Us series,Crash Bandicoot 3: Warped
+306,Naughty Dog,Santa Monica,California,United States,1986,Crash Bandicoot seriesJak and Daxter seriesUncharted seriesThe Last of Us series,Jak and Daxter: The Precursor Legacy
+307,Naughty Dog,Santa Monica,California,United States,1986,Crash Bandicoot seriesJak and Daxter seriesUncharted seriesThe Last of Us series,Crash Bandicoot
+308,Naughty Dog,Santa Monica,California,United States,1986,Crash Bandicoot seriesJak and Daxter seriesUncharted seriesThe Last of Us series,Crash Bandicoot 2: Cortex Strikes Back
+309,Naughty Dog,Santa Monica,California,United States,1986,Crash Bandicoot seriesJak and Daxter seriesUncharted seriesThe Last of Us series,The Last of Us Remastered
+310,Naughty Dog,Santa Monica,California,United States,1986,Crash Bandicoot seriesJak and Daxter seriesUncharted seriesThe Last of Us series,The Last of Us
+311,NetherRealm Studios,Chicago,Illinois,United States,2010,Mortal Kombat seriesInjustice: Gods Among Us Injustice 2,Mortal Kombat XL
+312,NetherRealm Studios,Chicago,Illinois,United States,2010,Mortal Kombat seriesInjustice: Gods Among Us Injustice 2,Mortal Kombat (2011)
+313,NetherRealm Studios,Chicago,Illinois,United States,2010,Mortal Kombat seriesInjustice: Gods Among Us Injustice 2,Injustice 2
+314,NetherRealm Studios,Chicago,Illinois,United States,2010,Mortal Kombat seriesInjustice: Gods Among Us Injustice 2,Mortal Kombat X
+315,NetherRealm Studios,Chicago,Illinois,United States,2010,Mortal Kombat seriesInjustice: Gods Among Us Injustice 2,Injustice: Gods Among Us
+316,NetherRealm Studios,Chicago,Illinois,United States,2010,Mortal Kombat seriesInjustice: Gods Among Us Injustice 2,Mortal Kombat Arcade Kollection
+317,Neversoft,Woodland Hills,California,United States,1994,Guitar Hero seriesTony Hawk seriesGun,
+318,New World Interactive,Denver,Colorado,United States,2010,Insurgency,
+319,Nicalis,Santa Ana,California,United States,2007,VVVVVVCave StoryNightSky1001 SpikesThe Binding of Isaac: RebirthCrystal Crisis,NightSky
+320,Nicalis,Santa Ana,California,United States,2007,VVVVVVCave StoryNightSky1001 SpikesThe Binding of Isaac: RebirthCrystal Crisis,The Binding of Isaac: Rebirth
+321,Ninja Theory,Cambridge,England,United Kingdom,2000,Heavenly SwordEnslaved: Odyssey to the WestDmC: Devil May CryHellblade: Senua's Sacrifice,Hellblade: Senua's Sacrifice
+322,Ninja Theory,Cambridge,England,United Kingdom,2000,Heavenly SwordEnslaved: Odyssey to the WestDmC: Devil May CryHellblade: Senua's Sacrifice,Heavenly Sword
+323,Ninja Theory,Cambridge,England,United Kingdom,2000,Heavenly SwordEnslaved: Odyssey to the WestDmC: Devil May CryHellblade: Senua's Sacrifice,Enslaved: Odyssey to the West
+324,Ninja Theory,Cambridge,England,United Kingdom,2000,Heavenly SwordEnslaved: Odyssey to the WestDmC: Devil May CryHellblade: Senua's Sacrifice,DmC: Devil May Cry
+325,NovaLogic,Agoura Hills,California,United States,1985,Delta Force seriesJoint Operations series,Delta Force
+326,NovaLogic,Agoura Hills,California,United States,1985,Delta Force seriesJoint Operations series,Delta Force 2
+327,Obsidian Entertainment,Irvine,California,United States,2004,Fallout New VegasNeverwinter Nights 2Dungeon Siege IIISouth Park: The Stick of TruthPillars of EternityThe Outer Worlds,Dungeon Siege III
+328,Obsidian Entertainment,Irvine,California,United States,2004,Fallout New VegasNeverwinter Nights 2Dungeon Siege IIISouth Park: The Stick of TruthPillars of EternityThe Outer Worlds,The Outer Worlds
+329,Obsidian Entertainment,Irvine,California,United States,2004,Fallout New VegasNeverwinter Nights 2Dungeon Siege IIISouth Park: The Stick of TruthPillars of EternityThe Outer Worlds,South Park: The Stick of Truth
+330,Obsidian Entertainment,Irvine,California,United States,2004,Fallout New VegasNeverwinter Nights 2Dungeon Siege IIISouth Park: The Stick of TruthPillars of EternityThe Outer Worlds,Neverwinter Nights 2
+331,Obsidian Entertainment,Irvine,California,United States,2004,Fallout New VegasNeverwinter Nights 2Dungeon Siege IIISouth Park: The Stick of TruthPillars of EternityThe Outer Worlds,Pillars of Eternity
+332,Origin Systems,Austin,Texas,United States,1983,Ultima seriesUltima OnlineWing Commander series,
+333,Origin Systems,Austin,Texas,United States,1983,Ultima seriesUltima OnlineWing Commander series,Wing Commander II: Vengeance of the Kilrathi - Special Operations 1
+334,Origin Systems,Austin,Texas,United States,1983,Ultima seriesUltima OnlineWing Commander series,Wing Commander III: Heart of the Tiger
+335,Origin Systems,Austin,Texas,United States,1983,Ultima seriesUltima OnlineWing Commander series,Wing Commander II: Vengeance of the Kilrathi - Special Operations 2
+336,Origin Systems,Austin,Texas,United States,1983,Ultima seriesUltima OnlineWing Commander series,Wing Commander IV: The Price of Freedom
+337,Origin Systems,Austin,Texas,United States,1983,Ultima seriesUltima OnlineWing Commander series,Wing Commander
+338,Origin Systems,Austin,Texas,United States,1983,Ultima seriesUltima OnlineWing Commander series,Wing Commander II: Vengeance of the Kilrathi
+339,OtherSide Entertainment,Boston,Massachusetts,United States,2013,Underworld AscendantSystem Shock 3,Underworld Ascendant
+340,Outrage Entertainment,Ann Arbor,Michigan,United States,1996,Descent 3,Descent 3
+341,Page 44 Studios,San Francisco,California,United States,1998,FreekstyleHigh School Musical 3: Senior Year DanceMadden NFL 11 iOSuDraw PictionaryWorld of Goo iOS,
+342,Parallax Software,Ann Arbor,Michigan,United States,1993,Descent series,Descent
+343,Pandemic Studios,Los Angeles,California,United States,1998,Star Wars: BattlefrontDestroy All Humans! seriesFull Spectrum WarriorMercenaries: Playground of DestructionThe Saboteur,Destroy All Humans! 2
+344,Pandemic Studios,Los Angeles,California,United States,1998,Star Wars: BattlefrontDestroy All Humans! seriesFull Spectrum WarriorMercenaries: Playground of DestructionThe Saboteur,Destroy All Humans!
+345,Pandemic Studios,Los Angeles,California,United States,1998,Star Wars: BattlefrontDestroy All Humans! seriesFull Spectrum WarriorMercenaries: Playground of DestructionThe Saboteur,Mercenaries: Playground of Destruction
+346,Pandemic Studios,Los Angeles,California,United States,1998,Star Wars: BattlefrontDestroy All Humans! seriesFull Spectrum WarriorMercenaries: Playground of DestructionThe Saboteur,Star Wars: Battlefront (2004)
+347,Pandemic Studios,Los Angeles,California,United States,1998,Star Wars: BattlefrontDestroy All Humans! seriesFull Spectrum WarriorMercenaries: Playground of DestructionThe Saboteur,Star Wars: Battlefront II (2005)
+348,Pandemic Studios,Los Angeles,California,United States,1998,Star Wars: BattlefrontDestroy All Humans! seriesFull Spectrum WarriorMercenaries: Playground of DestructionThe Saboteur,Star Wars: The Clone Wars
+349,Pandemic Studios,Los Angeles,California,United States,1998,Star Wars: BattlefrontDestroy All Humans! seriesFull Spectrum WarriorMercenaries: Playground of DestructionThe Saboteur,Full Spectrum Warrior
+350,Piranha Games,Vancouver,British Columbia,Canada,2000,MechWarrior 5MechWarrior OnlineBass Pro Shops: The StrikeDie Hard: Nakatomi Plaza,Bass Pro Shops: The Strike
+351,Piranha Games,Vancouver,British Columbia,Canada,2000,MechWarrior 5MechWarrior OnlineBass Pro Shops: The StrikeDie Hard: Nakatomi Plaza,Die Hard: Nakatomi Plaza
+352,Piranha Games,Vancouver,British Columbia,Canada,2000,MechWarrior 5MechWarrior OnlineBass Pro Shops: The StrikeDie Hard: Nakatomi Plaza,MechWarrior Online
+353,Playfish,London,England,United Kingdom,2007,The Sims Social,
+354,Playground Games,Royal Leamington Spa,England,United Kingdom,2009,Forza Horizon seriesFable (2020),Forza Horizon 3
+355,Playground Games,Royal Leamington Spa,England,United Kingdom,2009,Forza Horizon seriesFable (2020),Forza Horizon 4: Fortune Island
+356,Playground Games,Royal Leamington Spa,England,United Kingdom,2009,Forza Horizon seriesFable (2020),Forza Horizon 4
+357,Playground Games,Royal Leamington Spa,England,United Kingdom,2009,Forza Horizon seriesFable (2020),Forza Horizon 3: Blizzard Mountain
+358,Playground Games,Royal Leamington Spa,England,United Kingdom,2009,Forza Horizon seriesFable (2020),Forza Horizon 2 Presents Fast & Furious
+359,PopCap Games,Seattle,Washington,United States,2000,Bejeweled seriesPlants vs. Zombies seriesPeggle seriesZuma,Plants vs. Zombies: Garden Warfare
+360,PopCap Games,Seattle,Washington,United States,2000,Bejeweled seriesPlants vs. Zombies seriesPeggle seriesZuma,Plants vs. Zombies: Heroes
+361,PopCap Games,Seattle,Washington,United States,2000,Bejeweled seriesPlants vs. Zombies seriesPeggle seriesZuma,Plants vs. Zombies
+362,PopCap Games,Seattle,Washington,United States,2000,Bejeweled seriesPlants vs. Zombies seriesPeggle seriesZuma,Plants vs. Zombies 2: It's About Time
+363,PopCap Games,Seattle,Washington,United States,2000,Bejeweled seriesPlants vs. Zombies seriesPeggle seriesZuma,Plants vs. Zombies: Garden Warfare 2
+364,PopCap Games,Seattle,Washington,United States,2000,Bejeweled seriesPlants vs. Zombies seriesPeggle seriesZuma,Bejeweled
+365,Psyonix,San Diego,California,United States,2001,Rocket LeagueXCOM: Enemy Unknown,Rocket League
+366,Rainbow Studios,Phoenix,Arizona,United States,1996,MX vs. ATV series,MX vs ATV All Out
+367,Rainbow Studios,Phoenix,Arizona,United States,1996,MX vs. ATV series,MX vs. ATV Unleashed
+368,Rainbow Studios,Phoenix,Arizona,United States,1996,MX vs. ATV series,MX vs. ATV Alive
+369,Rainbow Studios,Phoenix,Arizona,United States,1996,MX vs. ATV series,MX vs. ATV Supercross
+370,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Battletoads in Ragnarok's World
+371,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Donkey Kong Land
+372,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Donkey Kong 64
+373,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Killer Instinct Gold
+374,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Donkey Kong Country 3: Dixie Kong's Double Trouble!
+375,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Conker's Bad Fur Day
+376,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Sea of Thieves
+377,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Donkey Kong Land III
+378,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Perfect Dark Zero
+379,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Donkey Kong Country 2: Diddy's Kong Quest
+380,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Donkey Kong Country
+381,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Killer Instinct 2 Classic
+382,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Killer Instinct (1994)
+383,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,GoldenEye 007 (1997)
+384,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Banjo-Kazooie
+385,Rare,Twycross,England,United Kingdom,1985,Battletoads seriesDonkey Kong Country seriesKiller Instinct seriesBanjo-Kazooie seriesDonkey Kong 64GoldenEye 007Conker's Bad Fur DayPerfect Dark seriesSea of Thieves,Donkey Kong Land 2
+386,Raven Software,Middleton,Wisconsin,United States,1990,HereticHexenSingularityCall of Duty seriesStar Wars Jedi Knight II: Jedi OutcastSoldier of Fortune II: Double HelixMarvel: Ultimate Alliance,Heretic
+387,Raven Software,Middleton,Wisconsin,United States,1990,HereticHexenSingularityCall of Duty seriesStar Wars Jedi Knight II: Jedi OutcastSoldier of Fortune II: Double HelixMarvel: Ultimate Alliance,Hexen II - Mission Pack: Portal of Praevus
+388,Raven Software,Middleton,Wisconsin,United States,1990,HereticHexenSingularityCall of Duty seriesStar Wars Jedi Knight II: Jedi OutcastSoldier of Fortune II: Double HelixMarvel: Ultimate Alliance,Hexen II
+389,Raven Software,Middleton,Wisconsin,United States,1990,HereticHexenSingularityCall of Duty seriesStar Wars Jedi Knight II: Jedi OutcastSoldier of Fortune II: Double HelixMarvel: Ultimate Alliance,Hexen
+390,Raven Software,Middleton,Wisconsin,United States,1990,HereticHexenSingularityCall of Duty seriesStar Wars Jedi Knight II: Jedi OutcastSoldier of Fortune II: Double HelixMarvel: Ultimate Alliance,Marvel: Ultimate Alliance
+391,Raven Software,Middleton,Wisconsin,United States,1990,HereticHexenSingularityCall of Duty seriesStar Wars Jedi Knight II: Jedi OutcastSoldier of Fortune II: Double HelixMarvel: Ultimate Alliance,Soldier of Fortune
+392,Raven Software,Middleton,Wisconsin,United States,1990,HereticHexenSingularityCall of Duty seriesStar Wars Jedi Knight II: Jedi OutcastSoldier of Fortune II: Double HelixMarvel: Ultimate Alliance,Heretic II
+393,Raven Software,Middleton,Wisconsin,United States,1990,HereticHexenSingularityCall of Duty seriesStar Wars Jedi Knight II: Jedi OutcastSoldier of Fortune II: Double HelixMarvel: Ultimate Alliance,Singularity
+394,Ready at Dawn,Irvine,California,United States,2003,DaxterThe Order: 1886DeformersLone Echo,Deformers
+395,Ready at Dawn,Irvine,California,United States,2003,DaxterThe Order: 1886DeformersLone Echo,Lone Echo
+396,Ready at Dawn,Irvine,California,United States,2003,DaxterThe Order: 1886DeformersLone Echo,Daxter
+397,Realtime Worlds,Dundee,Scotland,United Kingdom,2002,Crackdown,Crackdown
+398,Red Storm Entertainment,Cary,North Carolina,United States,1996,Tom Clancy's Ghost ReconTom Clancy's Rainbow Six,Tom Clancy's Rainbow Six
+399,Reflexive Entertainment,Lake Forest,California,United States,1997,Airport Mania series,
+400,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,Company of Heroes 2: Ardennes Assault
+401,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,"Warhammer 40,000: Dawn of War - Winter Assault"
+402,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,Homeworld
+403,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,"Warhammer 40,000: Dawn of War - Dark Crusade"
+404,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,"Warhammer 40,000: Dawn of War III"
+405,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,Company of Heroes
+406,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,"Warhammer 40,000: Dawn of War II"
+407,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,"Warhammer 40,000: Dawn of War"
+408,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,Company of Heroes 2
+409,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,"Warhammer 40,000: Dawn of War II - Chaos Rising"
+410,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,"Warhammer 40,000: Dawn of War II - Retribution"
+411,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,Company of Heroes: The Great War 1918
+412,Relic Entertainment,Vancouver,British Columbia,Canada,1997,Company of Heroes seriesWarhammer 40000: Dawn of War seriesHomeworld series,"Warhammer 40,000: Dawn of War II - Retribution: The Last Standalone"
+413,Respawn Entertainment,"Sherman Oaks, Los Angeles",California,United States,2010,TitanfallApex LegendsStar Wars Jedi: Fallen Order,Titanfall
+414,Respawn Entertainment,"Sherman Oaks, Los Angeles",California,United States,2010,TitanfallApex LegendsStar Wars Jedi: Fallen Order,Star Wars Jedi: Fallen Order
+415,Respawn Entertainment,"Sherman Oaks, Los Angeles",California,United States,2010,TitanfallApex LegendsStar Wars Jedi: Fallen Order,Apex Legends
+416,Riot Games,Santa Monica,California,United States,2006,League of Legends Legends of Runeterra Valorant,League of Legends
+417,Rockstar Games,New York CityBangaloreLeedsLincolnLondonBallardvaleEdinburghCarlsbadOakville,New YorkKarnatakaEnglandScotlandMassachusettsCaliforniaOntario,United States,199820162004200220052008200220021999,Grand Theft Auto franchiseManhunt seriesMidnight Club seriesRed Dead seriesBully,Grand Theft Auto Online
+418,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,Batman: Arkham City GOTY
+419,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,Batman: Arkham Knight - Premium Edition
+420,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,Batman: Arkham Asylum GOTY
+421,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,Batman: Arkham Knight - Harley Quinn Story Pack
+422,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,Batman: Arkham Knight - GCPD Lockdown
+423,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,Batman: Arkham Knight - Red Hood Story Pack
+424,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,Batman: Arkham Knight - Season of Infamy: Most Wanted
+425,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,Batman: Arkham City - Harley Quinn's Revenge DLC
+426,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,Batman: Arkham Knight - A Flip of a Coin
+427,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,Batman: Arkham Knight
+428,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,Batman: Arkham Knight - Catwoman's Revenge
+429,Rocksteady Studios,London,England,United Kingdom,2005,Batman: Arkham seriesSuicide Squad: Kill the Justice League,Batman: Arkham Asylum
+430,Runic Games,Seattle,Washington,United States,2008,Torchlight,Torchlight
+431,Saber Interactive,Millburn,New Jersey,United States,2001,World War Z,
+432,Sanzaru Games,Foster City,California,United States,2006,Sly Cooper: Thieves in TimeSonic Boom: Shattered CrystalSonic Boom: Fire & Ice,Sly Cooper: Thieves in Time
+433,Sanzaru Games,Foster City,California,United States,2006,Sly Cooper: Thieves in TimeSonic Boom: Shattered CrystalSonic Boom: Fire & Ice,Sonic Boom: Fire & Ice
+434,Sanzaru Games,Foster City,California,United States,2006,Sly Cooper: Thieves in TimeSonic Boom: Shattered CrystalSonic Boom: Fire & Ice,Sonic Boom: Shattered Crystal
+435,Schell Games,Pittsburgh,Pennsylvania,United States,2002,I Expect You To Die,I Expect You To Die
+436,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,
+437,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Hatsune Miku: Project DIVA 2nd
+438,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Phantasy Star Generation: 1
+439,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Valkyria Chronicles II
+440,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Valkyria Chronicles 4
+441,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Phantasy Star III: Generations of Doom
+442,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Super Monkey Ball Deluxe
+443,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Hatsune Miku: Project Mirai DX
+444,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Phantasy Star Online 2
+445,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Super Monkey Ball: Step & Roll
+446,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Golden Axe Warrior
+447,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Sakura Taisen V - Episode 0: Kouya no Samurai Musume
+448,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Phantasy Star IV: The End of the Millennium
+449,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Hatsune Miku: Project DIVA Future Tone
+450,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Super Monkey Ball: Banana Blitz
+451,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Super Monkey Ball Touch & Roll
+452,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Hatsune Miku: Project DIVA
+453,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Valkyria Chronicles Remastered
+454,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Hatsune Miku: Project DIVA Extend
+455,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Golden Axe II
+456,Sega,"Ota, Tokyo,San Francisco",California,United States,1960,Sonic the Hedgehog franchiseGolden Axe seriesStreets of Rage seriesThe House of the Dead seriesSuper Monkey Ball seriesPuyo Puyo seriesJet Set Radio seriesPhantasy Star seriesSakura Wars seriesYakuza seriesValkyria Chronicles seriesMushiking seriesHatsune Miku: Project DIVA series,Golden Axe III
+457,Sensible Software,Cambridge,England,United Kingdom,1986,Sensible Soccer seriesCannon Fodder seriesMega Lo ManiaWizballWizkidMicroprose SoccerShoot-'Em-Up Construction KitParallaxSensible Golf,Cannon Fodder
+458,Sensible Software,Cambridge,England,United Kingdom,1986,Sensible Soccer seriesCannon Fodder seriesMega Lo ManiaWizballWizkidMicroprose SoccerShoot-'Em-Up Construction KitParallaxSensible Golf,Mega Lo Mania
+459,Sensible Software,Cambridge,England,United Kingdom,1986,Sensible Soccer seriesCannon Fodder seriesMega Lo ManiaWizballWizkidMicroprose SoccerShoot-'Em-Up Construction KitParallaxSensible Golf,Sensible Soccer
+460,Sensible Software,Cambridge,England,United Kingdom,1986,Sensible Soccer seriesCannon Fodder seriesMega Lo ManiaWizballWizkidMicroprose SoccerShoot-'Em-Up Construction KitParallaxSensible Golf,Wizball
+461,Sensible Software,Cambridge,England,United Kingdom,1986,Sensible Soccer seriesCannon Fodder seriesMega Lo ManiaWizballWizkidMicroprose SoccerShoot-'Em-Up Construction KitParallaxSensible Golf,Sensible Golf
+462,Sensible Software,Cambridge,England,United Kingdom,1986,Sensible Soccer seriesCannon Fodder seriesMega Lo ManiaWizballWizkidMicroprose SoccerShoot-'Em-Up Construction KitParallaxSensible Golf,Sensible World of Soccer
+463,Sensible Software,Cambridge,England,United Kingdom,1986,Sensible Soccer seriesCannon Fodder seriesMega Lo ManiaWizballWizkidMicroprose SoccerShoot-'Em-Up Construction KitParallaxSensible Golf,Cannon Fodder 2
+464,SIE Bend Studio,Bend,Oregon,United States,"1993 (Founded as Blank, Berlyn and Co., later Eidetic)",Syphon Filter seriesDays Gone,Days Gone
+465,SIE San Diego Studio,San Diego,California,United States,2001,MLB: The Show series,MLB 17: The Show
+466,SIE San Diego Studio,San Diego,California,United States,2001,MLB: The Show series,MLB The Show 19
+467,SIE Santa Monica Studio,Los Angeles,California,United States,1999,God of War series,God of War (2018)
+468,SCE Studio Liverpool,Liverpool,England,United Kingdom,1984,Wipeout seriesFormula One seriesColony Wars series,Formula One Championship Edition
+469,SCE Studio Liverpool,Liverpool,England,United Kingdom,1984,Wipeout seriesFormula One seriesColony Wars series,Wipeout 2048 - Wipeout HD Game Pack
+470,SingleTrac,Salt Lake City,Utah,United States,1994,Twisted Metal 1–2Jet Moto 1–2Warhawk (1995),Warhawk (1995)
+471,SingleTrac,Salt Lake City,Utah,United States,1994,Twisted Metal 1–2Jet Moto 1–2Warhawk (1995),Jet Moto
+472,Sierra Entertainment,Oakhurst,California,United States,1979,Mystery HouseKing's Quest seriesSpace Quest seriesPolice Quest seriesLeisure Suit Larry seriesQuest for Glory seriesGabriel Knight series,Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals
+473,Sierra Entertainment,Oakhurst,California,United States,1979,Mystery HouseKing's Quest seriesSpace Quest seriesPolice Quest seriesLeisure Suit Larry seriesQuest for Glory seriesGabriel Knight series,King's Quest IV: The Perils of Rosella
+474,Sierra Entertainment,Oakhurst,California,United States,1979,Mystery HouseKing's Quest seriesSpace Quest seriesPolice Quest seriesLeisure Suit Larry seriesQuest for Glory seriesGabriel Knight series,Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
+475,Sierra Entertainment,Oakhurst,California,United States,1979,Mystery HouseKing's Quest seriesSpace Quest seriesPolice Quest seriesLeisure Suit Larry seriesQuest for Glory seriesGabriel Knight series,"King's Quest VI: Heir Today, Gone Tomorrow"
+476,Silicon Knights,St. Catharines,Ontario,Canada,1992,Blood Omen: Legacy of KainEternal Darkness: Sanity's RequiemToo Human,Too Human
+477,Silicon Knights,St. Catharines,Ontario,Canada,1992,Blood Omen: Legacy of KainEternal Darkness: Sanity's RequiemToo Human,Blood Omen: Legacy of Kain
+478,Silicon Knights,St. Catharines,Ontario,Canada,1992,Blood Omen: Legacy of KainEternal Darkness: Sanity's RequiemToo Human,Eternal Darkness: Sanity's Requiem
+479,Simtex,Austin,Texas,United States,1988,Master of Orion seriesMaster of Magic,Master of Orion II: Battle at Antares
+480,Simtex,Austin,Texas,United States,1988,Master of Orion seriesMaster of Magic,Master of Orion (1993)
+481,Simtex,Austin,Texas,United States,1988,Master of Orion seriesMaster of Magic,Master of Magic (1994)
+482,Slant Six Games,Vancouver,British Columbia,Canada,2005,SOCOM U.S. Navy SEALs seriesResident Evil: Operation Raccoon City,SOCOM: U.S. Navy SEALs Fireteam Bravo 3
+483,Slant Six Games,Vancouver,British Columbia,Canada,2005,SOCOM U.S. Navy SEALs seriesResident Evil: Operation Raccoon City,SOCOM: U.S. Navy SEALs Confrontation
+484,Slant Six Games,Vancouver,British Columbia,Canada,2005,SOCOM U.S. Navy SEALs seriesResident Evil: Operation Raccoon City,SOCOM: U.S. Navy SEALs Tactical Strike
+485,Sledgehammer Games,Foster City,California,United States,2009,Call of Duty: Advanced Warfareco-developer of Call of Duty: Modern Warfare 3,Call of Duty: Advanced Warfare
+486,Slightly Mad Studios,London,England,United Kingdom,2008,Project CARS series,Project CARS - Pagani Edition
+487,Slightly Mad Studios,London,England,United Kingdom,2008,Project CARS series,Project CARS
+488,Snowblind Studios,Seattle,Washington,United States,1997,Top Gear OverdriveChampions of Norrath,Champions of Norrath
+489,Snowblind Studios,Seattle,Washington,United States,1997,Top Gear OverdriveChampions of Norrath,Top Gear Overdrive
+490,Sony Computer Entertainment,"Tokyo (SIE, Inc.) San Mateo (SIE, LLC)","Japan (SIE, Inc.) California (SIE, LLC)",United States,1994,Various titles,
+491,Splash Damage,London,England,United Kingdom,2001,Enemy Territory: Quake WarsBrinkDirty Bomb,Dirty Bomb
+492,Splash Damage,London,England,United Kingdom,2001,Enemy Territory: Quake WarsBrinkDirty Bomb,Brink
+493,Stainless Steel Studios,Cambridge,Massachusetts,United States,1998,Empire Earth,Empire Earth
+494,Stardock,Plymouth,Michigan,United States,1991,Galactic Civilizations series,Galactic Civilizations II: Dread Lords
+495,Stardock,Plymouth,Michigan,United States,1991,Galactic Civilizations series,Galactic Civilizations II: Twilight of the Arnor
+496,Stardock,Plymouth,Michigan,United States,1991,Galactic Civilizations series,Galactic Civilizations III
+497,Stardock,Plymouth,Michigan,United States,1991,Galactic Civilizations series,Galactic Civilizations
+498,Stardock,Plymouth,Michigan,United States,1991,Galactic Civilizations series,Galactic Civilizations II: Dark Avatar
+499,Strategic Simulations,Sunnyvale,California,United States,1979,Gold Box seriesPanzer General series,Panzer General 3D Assault
+500,Strategic Simulations,Sunnyvale,California,United States,1979,Gold Box seriesPanzer General series,Panzer General
+501,Sucker Punch Productions,Bellevue,Washington,United States,1997,Rocket: Robot on WheelsSly Cooper seriesInfamous seriesGhost of Tsushima,Ghost of Tsushima
+502,Sucker Punch Productions,Bellevue,Washington,United States,1997,Rocket: Robot on WheelsSly Cooper seriesInfamous seriesGhost of Tsushima,Sly Cooper and the Thievius Raccoonus
+503,Sucker Punch Productions,Bellevue,Washington,United States,1997,Rocket: Robot on WheelsSly Cooper seriesInfamous seriesGhost of Tsushima,Rocket: Robot on Wheels
+504,SuperVillain Studios,Orange County,California,United States,2004,Order Up!,Order Up!
+505,Sunstorm Interactive,Indianapolis,Indiana,United States,1995,Deer Hunter series,Deer Hunter II: Extended Season
+506,Sunstorm Interactive,Indianapolis,Indiana,United States,1995,Deer Hunter series,Deer Hunter 3: The Legend Continues
+507,Sunstorm Interactive,Indianapolis,Indiana,United States,1995,Deer Hunter series,Deer Hunter 4: World-Class Record Bucks
+508,Team Bondi,Sydney,New South Wales,Australia,2003,L.A. Noire,
+509,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead - Episode 1: A New Day
+510,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Wolf Among Us
+511,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Wolf Among Us - Episode 1: Faith
+512,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,"Sam & Max 205: What's New, Beelzebub?"
+513,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead: A New Frontier - Episode 2: Ties That Bind (Part II)
+514,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 301: The Penal Zone
+515,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead - A Telltale Games Series
+516,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Wolf Among Us - Episode 4: In Sheep's Clothing
+517,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Back to the Future: The Game
+518,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 305: The City That Dares Not Sleep
+519,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 204: Chariots of the Dogs
+520,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead - Episode 3: Long Road Ahead
+521,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode
+522,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Wolf Among Us - Episode 5: Cry Wolf
+523,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Season Two
+524,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Season Two: Episode 1 - Hero in Residence
+525,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Season Two: Episode 2 - Giant Consequences
+526,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead: A New Frontier
+527,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Back to the Future: The Game - Episode 4: Double Visions
+528,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Back to the Future: The Game - Episode 5: Outatime
+529,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Game of Thrones - Episode 4: Sons of Winter
+530,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Game of Thrones - Episode 2: The Lost Lords
+531,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Episode 6: A Portal to Mystery
+532,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Season Two: Episode 3 - Jailhouse Block
+533,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead - Episode 4: Around Every Corner
+534,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Game of Thrones - Episode 3: The Sword in the Darkness
+535,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Episode 3: The Last Place You Look
+536,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 303: They Stole Max's Brain!
+537,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Tales from the Borderlands: Episode 2 - Atlas Mugged
+538,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Game of Thrones - Episode 1: Iron From Ice
+539,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead - Episode 5: No Time Left
+540,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Season Two: Episode 4 - Below the Bedrock
+541,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead: A New Frontier - Episode 1: Ties That Bind (Part I)
+542,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 105: Reality 2.0
+543,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Back to the Future: The Game - Episode 2: Get Tannen!
+544,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max Beyond Time and Space
+545,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead Collection: The Telltale Series
+546,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Episode 8: A Journey's End?
+547,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Wolf Among Us - Episode 3: A Crooked Mile
+548,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Back to the Future: The Game - Episode 1: It's About Time
+549,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Episode 4: A Block and a Hard Place
+550,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Game of Thrones - Episode 6: The Ice Dragon
+551,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Tales from the Borderlands: Episode 3 - Catch A Ride
+552,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Tales from the Borderlands: Episode 5 - The Vault of the Traveler
+553,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Episode 7: Access Denied
+554,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 203: Night of the Raving Dead
+555,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead: Season 2 - Episode 2: A House Divided
+556,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Tales of Monkey Island: Chapter 4 - The Trial and Execution of Guybrush Threepwood
+557,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Tales from the Borderlands
+558,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max Save the World
+559,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Season Two: Episode 5 - Above and Beyond
+560,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,"Sam & Max 103: The Mole, the Mob, and the Meatball"
+561,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max: The Devil's Playhouse
+562,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 104: Abe Lincoln Must Die!
+563,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 102: Situation: Comedy
+564,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Tales from the Borderlands: Episode 1 - Zer0 Sum
+565,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Episode 1: The Order of the Stone
+566,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Episode 2: Assembly Required
+567,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Game of Thrones - A Telltale Games Series
+568,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead: A New Frontier - Episode 4: Thicker Than Water
+569,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 106: Bright Side of the Moon
+570,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 302: The Tomb of Sammun-Mak
+571,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 202: Moai Better Blues
+572,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead - Episode 2: Starved for Help
+573,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Game of Thrones - Episode 5: A Nest of Vipers
+574,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead: A New Frontier - Episode 5: From the Gallows
+575,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 201: Ice Station Santa
+576,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Minecraft: Story Mode - Episode 5: Order Up!
+577,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Tales from the Borderlands: Episode 4 - Escape Plan Bravo
+578,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 101: Culture Shock
+579,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Sam & Max 304: Beyond the Alley of the Dolls
+580,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,Back to the Future: The Game - Episode 3: Citizen Brown
+581,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Walking Dead: A New Frontier - Episode 3: Above the Law
+582,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Wolf Among Us - Episode 2: Smoke and Mirrors
+583,Telltale Games,San Rafael,California,United States,2004,Sam & Max episodic seriesThe Walking Dead seriesThe Wolf Among UsTales from the BorderlandsGame of ThronesMinecraft: Story Mode,The Wolf Among Us: Season 2
+584,Terminal Reality,Lewisville,Texas,United States,1994,Monster Truck Madness series,
+585,Tetris Online,Honolulu,Hawaii,United States,2006,Tetris Friends,
+586,The Chinese Room,Brighton,England,United Kingdom,2007,Amnesia: A Machine For Pigs,
+587,Three Fields Entertainment,Petersfield,England,United Kingdom,2014,Danger Zone seriesDangerous Driving series,Danger Zone 2
+588,Three Fields Entertainment,Petersfield,England,United Kingdom,2014,Danger Zone seriesDangerous Driving series,Danger Zone
+589,Three Fields Entertainment,Petersfield,England,United Kingdom,2014,Danger Zone seriesDangerous Driving series,Dangerous Driving
+590,Toys for Bob,Novato,California,United States,1989,Skylanders seriesSpyro Reignited Trilogy,
+591,Toys for Bob,Novato,California,United States,1989,Skylanders seriesSpyro Reignited Trilogy,Spyro Reignited Trilogy
+592,Transmission Games,Melbourne,Victoria,Australia,1996,Heroes of the PacificHeroes Over Europe,Heroes of the Pacific
+593,Transmission Games,Melbourne,Victoria,Australia,1996,Heroes of the PacificHeroes Over Europe,Heroes Over Europe
+594,Traveller's Tales,Knutsford,England,United Kingdom,1990,Lego series,
+595,Treyarch,Santa Monica,California,United States,1996,Call of Duty seriesSpider-Man (2002),Call of Duty 3
+596,Treyarch,Santa Monica,California,United States,1996,Call of Duty seriesSpider-Man (2002),Call of Duty: Black Ops III - Eclipse DLC Pack
+597,Treyarch,Santa Monica,California,United States,1996,Call of Duty seriesSpider-Man (2002),Call of Duty: Black Ops II - Vengeance DLC
+598,Treyarch,Santa Monica,California,United States,1996,Call of Duty seriesSpider-Man (2002),Call of Duty: Black Ops II - Apocalypse DLC
+599,Treyarch,Santa Monica,California,United States,1996,Call of Duty seriesSpider-Man (2002),Call of Duty: Black Ops II - Uprising DLC
+600,Treyarch,Santa Monica,California,United States,1996,Call of Duty seriesSpider-Man (2002),Call of Duty: Black Ops III - Awakening DLC Pack
+601,Treyarch,Santa Monica,California,United States,1996,Call of Duty seriesSpider-Man (2002),Call of Duty: Black Ops II - Revolution DLC
+602,Treyarch,Santa Monica,California,United States,1996,Call of Duty seriesSpider-Man (2002),Call of Duty: Modern Warfare - Reflex Edition
+603,Trion Worlds,Redwood City,California,United States,2006,Rift,Rift
+604,Turn 10 Studios,Redmond,Washington,United States,2001,Forza Motorsport series,Forza Motorsport 2
+605,Turn 10 Studios,Redmond,Washington,United States,2001,Forza Motorsport series,Forza Motorsport 5
+606,Turn 10 Studios,Redmond,Washington,United States,2001,Forza Motorsport series,Forza Motorsport 6: Apex
+607,Turn 10 Studios,Redmond,Washington,United States,2001,Forza Motorsport series,Forza Motorsport 3
+608,Turn 10 Studios,Redmond,Washington,United States,2001,Forza Motorsport series,Forza Motorsport 4
+609,Turn 10 Studios,Redmond,Washington,United States,2001,Forza Motorsport series,Forza Motorsport 7
+610,Turn 10 Studios,Redmond,Washington,United States,2001,Forza Motorsport series,Forza Motorsport 6
+611,Turn 10 Studios,Redmond,Washington,United States,2001,Forza Motorsport series,Forza Motorsport
+612,Two Point Studios,Surrey,England,United Kingdom,2016,Two Point Hospital,Two Point Hospital
+613,Ubisoft Reflections,Newcastle upon Tyne,England,United Kingdom,1984,Driver seriesDestruction Derby series,
+614,Ultimate Play the Game,Ashby-de-la-Zouch,England,United Kingdom,1982,JetpacLunar JetmanAtic AtacSabreman seriesAlien 8,
+615,Ultimate Play the Game,Ashby-de-la-Zouch,England,United Kingdom,1982,JetpacLunar JetmanAtic AtacSabreman seriesAlien 8,
+616,Undead Labs,Seattle,Washington,United States,2009,State of Decay series,State of Decay 2 - Daybreak DLC
+617,Undead Labs,Seattle,Washington,United States,2009,State of Decay series,State of Decay 2
+618,Undead Labs,Seattle,Washington,United States,2009,State of Decay series,State of Decay
+619,United Front Games,Vancouver,British Columbia,Canada,2006,ModNation RacersSleeping DogsLittleBigPlanet Karting,ModNation Racers
+620,Valve,Kirkland,Washington,United States,1996,Half-Life seriesPortal seriesLeft 4 Dead seriesTeam Fortress 2Dota 2Counter-Strike series,Left 4 Dead 2: The Passing DLC
+621,Venan Entertainment,Cromwell,Connecticut,United States,2002,Ninjatown,Ninjatown
+622,Vicarious Visions,Albany (Menands),New York,United States,1990,Guitar Hero seriesTony Hawk seriesCrash Bandicoot N. Sane TrilogyMarvel: Ultimate Alliance 2,Crash Bandicoot N. Sane Trilogy
+623,Vicarious Visions,Albany (Menands),New York,United States,1990,Guitar Hero seriesTony Hawk seriesCrash Bandicoot N. Sane TrilogyMarvel: Ultimate Alliance 2,Crash Bandicoot Purple: Ripto's Rampage
+624,Vicarious Visions,Albany (Menands),New York,United States,1990,Guitar Hero seriesTony Hawk seriesCrash Bandicoot N. Sane TrilogyMarvel: Ultimate Alliance 2,Crash Bandicoot 2: N-Tranced
+625,Vigil Games,Austin,Texas,United States,2005,Darksiders series,
+626,Visceral Games,Redwood City,California,United States,1998,Dead Space series,Dead Space 3
+627,Visceral Games,Redwood City,California,United States,1998,Dead Space series,Dead Space 2: Severed DLC
+628,Visceral Games,Redwood City,California,United States,1998,Dead Space series,Dead Space 3: Awakened DLC
+629,Visceral Games,Redwood City,California,United States,1998,Dead Space series,Dead Space 2
+630,Visceral Games,Redwood City,California,United States,1998,Dead Space series,Dead Space
+631,Visual Concepts,Novato,California,United States,1988,NFL 2KNBA 2K seriesMLB 2K series,NFL 2K
+632,Visual Concepts,Novato,California,United States,1988,NFL 2KNBA 2K seriesMLB 2K series,NBA 2K
+633,Webfoot Technologies,Chicago,Illinois,United States,1993,Dragon Ball Z: The Legacy of GokuYou Don't Know Jack!  series[which?]Deadly Rooms of Death,Dragon Ball Z: Buu's Fury
+634,Webfoot Technologies,Chicago,Illinois,United States,1993,Dragon Ball Z: The Legacy of GokuYou Don't Know Jack!  series[which?]Deadly Rooms of Death,Dragon Ball GT: Transformation
+635,Webfoot Technologies,Chicago,Illinois,United States,1993,Dragon Ball Z: The Legacy of GokuYou Don't Know Jack!  series[which?]Deadly Rooms of Death,Dragon Ball Z: The Legacy of Goku II
+636,Webfoot Technologies,Chicago,Illinois,United States,1993,Dragon Ball Z: The Legacy of GokuYou Don't Know Jack!  series[which?]Deadly Rooms of Death,Dragon Ball Z: The Legacy of Goku
+637,Westwood Studios,Las Vegas,Nevada,United States,1985,Eye of the BeholderDune IIThe Legend of Kyrandia seriesLands of Lore seriesCommand & Conquer series,The Legend of Kyrandia Book One
+638,Westwood Studios,Las Vegas,Nevada,United States,1985,Eye of the BeholderDune IIThe Legend of Kyrandia seriesLands of Lore seriesCommand & Conquer series,The Legend of Kyrandia Book Three: Malcolm's Revenge
+639,Westwood Studios,Las Vegas,Nevada,United States,1985,Eye of the BeholderDune IIThe Legend of Kyrandia seriesLands of Lore seriesCommand & Conquer series,Command & Conquer: Renegade
+640,Westwood Studios,Las Vegas,Nevada,United States,1985,Eye of the BeholderDune IIThe Legend of Kyrandia seriesLands of Lore seriesCommand & Conquer series,Command & Conquer: The Covert Operations
+641,Westwood Studios,Las Vegas,Nevada,United States,1985,Eye of the BeholderDune IIThe Legend of Kyrandia seriesLands of Lore seriesCommand & Conquer series,Command & Conquer: Red Alert
+642,Westwood Studios,Las Vegas,Nevada,United States,1985,Eye of the BeholderDune IIThe Legend of Kyrandia seriesLands of Lore seriesCommand & Conquer series,The Legend of Kyrandia Book Two: The Hand of Fate
+643,Westwood Studios,Las Vegas,Nevada,United States,1985,Eye of the BeholderDune IIThe Legend of Kyrandia seriesLands of Lore seriesCommand & Conquer series,Command & Conquer: Tiberian Sun
+644,Westwood Studios,Las Vegas,Nevada,United States,1985,Eye of the BeholderDune IIThe Legend of Kyrandia seriesLands of Lore seriesCommand & Conquer series,Dune II: The Building of a Dynasty
+645,Westwood Studios,Las Vegas,Nevada,United States,1985,Eye of the BeholderDune IIThe Legend of Kyrandia seriesLands of Lore seriesCommand & Conquer series,Command & Conquer: Red Alert - Retaliation
+646,Westwood Studios,Las Vegas,Nevada,United States,1985,Eye of the BeholderDune IIThe Legend of Kyrandia seriesLands of Lore seriesCommand & Conquer series,Lands of Lore III
+647,Wideload Games,Chicago,Illinois,United States,2003,Stubbs the Zombie in Rebel Without a Pulse,
+648,ZeniMax Online Studios,Hunt Valley,Maryland,United States,2007,The Elder Scrolls Online,The Elder Scrolls Online
+649,Zipper Interactive,Redmond,Washington,United States,1995,SOCOM U.S. Navy SEALs seriesMechWarrior 3,SOCOM: U.S. Navy SEALs Fireteam Bravo
+650,Zipper Interactive,Redmond,Washington,United States,1995,SOCOM U.S. Navy SEALs seriesMechWarrior 3,MechWarrior 3
+651,Zipper Interactive,Redmond,Washington,United States,1995,SOCOM U.S. Navy SEALs seriesMechWarrior 3,SOCOM 3: U.S. Navy SEALs
+652,Zipper Interactive,Redmond,Washington,United States,1995,SOCOM U.S. Navy SEALs seriesMechWarrior 3,SOCOM: U.S. Navy SEALs Combined Assault
+653,Zipper Interactive,Redmond,Washington,United States,1995,SOCOM U.S. Navy SEALs seriesMechWarrior 3,SOCOM: U.S. Navy SEALs Fireteam Bravo 2
+654,Zipper Interactive,Redmond,Washington,United States,1995,SOCOM U.S. Navy SEALs seriesMechWarrior 3,SOCOM 4: U.S. Navy SEALs / Special Forces
+655,Zipper Interactive,Redmond,Washington,United States,1995,SOCOM U.S. Navy SEALs seriesMechWarrior 3,SOCOM: U.S. Navy SEALs
+656,Zynga,San Francisco,California,United States,2007,FarmVilleZynga Poker,FarmVille
