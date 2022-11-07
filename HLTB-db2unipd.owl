@@ -7,17 +7,12 @@
 @base <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd> .
 
 <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd> rdf:type owl:Ontology ;
-                                                                      owl:versionIRI <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd/1.0> .
+                                                                      owl:versionIRI <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd/1.0> ;
+                                                                      owl:imports <http://eulersharp.sourceforge.net/2003/03swap/countries> .
 
 #################################################################
 #    Object Properties
 #################################################################
-
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#availableOn
-:availableOn rdf:type owl:ObjectProperty ;
-             rdfs:domain :Game ;
-             rdfs:range :Platform .
-
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#basedIn
 :basedIn rdf:type owl:ObjectProperty ,
@@ -26,21 +21,16 @@
          rdfs:range <http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl#Country> .
 
 
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#completedIn
-:completedIn rdf:type owl:ObjectProperty ,
-                      owl:FunctionalProperty ;
-             rdfs:domain :Game ;
-             rdfs:range :Time .
-
-
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#createdBy
-:createdBy rdf:type owl:ObjectProperty ;
+:createdBy rdf:type owl:ObjectProperty ,
+                    owl:AsymmetricProperty ;
            rdfs:domain :Platform ;
            rdfs:range :Company .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#developedBy
-:developedBy rdf:type owl:ObjectProperty ;
+:developedBy rdf:type owl:ObjectProperty ,
+                      owl:AsymmetricProperty ;
              rdfs:domain :Game ;
              rdfs:range :Company .
 
@@ -52,16 +42,27 @@
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#hasNotableGame
-:hasNotableGame rdf:type owl:ObjectProperty ;
+:hasNotableGame rdf:type owl:ObjectProperty ,
+                         owl:AsymmetricProperty ;
                 rdfs:domain :Company ;
                 rdfs:range :Game .
 
 
+###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#hasStats
+:hasStats rdf:type owl:ObjectProperty ,
+                   owl:InverseFunctionalProperty ;
+          rdfs:domain :Game ;
+          rdfs:range :Stats .
+
+
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#located
 :located rdf:type owl:ObjectProperty ,
-                  owl:FunctionalProperty ;
-         rdfs:domain :Sale ;
-         rdfs:range :Region .
+                  owl:TransitiveProperty ;
+         rdfs:range [ rdf:type owl:Class ;
+                      owl:unionOf ( <http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl#Country>
+                                    :Region
+                                  )
+                    ] .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#onPlatform
@@ -71,14 +72,22 @@
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#publishedBy
-:publishedBy rdf:type owl:ObjectProperty ;
+:publishedBy rdf:type owl:ObjectProperty ,
+                      owl:AsymmetricProperty ;
              rdfs:domain :Game ;
              rdfs:range :Company .
 
 
+###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#releasedOn
+:releasedOn rdf:type owl:ObjectProperty ;
+            rdfs:domain :Game ;
+            rdfs:range :Platform .
+
+
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#sold
-:sold rdf:type owl:ObjectProperty ,
-               owl:FunctionalProperty ;
+:sold rdf:type owl:ObjectProperty ;
+      rdfs:subPropertyOf owl:topObjectProperty ;
+      rdf:type owl:InverseFunctionalProperty ;
       rdfs:domain [ rdf:type owl:Class ;
                     owl:unionOf ( :Game
                                   :Platform
@@ -100,13 +109,12 @@
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#bits
 :bits rdf:type owl:DatatypeProperty ;
       rdfs:domain :Platform ;
-      rdfs:range xsd:string .
+      rdfs:range xsd:int .
 
 
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#completionist
-:completionist rdf:type owl:DatatypeProperty ;
-               rdfs:domain :Time ;
-               rdfs:range xsd:int .
+###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#completionistTime
+:completionistTime rdf:type owl:DatatypeProperty ;
+                   rdfs:range xsd:int .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#cpu
@@ -119,14 +127,20 @@
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#criticScore
 :criticScore rdf:type owl:DatatypeProperty ,
                       owl:FunctionalProperty ;
-             rdfs:domain :Game ;
+             rdfs:domain :Stats ;
              rdfs:range xsd:float .
 
 
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#fastest
-:fastest rdf:type owl:DatatypeProperty ;
-         rdfs:domain :Time ;
-         rdfs:range xsd:int .
+###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#fastestTime
+:fastestTime rdf:type owl:DatatypeProperty ,
+                      owl:FunctionalProperty ;
+             rdfs:range xsd:int .
+
+
+###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#id
+:id rdf:type owl:DatatypeProperty ;
+    rdfs:domain :Game ;
+    rdfs:range xsd:int .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#indieDeveloper
@@ -140,18 +154,16 @@
 :jpSales rdf:type owl:DatatypeProperty ,
                   owl:FunctionalProperty ;
          rdfs:domain :Sale ;
-         rdfs:range xsd:int .
+         rdfs:range xsd:float .
 
 
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#main
-:main rdf:type owl:DatatypeProperty ;
-      rdfs:domain :Time ;
-      rdfs:range xsd:int .
+###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#mainPlusTime
+:mainPlusTime rdf:type owl:DatatypeProperty ;
+              rdfs:range xsd:int .
 
 
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#mainPlus
-:mainPlus rdf:type owl:DatatypeProperty ;
-          rdfs:domain :Time ;
+###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#mainTime
+:mainTime rdf:type owl:DatatypeProperty ;
           rdfs:range xsd:int .
 
 
@@ -162,17 +174,10 @@
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#naSales
-:naSales rdf:type owl:DatatypeProperty ;
-         rdfs:subPropertyOf owl:topDataProperty ;
-         rdf:type owl:FunctionalProperty ;
+:naSales rdf:type owl:DatatypeProperty ,
+                  owl:FunctionalProperty ;
          rdfs:domain :Sale ;
-         rdfs:range xsd:int .
-
-
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#name
-:name rdf:type owl:DatatypeProperty ;
-      rdfs:domain :Genre ;
-      rdfs:range xsd:string .
+         rdfs:range xsd:float .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#officialName
@@ -180,8 +185,14 @@
                        owl:FunctionalProperty ;
               rdfs:domain [ rdf:type owl:Class ;
                             owl:unionOf ( :Company
+                                          :Genre
                                           :Platform
                                         )
+                          ] ,
+                          [ rdf:type owl:Restriction ;
+                            owl:onProperty :officialName ;
+                            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                            owl:onDataRange xsd:string
                           ] ;
               rdfs:range xsd:string .
 
@@ -190,54 +201,47 @@
 :palSales rdf:type owl:DatatypeProperty ,
                    owl:FunctionalProperty ;
           rdfs:domain :Sale ;
-          rdfs:range xsd:int .
+          rdfs:range xsd:float .
 
 
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#polled
-:polled rdf:type owl:DatatypeProperty ;
-        rdfs:domain :Time ;
-        rdfs:range xsd:int .
+###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#polledTime
+:polledTime rdf:type owl:DatatypeProperty ;
+            rdfs:range xsd:int .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#popular
 :popular rdf:type owl:DatatypeProperty ;
-         rdfs:domain :Game ;
+         rdfs:domain :Platform ;
          rdfs:range xsd:boolean .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#releaseDate
 :releaseDate rdf:type owl:DatatypeProperty ;
              rdfs:domain [ rdf:type owl:Class ;
-                           owl:unionOf ( :Game
-                                         :Platform
+                           owl:unionOf ( :Platform
+                                         :Stats
                                        )
                          ] ;
              rdfs:range xsd:dateTime .
 
 
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#slowest
-:slowest rdf:type owl:DatatypeProperty ;
-         rdfs:domain :Time ;
-         rdfs:range xsd:int .
-
-
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#title
-:title rdf:type owl:DatatypeProperty ;
-       rdfs:domain :Game ;
-       rdfs:range xsd:string .
+###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#slowestTime
+:slowestTime rdf:type owl:DatatypeProperty ,
+                      owl:FunctionalProperty ;
+             rdfs:range xsd:int .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#totalShipped
 :totalShipped rdf:type owl:DatatypeProperty ,
                        owl:FunctionalProperty ;
               rdfs:domain :Sale ;
-              rdfs:range xsd:int .
+              rdfs:range xsd:float .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#userScore
 :userScore rdf:type owl:DatatypeProperty ,
                     owl:FunctionalProperty ;
-           rdfs:domain :Game ;
+           rdfs:domain :Stats ;
            rdfs:range xsd:float .
 
 
@@ -281,8 +285,8 @@
 :Sale rdf:type owl:Class .
 
 
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#Time
-:Time rdf:type owl:Class .
+###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#Stats
+:Stats rdf:type owl:Class .
 
 
 #################################################################
