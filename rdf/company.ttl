@@ -2,425 +2,972 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 hltb:11-bit-studios a hltb:Company ;
-    hltb:Company "11 bit studios"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "11 bit studios"^^xsd:string .
+
+hltb:2k-sports a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:343-industries a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:989-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:access-software a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:acclaim-studios-austin a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:accolade a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:ace-team a hltb:Company ;
-    hltb:Company "ace team"^^xsd:string .
+    hltb:officialName "ACE Team"^^xsd:string .
+
+hltb:activision a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:adventure-soft a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:alientrap a hltb:Company ;
-    hltb:Company "alientrap"^^xsd:string .
+    hltb:officialName "Alientrap"^^xsd:string .
+
+hltb:amazon-game-studios a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:ambrosia-software a hltb:Company ;
-    hltb:Company "ambrosia software"^^xsd:string .
+    hltb:officialName "Ambrosia Software"^^xsd:string .
 
 hltb:amplitude-studios a hltb:Company ;
-    hltb:Company "amplitude studios"^^xsd:string .
+    hltb:officialName "Amplitude Studios"^^xsd:string .
 
 hltb:ankama-games a hltb:Company ;
-    hltb:Company "ankama games"^^xsd:string .
+    hltb:officialName "Ankama Games"^^xsd:string .
 
 hltb:anna-anthropy a hltb:Company ;
-    hltb:Company "anna anthropy"^^xsd:string .
+    hltb:officialName "Anna Anthropy"^^xsd:string .
 
 hltb:arcane-kids a hltb:Company ;
-    hltb:Company "arcane kids"^^xsd:string .
+    hltb:officialName "Arcane Kids"^^xsd:string .
 
 hltb:arcen-games a hltb:Company ;
-    hltb:Company "arcen games"^^xsd:string .
+    hltb:officialName "Arcen Games"^^xsd:string .
+
+hltb:arenanet a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:arrowhead-game-studios a hltb:Company ;
-    hltb:Company "arrowhead game studios"^^xsd:string .
+    hltb:officialName "Arrowhead Game Studios"^^xsd:string .
 
 hltb:artix-entertainment a hltb:Company ;
-    hltb:Company "artix entertainment"^^xsd:string .
+    hltb:officialName "Artix Entertainment"^^xsd:string .
+
+hltb:atomic-planet-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:aventurine-sa a hltb:Company ;
-    hltb:Company "aventurine sa"^^xsd:string .
+    hltb:officialName "Aventurine SA"^^xsd:string .
+
+hltb:backflip-studios a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:basilisk-games a hltb:Company ;
-    hltb:Company "basilisk games"^^xsd:string .
+    hltb:officialName "Basilisk Games"^^xsd:string .
+
+hltb:beenox a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:bethesda-game-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:bethesda-softworks a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:big-finish-games a hltb:Company ;
-    hltb:Company "big finish games"^^xsd:string .
+    hltb:officialName "Big Finish Games"^^xsd:string .
+
+hltb:big-huge-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:bioware a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:bits-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:bizarre-creations a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:black-isle-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:black-rock-studio a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:blitz-games-studios a hltb:Company ;
-    hltb:Company "blitz games studios"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "Blitz Games Studios"^^xsd:string .
+
+hltb:blizzard-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:blue-fang-games a hltb:Company ;
-    hltb:Company "blue fang games"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "Blue Fang Games"^^xsd:string .
+
+hltb:blue-tongue-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:bohemia-interactive-studio a hltb:Company ;
-    hltb:Company "bohemia interactive studio"^^xsd:string .
+    hltb:officialName "Bohemia Interactive Studio"^^xsd:string .
+
+hltb:boss-key-productions a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:bullfrog-productions a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:bungie a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:capcom-vancouver a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:carbine-studios a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:cbe-software a hltb:Company ;
-    hltb:Company "cbe software"^^xsd:string .
+    hltb:officialName "CBE Software"^^xsd:string .
 
 hltb:ccp-games a hltb:Company ;
-    hltb:Company "ccp games"^^xsd:string .
+    hltb:officialName "CCP Games"^^xsd:string .
+
+hltb:cd-projekt-red a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:certain-affinity a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:chair-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:choice-provisions a hltb:Company ;
-    hltb:Company "choice provisions"^^xsd:string .
+    hltb:officialName "Choice Provisions"^^xsd:string .
 
 hltb:christine-love a hltb:Company ;
-    hltb:Company "christine love"^^xsd:string .
+    hltb:officialName "Christine Love"^^xsd:string .
 
 hltb:chronic-logic a hltb:Company ;
-    hltb:Company "chronic logic"^^xsd:string .
+    hltb:officialName "Chronic Logic"^^xsd:string .
 
 hltb:cinemax a hltb:Company ;
-    hltb:Company "cinemax"^^xsd:string .
+    hltb:officialName "Cinemax"^^xsd:string .
 
 hltb:clockstone a hltb:Company ;
-    hltb:Company "clockstone"^^xsd:string .
+    hltb:officialName "ClockStone"^^xsd:string .
+
+hltb:codemasters a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:coffee-stain-studios a hltb:Company ;
-    hltb:Company "coffee stain studios"^^xsd:string .
+    hltb:officialName "Coffee Stain Studios"^^xsd:string .
 
 hltb:colossal-order a hltb:Company ;
-    hltb:Company "colossal order"^^xsd:string .
+    hltb:officialName "Colossal Order"^^xsd:string .
 
 hltb:compulsion-games a hltb:Company ;
-    hltb:Company "compulsion games"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "Compulsion Games"^^xsd:string .
+
+hltb:core-design a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:creative-assembly a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:criterion-games a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:croteam a hltb:Company ;
-    hltb:Company "croteam"^^xsd:string .
+    hltb:officialName "Croteam"^^xsd:string .
+
+hltb:cryptic-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:crystal-dynamics a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:curve-digital a hltb:Company ;
-    hltb:Company "curve digital"^^xsd:string .
+    hltb:officialName "Curve Digital"^^xsd:string .
 
 hltb:cypronia a hltb:Company ;
-    hltb:Company "cypronia"^^xsd:string .
+    hltb:officialName "Cypronia"^^xsd:string .
 
 hltb:daedalic-entertainment a hltb:Company ;
-    hltb:Company "daedalic entertainment"^^xsd:string .
+    hltb:officialName "Daedalic Entertainment"^^xsd:string .
+
+hltb:dambuster-studios a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:daniel-remar a hltb:Company ;
-    hltb:Company "daniel remar"^^xsd:string .
+    hltb:officialName "Daniel Remar"^^xsd:string .
+
+hltb:day-1-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:daybreak-game-company a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:dennaton-games a hltb:Company ;
-    hltb:Company "dennaton games"^^xsd:string .
+    hltb:officialName "Dennaton Games"^^xsd:string .
 
 hltb:digital-eel a hltb:Company ;
-    hltb:Company "digital eel"^^xsd:string .
+    hltb:officialName "Digital Eel"^^xsd:string .
+
+hltb:digital-extremes a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:digital-happiness a hltb:Company ;
-    hltb:Company "digital happiness"^^xsd:string .
+    hltb:officialName "Digital Happiness"^^xsd:string .
+
+hltb:double-fine-productions a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:drinkbox-studios a hltb:Company ;
-    hltb:Company "drinkbox studios"^^xsd:string .
+    hltb:officialName "DrinkBox Studios"^^xsd:string .
+
+hltb:dynamix a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:ea-sports a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:eat-sleep-play a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:electronic-arts a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:elixir-studios a hltb:Company ;
-    hltb:Company "elixir studios"^^xsd:string .
+    hltb:officialName "Elixir Studios"^^xsd:string .
+
+hltb:ensemble-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:epic-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:epyx a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:eurocom a hltb:Company ;
-    hltb:Company "eurocom"^^xsd:string .
+    hltb:officialName "Eurocom"^^xsd:string .
+
+hltb:evolution-studios a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:facepunch-studios a hltb:Company ;
-    hltb:Company "facepunch studios"^^xsd:string .
+    hltb:officialName "Facepunch Studios"^^xsd:string .
+
+hltb:fasa-studio a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:firaxis-games a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:firefly-studios a hltb:Company ;
-    hltb:Company "firefly studios"^^xsd:string .
+    hltb:officialName "Firefly Studios"^^xsd:string .
+
+hltb:flagship-studios a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:flying-wild-hog a hltb:Company ;
-    hltb:Company "flying wild hog"^^xsd:string .
+    hltb:officialName "Flying Wild Hog"^^xsd:string .
 
 hltb:freebird-games a hltb:Company ;
-    hltb:Company "freebird games"^^xsd:string .
+    hltb:officialName "Freebird Games"^^xsd:string .
 
 hltb:frictional-games a hltb:Company ;
-    hltb:Company "frictional games"^^xsd:string .
+    hltb:officialName "Frictional Games"^^xsd:string .
 
 hltb:frogwares a hltb:Company ;
-    hltb:Company "frogwares"^^xsd:string .
+    hltb:officialName "Frogwares"^^xsd:string .
 
 hltb:frontier-developments a hltb:Company ;
-    hltb:Company "frontier developments"^^xsd:string .
+    hltb:officialName "Frontier Developments"^^xsd:string .
+
+hltb:ftl-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:gamehouse a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:games-distillery a hltb:Company ;
-    hltb:Company "games distillery"^^xsd:string .
+    hltb:officialName "Games Distillery"^^xsd:string .
 
 hltb:garagegames a hltb:Company ;
-    hltb:Company "garagegames"^^xsd:string .
+    hltb:officialName "GarageGames"^^xsd:string .
+
+hltb:glu-mobile a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:gray-matter-interactive a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:greenheart-games a hltb:Company ;
-    hltb:Company "greenheart games"^^xsd:string .
+    hltb:officialName "Greenheart Games"^^xsd:string .
+
+hltb:gremlin-interactive a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:griptonite-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:guerrilla-cambridge a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:gunfire-games a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:haemimont-games a hltb:Company ;
-    hltb:Company "haemimont games"^^xsd:string .
+    hltb:officialName "Haemimont Games"^^xsd:string .
+
+hltb:halfbrick a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:halfbrick-studios a hltb:Company ;
-    hltb:Company "halfbrick studios"^^xsd:string .
+    hltb:officialName "Halfbrick Studios"^^xsd:string .
 
 hltb:hanako-games a hltb:Company ;
-    hltb:Company "hanako games"^^xsd:string .
+    hltb:officialName "Hanako Games"^^xsd:string .
+
+hltb:hangar-13 a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:harebrained-schemes a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:harmonix-music-systems a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:headstrong-games a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:heart-machine a hltb:Company ;
-    hltb:Company "heart machine"^^xsd:string .
+    hltb:officialName "Heart Machine"^^xsd:string .
 
 hltb:hexage a hltb:Company ;
-    hltb:Company "hexage"^^xsd:string .
+    hltb:officialName "Hexage"^^xsd:string .
 
 hltb:hidden-path-entertainment a hltb:Company ;
-    hltb:Company "hidden path entertainment"^^xsd:string .
+    hltb:officialName "Hidden Path Entertainment"^^xsd:string .
+
+hltb:high-impact-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:high-moon-studios a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:himalaya-studios a hltb:Company ;
-    hltb:Company "himalaya studios"^^xsd:string .
+    hltb:officialName "Himalaya Studios"^^xsd:string .
 
 hltb:hoplon-infotainment a hltb:Company ;
-    hltb:Company "hoplon infotainment"^^xsd:string .
+    hltb:officialName "Hoplon Infotainment"^^xsd:string .
+
+hltb:hothead-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:humongous-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:ice-pick-lodge a hltb:Company ;
-    hltb:Company "ice-pick lodge"^^xsd:string .
+    hltb:officialName "Ice-Pick Lodge"^^xsd:string .
+
+hltb:id-software a hltb:Company ;
+    hltb:indieDeveloper false .
 
 <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#image-&-form> a hltb:Company ;
-    hltb:Company "image & form"^^xsd:string .
+    hltb:officialName "Image & Form"^^xsd:string .
+
+hltb:incognito-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:incredible-technologies a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:infinity-ward a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:infocom a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:insomniac-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:interplay-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:inti-creates a hltb:Company ;
-    hltb:Company "inti creates"^^xsd:string .
+    hltb:officialName "Inti Creates"^^xsd:string .
 
 hltb:introversion-software a hltb:Company ;
-    hltb:Company "introversion software"^^xsd:string .
+    hltb:officialName "Introversion Software"^^xsd:string .
 
 hltb:invictus-games a hltb:Company ;
-    hltb:Company "invictus games"^^xsd:string .
+    hltb:officialName "Invictus Games"^^xsd:string .
+
+hltb:inxile-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:ion-storm a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:iron-lore-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:irrational-games a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:jagex a hltb:Company ;
-    hltb:Company "jagex"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "Jagex"^^xsd:string .
+
+hltb:jam-city a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:javaground a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:jonas-kyratzes a hltb:Company ;
-    hltb:Company "jonas kyratzes"^^xsd:string .
+    hltb:officialName "Jonas Kyratzes"^^xsd:string .
 
 hltb:keen-software-house a hltb:Company ;
-    hltb:Company "keen software house"^^xsd:string .
+    hltb:officialName "Keen Software House"^^xsd:string .
 
 <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#kiro'o-games> a hltb:Company ;
-    hltb:Company "kiro'o games"^^xsd:string .
+    hltb:officialName "Kiro'o Games"^^xsd:string .
+
+hltb:krome-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:krome-studios-melbourne a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:kuju-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:kunos-simulazioni a hltb:Company ;
-    hltb:Company "kunos simulazioni"^^xsd:string .
+    hltb:officialName "Kunos Simulazioni"^^xsd:string .
 
 hltb:laminar-research a hltb:Company ;
-    hltb:Company "laminar research"^^xsd:string .
+    hltb:officialName "Laminar Research"^^xsd:string .
 
 hltb:larian-studios a hltb:Company ;
-    hltb:Company "larian studios"^^xsd:string .
+    hltb:officialName "Larian Studios"^^xsd:string .
 
 hltb:lazy-8-studios a hltb:Company ;
-    hltb:Company "lazy 8 studios"^^xsd:string .
+    hltb:officialName "Lazy 8 Studios"^^xsd:string .
+
+hltb:legend-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:lionhead-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:liquid-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:little-green-men-games a hltb:Company ;
-    hltb:Company "little green men games"^^xsd:string .
+    hltb:officialName "Little Green Men Games"^^xsd:string .
 
 hltb:llamasoft a hltb:Company ;
-    hltb:Company "llamasoft"^^xsd:string .
+    hltb:officialName "Llamasoft"^^xsd:string .
+
+hltb:locomotive-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:lucasarts a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:madfinger-games a hltb:Company ;
-    hltb:Company "madfinger games"^^xsd:string .
+    hltb:officialName "Madfinger Games"^^xsd:string .
+
+hltb:maxis a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:media-molecule a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:mega-cat-studios a hltb:Company ;
-    hltb:Company "mega cat studios"^^xsd:string .
+    hltb:officialName "Mega Cat Studios"^^xsd:string .
 
 hltb:messhof a hltb:Company ;
-    hltb:Company "messhof"^^xsd:string .
+    hltb:officialName "Messhof"^^xsd:string .
+
+hltb:microsoft a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:midboss a hltb:Company ;
-    hltb:Company "midboss"^^xsd:string .
+    hltb:officialName "MidBoss"^^xsd:string .
+
+hltb:midway-games a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:mighty-rabbit-studios a hltb:Company ;
-    hltb:Company "mighty rabbit studios"^^xsd:string .
+    hltb:officialName "Mighty Rabbit Studios"^^xsd:string .
 
 hltb:mode-7-games a hltb:Company ;
-    hltb:Company "mode 7 games"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "Mode 7 Games"^^xsd:string .
 
 hltb:mojang a hltb:Company ;
-    hltb:Company "mojang"^^xsd:string .
+    hltb:officialName "Mojang"^^xsd:string .
 
 hltb:molleindustria a hltb:Company ;
-    hltb:Company "molleindustria"^^xsd:string .
+    hltb:officialName "Molleindustria"^^xsd:string .
+
+hltb:monolith-productions a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:moon-studios a hltb:Company ;
-    hltb:Company "moon studios"^^xsd:string .
+    hltb:officialName "Moon Studios"^^xsd:string .
+
+hltb:mythic-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:naturalmotion a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:naughty-dog a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:neocoregames a hltb:Company ;
-    hltb:Company "neocoregames"^^xsd:string .
+    hltb:officialName "NeocoreGames"^^xsd:string .
+
+hltb:netherrealm-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:neversoft a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:new-star-games a hltb:Company ;
-    hltb:Company "new star games"^^xsd:string .
+    hltb:officialName "New Star Games"^^xsd:string .
+
+hltb:new-world-interactive a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:nicalis a hltb:Company ;
-    hltb:Company "nicalis"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "Nicalis"^^xsd:string .
+
+hltb:ninja-theory a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:nival-interactive a hltb:Company ;
-    hltb:Company "nival interactive"^^xsd:string .
+    hltb:officialName "Nival Interactive"^^xsd:string .
+
+hltb:novalogic a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:obsidian-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:origin-systems a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:otherside-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:outrage-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:owlchemy-labs a hltb:Company ;
-    hltb:Company "owlchemy labs"^^xsd:string .
+    hltb:officialName "Owlchemy Labs"^^xsd:string .
+
+hltb:page-44-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:pandemic-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:parallax-software a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:piranha-games a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:pixeljam-games a hltb:Company ;
-    hltb:Company "pixeljam games"^^xsd:string .
+    hltb:officialName "PixelJAM Games"^^xsd:string .
+
+hltb:playfish a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:playground-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:popcap-games a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:positech-games a hltb:Company ;
-    hltb:Company "positech games"^^xsd:string .
+    hltb:officialName "Positech Games"^^xsd:string .
 
 hltb:provox-games a hltb:Company ;
-    hltb:Company "provox games"^^xsd:string .
+    hltb:officialName "Provox Games"^^xsd:string .
+
+hltb:psyonix a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:psyonix-studios a hltb:Company ;
-    hltb:Company "psyonix studios"^^xsd:string .
+    hltb:officialName "Psyonix Studios"^^xsd:string .
 
 hltb:puppy-games a hltb:Company ;
-    hltb:Company "puppy games"^^xsd:string .
+    hltb:officialName "Puppy Games"^^xsd:string .
 
 hltb:q-games a hltb:Company ;
-    hltb:Company "q-games"^^xsd:string .
+    hltb:officialName "Q-Games"^^xsd:string .
+
+hltb:rainbow-studios a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:rake-in-grass a hltb:Company ;
-    hltb:Company "rake in grass"^^xsd:string .
+    hltb:officialName "Rake In Grass"^^xsd:string .
+
+hltb:rare a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:raven-software a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:ready-at-dawn a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:realtime-worlds a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:red-storm-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:red-thread-games a hltb:Company ;
-    hltb:Company "red thread games"^^xsd:string .
+    hltb:officialName "Red Thread Games"^^xsd:string .
+
+hltb:reflexive-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:relentless-software a hltb:Company ;
-    hltb:Company "relentless software"^^xsd:string .
+    hltb:officialName "Relentless Software"^^xsd:string .
+
+hltb:relic-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:renegade-kid a hltb:Company ;
-    hltb:Company "renegade kid"^^xsd:string .
+    hltb:officialName "Renegade Kid"^^xsd:string .
+
+hltb:respawn-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:riot-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:rockstar-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:rocksteady-studios a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:roll7 a hltb:Company ;
-    hltb:Company "roll7"^^xsd:string .
+    hltb:officialName "Roll7"^^xsd:string .
 
 hltb:rovio-entertainment a hltb:Company ;
-    hltb:Company "rovio entertainment"^^xsd:string .
+    hltb:officialName "Rovio Entertainment"^^xsd:string .
+
+hltb:runic-games a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:s2-games a hltb:Company ;
-    hltb:Company "s2 games"^^xsd:string .
+    hltb:officialName "S2 Games"^^xsd:string .
 
 hltb:saber-interactive a hltb:Company ;
-    hltb:Company "saber interactive"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "Saber Interactive"^^xsd:string .
 
 hltb:sandlot-games a hltb:Company ;
-    hltb:Company "sandlot games"^^xsd:string .
+    hltb:officialName "Sandlot Games"^^xsd:string .
+
+hltb:sanzaru-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:sce-studio-liverpool a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:schell-games a hltb:Company ;
-    hltb:Company "schell games"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "Schell Games"^^xsd:string .
 
 hltb:scott-cawthon a hltb:Company ;
-    hltb:Company "scott cawthon"^^xsd:string .
+    hltb:officialName "Scott Cawthon"^^xsd:string .
+
+hltb:sega a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:sensible-software a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:sidhe a hltb:Company ;
-    hltb:Company "sidhe"^^xsd:string .
+    hltb:officialName "Sidhe"^^xsd:string .
+
+hltb:sie-bend-studio a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:sie-san-diego-studio a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:sie-santa-monica-studio a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:sierra-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:silicon-knights a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:silver-creek-entertainment a hltb:Company ;
-    hltb:Company "silver creek entertainment"^^xsd:string .
+    hltb:officialName "Silver Creek Entertainment"^^xsd:string .
 
 hltb:simogo a hltb:Company ;
-    hltb:Company "simogo"^^xsd:string .
+    hltb:officialName "Simogo"^^xsd:string .
+
+hltb:simtex a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:singletrac a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:ska-studios a hltb:Company ;
-    hltb:Company "ska studios"^^xsd:string .
+    hltb:officialName "Ska Studios"^^xsd:string .
 
 hltb:skygoblin a hltb:Company ;
-    hltb:Company "skygoblin"^^xsd:string .
+    hltb:officialName "Skygoblin"^^xsd:string .
+
+hltb:slant-six-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:sledgehammer-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:slightly-mad-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:snowblind-studios a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:soldak-entertainment a hltb:Company ;
-    hltb:Company "soldak entertainment"^^xsd:string .
+    hltb:officialName "Soldak Entertainment"^^xsd:string .
+
+hltb:sony-computer-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:spiderweb-software a hltb:Company ;
-    hltb:Company "spiderweb software"^^xsd:string .
+    hltb:officialName "Spiderweb Software"^^xsd:string .
 
 hltb:splash-damage a hltb:Company ;
-    hltb:Company "splash damage"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "Splash Damage"^^xsd:string .
 
 hltb:squad a hltb:Company ;
-    hltb:Company "squad"^^xsd:string .
+    hltb:officialName "Squad"^^xsd:string .
+
+hltb:stainless-steel-studios a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:stardock a hltb:Company ;
-    hltb:Company "stardock"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "Stardock"^^xsd:string .
+
+hltb:strategic-simulations a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:studio-pixel a hltb:Company ;
-    hltb:Company "studio pixel"^^xsd:string .
+    hltb:officialName "Studio Pixel"^^xsd:string .
 
 hltb:subatomic-studios a hltb:Company ;
-    hltb:Company "subatomic studios"^^xsd:string .
+    hltb:officialName "Subatomic Studios"^^xsd:string .
+
+hltb:sucker-punch-productions a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:sunstorm-interactive a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:supergiant-games a hltb:Company ;
-    hltb:Company "supergiant games"^^xsd:string .
+    hltb:officialName "Supergiant Games"^^xsd:string .
 
 hltb:supervillain-studios a hltb:Company ;
-    hltb:Company "supervillain studios"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "SuperVillain Studios"^^xsd:string .
 
 hltb:tale-of-tales a hltb:Company ;
-    hltb:Company "tale of tales"^^xsd:string .
+    hltb:officialName "Tale of Tales"^^xsd:string .
 
 hltb:taleworlds a hltb:Company ;
-    hltb:Company "taleworlds"^^xsd:string .
+    hltb:officialName "TaleWorlds"^^xsd:string .
 
 hltb:tarsier-studios a hltb:Company ;
-    hltb:Company "tarsier studios"^^xsd:string .
+    hltb:officialName "Tarsier Studios"^^xsd:string .
+
+hltb:team-bondi a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:team-shanghai-alice a hltb:Company ;
-    hltb:Company "team shanghai alice"^^xsd:string .
+    hltb:officialName "Team Shanghai Alice"^^xsd:string .
 
 hltb:telltale-games a hltb:Company ;
-    hltb:Company "telltale games"^^xsd:string .
+    hltb:indieDeveloper false ;
+    hltb:officialName "Telltale Games"^^xsd:string .
+
+hltb:terminal-reality a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:terri-vellmann a hltb:Company ;
-    hltb:Company "terri vellmann"^^xsd:string .
+    hltb:officialName "Terri Vellmann"^^xsd:string .
 
 hltb:terry-cavanagh a hltb:Company ;
-    hltb:Company "terry cavanagh"^^xsd:string .
+    hltb:officialName "Terry Cavanagh"^^xsd:string .
+
+hltb:tetris-online a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:the-bitmap-brothers a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:the-chinese-room a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:three-fields-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:three-rings-design a hltb:Company ;
-    hltb:Company "three rings design"^^xsd:string .
+    hltb:officialName "Three Rings Design"^^xsd:string .
 
 hltb:toby-fox a hltb:Company ;
-    hltb:Company "toby fox"^^xsd:string .
+    hltb:officialName "Toby Fox"^^xsd:string .
 
 hltb:tomorrow-corporation a hltb:Company ;
-    hltb:Company "tomorrow corporation"^^xsd:string .
+    hltb:officialName "Tomorrow Corporation"^^xsd:string .
 
 hltb:torpex-games a hltb:Company ;
-    hltb:Company "torpex games"^^xsd:string .
+    hltb:officialName "Torpex Games"^^xsd:string .
+
+hltb:toys-for-bob a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:transmission-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#traveller's-tales> a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:trendy-entertainment a hltb:Company ;
-    hltb:Company "trendy entertainment"^^xsd:string .
+    hltb:officialName "Trendy Entertainment"^^xsd:string .
+
+hltb:treyarch a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:tribute-games a hltb:Company ;
-    hltb:Company "tribute games"^^xsd:string .
+    hltb:officialName "Tribute Games"^^xsd:string .
 
 hltb:trickster-arts a hltb:Company ;
-    hltb:Company "trickster arts"^^xsd:string .
+    hltb:officialName "Trickster Arts"^^xsd:string .
+
+hltb:trion-worlds a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:turn-10-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:two-point-studios a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:uber-entertainment a hltb:Company ;
-    hltb:Company "uber entertainment"^^xsd:string .
+    hltb:officialName "Uber Entertainment"^^xsd:string .
+
+hltb:ubisoft-reflections a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:ultimate-play-the-game a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:undead-labs a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:united-front-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:valve a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:vectorpark a hltb:Company ;
-    hltb:Company "vectorpark"^^xsd:string .
+    hltb:officialName "Vectorpark"^^xsd:string .
+
+hltb:venan-entertainment a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:vicarious-visions a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:vigil-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:visceral-games a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:visual-concepts a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:voxelstorm a hltb:Company ;
-    hltb:Company "voxelstorm"^^xsd:string .
+    hltb:officialName "VoxelStorm"^^xsd:string .
 
 hltb:wadjet-eye-games a hltb:Company ;
-    hltb:Company "wadjet eye games"^^xsd:string .
+    hltb:officialName "Wadjet Eye Games"^^xsd:string .
+
+hltb:webfoot-technologies a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:westwood-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:wideload-games a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:wolfire-games a hltb:Company ;
-    hltb:Company "wolfire games"^^xsd:string .
+    hltb:officialName "Wolfire Games"^^xsd:string .
 
 hltb:yacht-club-games a hltb:Company ;
-    hltb:Company "yacht club games"^^xsd:string .
+    hltb:officialName "Yacht Club Games"^^xsd:string .
 
 hltb:young-horses a hltb:Company ;
-    hltb:Company "young horses"^^xsd:string .
+    hltb:officialName "Young Horses"^^xsd:string .
+
+hltb:zenimax-online-studios a hltb:Company ;
+    hltb:indieDeveloper false .
+
+hltb:zipper-interactive a hltb:Company ;
+    hltb:indieDeveloper false .
 
 hltb:zoetrope-interactive a hltb:Company ;
-    hltb:Company "zoetrope interactive"^^xsd:string .
+    hltb:officialName "Zoetrope Interactive"^^xsd:string .
 
 hltb:zoink a hltb:Company ;
-    hltb:Company "zoink"^^xsd:string .
+    hltb:officialName "Zoink"^^xsd:string .
 
 hltb:zoonami a hltb:Company ;
-    hltb:Company "zoonami"^^xsd:string .
+    hltb:officialName "Zoonami"^^xsd:string .
 
 hltb:zootfly a hltb:Company ;
-    hltb:Company "zootfly"^^xsd:string .
+    hltb:officialName "ZootFly"^^xsd:string .
+
+hltb:zynga a hltb:Company ;
+    hltb:indieDeveloper false .
 
