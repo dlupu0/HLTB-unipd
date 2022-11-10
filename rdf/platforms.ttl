@@ -118,7 +118,7 @@ hltb:fm-towns a hltb:Platform ;
     hltb:name "FM Towns"^^xsd:string ;
     hltb:releaseDate "1993-01-20T00:00:00"^^xsd:dateTime .
 
-hltb:game---watch a hltb:Platform ;
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#game-&-watch> a hltb:Platform ;
     hltb:name "Game & Watch"^^xsd:string .
 
 hltb:game-boy a hltb:Platform ;
@@ -308,7 +308,7 @@ hltb:playstation-vita a hltb:Platform ;
     hltb:acronym "PSV"^^xsd:string ;
     hltb:name "PlayStation Vita"^^xsd:string .
 
-hltb:plug---play a hltb:Platform ;
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#plug-&-play> a hltb:Platform ;
     hltb:name "Plug & Play"^^xsd:string .
 
 hltb:sega-32x a hltb:Platform ;
@@ -335,7 +335,7 @@ hltb:sega-master-system a hltb:Platform ;
     hltb:name "Sega Master System"^^xsd:string ;
     hltb:releaseDate "1985-01-20T00:00:00"^^xsd:dateTime .
 
-hltb:sega-mega-drive-genesis a hltb:Platform ;
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#sega-mega-drive/genesis> a hltb:Platform ;
     hltb:bits "16"^^xsd:int ;
     hltb:cpu "Motorola 68000 @ 7.6 MHz, Zilog Z80 @ 3.58 MHz"^^xsd:string ;
     hltb:name "Sega Mega Drive/Genesis"^^xsd:string ;
@@ -429,7 +429,7 @@ hltb:xbox-one a hltb:Platform ;
     hltb:popular true ;
     hltb:releaseDate "2013-01-22T00:00:00"^^xsd:dateTime .
 
-hltb:xbox-series-x-s a hltb:Platform ;
+<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#xbox-series-x/s> a hltb:Platform ;
     hltb:acronym "XS"^^xsd:string ;
     hltb:bits "64"^^xsd:int ;
     hltb:cpu "Custom 8-core AMD Zen 2;Series X: 3.8 GHz, 3.6 GHz with SMTSeries S: 3.6 GHz, 3.4 GHz with SMT"^^xsd:string ;
