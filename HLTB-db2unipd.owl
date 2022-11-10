@@ -85,9 +85,8 @@
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#sold
-:sold rdf:type owl:ObjectProperty ;
-      rdfs:subPropertyOf owl:topObjectProperty ;
-      rdf:type owl:InverseFunctionalProperty ;
+:sold rdf:type owl:ObjectProperty ,
+               owl:InverseFunctionalProperty ;
       rdfs:domain [ rdf:type owl:Class ;
                     owl:unionOf ( :Game
                                   :Platform
@@ -150,13 +149,6 @@
                 rdfs:range xsd:boolean .
 
 
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#jpSales
-:jpSales rdf:type owl:DatatypeProperty ,
-                  owl:FunctionalProperty ;
-         rdfs:domain :Sale ;
-         rdfs:range xsd:float .
-
-
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#mainPlusTime
 :mainPlusTime rdf:type owl:DatatypeProperty ;
               rdfs:range xsd:int .
@@ -171,13 +163,6 @@
 :multiplayerFocus rdf:type owl:DatatypeProperty ,
                            owl:FunctionalProperty ;
                   rdfs:range xsd:boolean .
-
-
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#naSales
-:naSales rdf:type owl:DatatypeProperty ,
-                  owl:FunctionalProperty ;
-         rdfs:domain :Sale ;
-         rdfs:range xsd:float .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#officialName
@@ -195,13 +180,6 @@
                             owl:onDataRange xsd:string
                           ] ;
               rdfs:range xsd:string .
-
-
-###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#palSales
-:palSales rdf:type owl:DatatypeProperty ,
-                   owl:FunctionalProperty ;
-          rdfs:domain :Sale ;
-          rdfs:range xsd:float .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#polledTime
@@ -236,6 +214,15 @@
                        owl:FunctionalProperty ;
               rdfs:domain :Sale ;
               rdfs:range xsd:float .
+
+
+###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#unitsSold
+:unitsSold rdf:type owl:DatatypeProperty ;
+           rdfs:domain [ rdf:type owl:Restriction ;
+                         owl:onProperty :unitsSold ;
+                         owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                         owl:onDataRange xsd:float
+                       ] .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#userScore
