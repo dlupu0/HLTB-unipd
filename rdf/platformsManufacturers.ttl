@@ -1,0 +1,81 @@
+@prefix hltb: <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#> .
+
+hltb:3do hltb:createdBy hltb:goldstar,
+        hltb:panasonic,
+        hltb:sanyo .
+
+hltb:amiga-cd32 hltb:createdBy hltb:commodore .
+
+hltb:atari-2600 hltb:createdBy hltb:atari-inc .
+
+hltb:atari-5200 hltb:createdBy hltb:atari-inc .
+
+hltb:atari-7800 hltb:createdBy hltb:atari-corporation .
+
+hltb:atari-jaguar hltb:createdBy hltb:atari-corporation .
+
+hltb:atari-jaguar-cd hltb:createdBy hltb:atari-corporation .
+
+hltb:colecovision hltb:createdBy hltb:coleco .
+
+hltb:commodore-64 hltb:createdBy hltb:commodore .
+
+hltb:dreamcast hltb:createdBy hltb:sega .
+
+hltb:fm-towns hltb:createdBy hltb:fujitsu .
+
+hltb:intellivision hltb:createdBy hltb:mattel-electronics .
+
+hltb:nes hltb:createdBy hltb:nintendo .
+
+hltb:nintendo-64 hltb:createdBy hltb:nintendo .
+
+hltb:nintendo-gamecube hltb:createdBy hltb:nintendo .
+
+hltb:nintendo-switch hltb:createdBy hltb:nintendo .
+
+hltb:odyssey-2 hltb:createdBy hltb:magnavox,
+        hltb:philips .
+
+hltb:playstation hltb:createdBy hltb:sony .
+
+hltb:playstation-2 hltb:createdBy hltb:sony .
+
+hltb:playstation-3 hltb:createdBy hltb:sony .
+
+hltb:playstation-4 hltb:createdBy hltb:sony .
+
+hltb:playstation-5 hltb:createdBy hltb:sony .
+
+hltb:sega-32x hltb:createdBy hltb:sega .
+
+hltb:sega-cd hltb:createdBy hltb:sega .
+
+hltb:sega-master-system hltb:createdBy hltb:sega,
+        hltb:tec-toy .
+
+hltb:sega-mega-drive-genesis hltb:createdBy hltb:sega .
+
+hltb:sega-pico hltb:createdBy hltb:majesco-entertainment .
+
+hltb:sega-saturn hltb:createdBy hltb:sega .
+
+hltb:sg-1000 hltb:createdBy hltb:sega .
+
+hltb:super-nintendo hltb:createdBy hltb:nintendo .
+
+hltb:wii hltb:createdBy hltb:nintendo .
+
+hltb:wii-u hltb:createdBy hltb:nintendo .
+
+hltb:xbox hltb:createdBy hltb:microsoft .
+
+hltb:xbox-360 hltb:createdBy hltb:microsoft .
+
+hltb:xbox-one hltb:createdBy hltb:microsoft .
+
+hltb:xbox-series-x-s hltb:createdBy hltb:microsoft .
+
+hltb:zeebo hltb:createdBy hltb:tec-toy,
+        hltb:zeebo-inc .
+

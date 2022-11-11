@@ -95,6 +95,6 @@ Xbox 360,True,2005-11-22,Microsoft (U.S.),Big-endian architecture 3.2 GHz PowerP
 128-bit extensions",47.09,25.08,1.66,11.9,85.73,X360
 Xbox One,True,2013-11-22,Microsoft (U.S.),Custom 1.75 GHz AMD 8-core APU (2 quad-core Jaguar modules),64-bit (CPU),31.61,13.01,0.12,6.54,51.28,XOne
 Xbox Series X/S,True,2020-11-10,Microsoft (U.S.),"Custom 8-core AMD Zen 2;Series X: 3.8 GHz, 3.6 GHz with SMTSeries S: 3.6 GHz, 3.4 GHz with SMT",64-bit (CPU),8.95,4.76,0.37,3.42,17.51,XS
-Zeebo,,2009-05-25,Zeebo Inc. (U.S.) / TecToy (Brazil),ARM11 / QDSP-5 in Qualcomm MSM SoC running at 528 MHz,32-bit (CPU),,,,,,
+Zeebo,,2009-05-25,Zeebo Inc. (U.S.) / Tec Toy (Brazil),ARM11 / QDSP-5 in Qualcomm MSM SoC running at 528 MHz,32-bit (CPU),,,,,,
 ZX Spectrum,,,,,,,,,,,
 ZX81,,,,,,,,,,,
