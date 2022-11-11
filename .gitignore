@@ -1,3 +1,5 @@
 .idea
 .git
 .xml
+
+.DS_Store

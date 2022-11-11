@@ -1,0 +1,638 @@
+@prefix hltb: <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+hltb:sales-amiga-cd32___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:amiga-cd32 ;
+    hltb:unitsSold "0.1"^^xsd:float .
+
+hltb:sales-amiga-cd32___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:amiga-cd32 ;
+    hltb:unitsSold "0.1"^^xsd:float .
+
+hltb:sales-atari-2600___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:atari-2600 ;
+    hltb:unitsSold "3.35"^^xsd:float .
+
+hltb:sales-atari-2600___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:atari-2600 ;
+    hltb:unitsSold "30.0"^^xsd:float .
+
+hltb:sales-atari-2600___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:atari-2600 ;
+    hltb:unitsSold "2.36"^^xsd:float .
+
+hltb:sales-atari-2600___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:atari-2600 ;
+    hltb:unitsSold "23.54"^^xsd:float .
+
+hltb:sales-atari-2600___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:atari-2600 ;
+    hltb:unitsSold "0.75"^^xsd:float .
+
+hltb:sales-atari-5200___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:atari-5200 ;
+    hltb:unitsSold "1.0"^^xsd:float .
+
+hltb:sales-atari-7800___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:atari-7800 ;
+    hltb:unitsSold "3.77"^^xsd:float .
+
+hltb:sales-atari-7800___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:atari-7800 ;
+    hltb:unitsSold "3.77"^^xsd:float .
+
+hltb:sales-atari-jaguar___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:atari-jaguar ;
+    hltb:unitsSold "0.25"^^xsd:float .
+
+hltb:sales-atari-lynx___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:atari-lynx ;
+    hltb:unitsSold "1.0"^^xsd:float .
+
+hltb:sales-colecovision___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:colecovision ;
+    hltb:unitsSold "2.0"^^xsd:float .
+
+hltb:sales-dreamcast___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:dreamcast ;
+    hltb:unitsSold "1.91"^^xsd:float .
+
+hltb:sales-dreamcast___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:dreamcast ;
+    hltb:unitsSold "9.13"^^xsd:float .
+
+hltb:sales-dreamcast___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:dreamcast ;
+    hltb:unitsSold "2.25"^^xsd:float .
+
+hltb:sales-dreamcast___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:dreamcast ;
+    hltb:unitsSold "3.9"^^xsd:float .
+
+hltb:sales-dreamcast___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:dreamcast ;
+    hltb:unitsSold "1.07"^^xsd:float .
+
+hltb:sales-game-boy-advance___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:game-boy-advance ;
+    hltb:unitsSold "21.31"^^xsd:float .
+
+hltb:sales-game-boy-advance___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:game-boy-advance ;
+    hltb:unitsSold "81.51"^^xsd:float .
+
+hltb:sales-game-boy-advance___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:game-boy-advance ;
+    hltb:unitsSold "16.96"^^xsd:float .
+
+hltb:sales-game-boy-advance___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:game-boy-advance ;
+    hltb:unitsSold "40.39"^^xsd:float .
+
+hltb:sales-game-boy-advance___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:game-boy-advance ;
+    hltb:unitsSold "2.85"^^xsd:float .
+
+hltb:sales-game-boy___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:game-boy ;
+    hltb:unitsSold "40.05"^^xsd:float .
+
+hltb:sales-game-boy___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:game-boy ;
+    hltb:unitsSold "118.69"^^xsd:float .
+
+hltb:sales-game-boy___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:game-boy ;
+    hltb:unitsSold "32.47"^^xsd:float .
+
+hltb:sales-game-boy___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:game-boy ;
+    hltb:unitsSold "43.18"^^xsd:float .
+
+hltb:sales-game-boy___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:game-boy ;
+    hltb:unitsSold "2.99"^^xsd:float .
+
+hltb:sales-gizmondo___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:gizmondo ;
+    hltb:unitsSold "0.02"^^xsd:float .
+
+hltb:sales-intellivision___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:intellivision ;
+    hltb:unitsSold "3.0"^^xsd:float .
+
+hltb:sales-n-gage___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:n-gage ;
+    hltb:unitsSold "3.0"^^xsd:float .
+
+hltb:sales-neo-geo___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:neo-geo ;
+    hltb:unitsSold "0.98"^^xsd:float .
+
+hltb:sales-nintendo-3ds___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:nintendo-3ds ;
+    hltb:unitsSold "20.45"^^xsd:float .
+
+hltb:sales-nintendo-3ds___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:nintendo-3ds ;
+    hltb:unitsSold "75.94"^^xsd:float .
+
+hltb:sales-nintendo-3ds___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:nintendo-3ds ;
+    hltb:unitsSold "24.67"^^xsd:float .
+
+hltb:sales-nintendo-3ds___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:nintendo-3ds ;
+    hltb:unitsSold "25.47"^^xsd:float .
+
+hltb:sales-nintendo-3ds___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:nintendo-3ds ;
+    hltb:unitsSold "5.35"^^xsd:float .
+
+hltb:sales-nintendo-64___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:nintendo-64 ;
+    hltb:unitsSold "6.35"^^xsd:float .
+
+hltb:sales-nintendo-64___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:nintendo-64 ;
+    hltb:unitsSold "32.93"^^xsd:float .
+
+hltb:sales-nintendo-64___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:nintendo-64 ;
+    hltb:unitsSold "5.54"^^xsd:float .
+
+hltb:sales-nintendo-64___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:nintendo-64 ;
+    hltb:unitsSold "20.11"^^xsd:float .
+
+hltb:sales-nintendo-64___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:nintendo-64 ;
+    hltb:unitsSold "0.93"^^xsd:float .
+
+hltb:sales-nintendo-ds___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:nintendo-ds ;
+    hltb:unitsSold "51.84"^^xsd:float .
+
+hltb:sales-nintendo-ds___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:nintendo-ds ;
+    hltb:unitsSold "154.02"^^xsd:float .
+
+hltb:sales-nintendo-ds___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:nintendo-ds ;
+    hltb:unitsSold "32.99"^^xsd:float .
+
+hltb:sales-nintendo-ds___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:nintendo-ds ;
+    hltb:unitsSold "57.92"^^xsd:float .
+
+hltb:sales-nintendo-ds___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:nintendo-ds ;
+    hltb:unitsSold "11.28"^^xsd:float .
+
+hltb:sales-nintendo-switch___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:nintendo-switch ;
+    hltb:unitsSold "28.8"^^xsd:float .
+
+hltb:sales-nintendo-switch___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:nintendo-switch ;
+    hltb:unitsSold "114.01"^^xsd:float .
+
+hltb:sales-nintendo-switch___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:nintendo-switch ;
+    hltb:unitsSold "26.52"^^xsd:float .
+
+hltb:sales-nintendo-switch___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:nintendo-switch ;
+    hltb:unitsSold "40.95"^^xsd:float .
+
+hltb:sales-nintendo-switch___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:nintendo-switch ;
+    hltb:unitsSold "17.75"^^xsd:float .
+
+hltb:sales-playstation-2___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:playstation-2 ;
+    hltb:unitsSold "55.28"^^xsd:float .
+
+hltb:sales-playstation-2___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:playstation-2 ;
+    hltb:unitsSold "158.7"^^xsd:float .
+
+hltb:sales-playstation-2___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:playstation-2 ;
+    hltb:unitsSold "23.18"^^xsd:float .
+
+hltb:sales-playstation-2___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:playstation-2 ;
+    hltb:unitsSold "53.65"^^xsd:float .
+
+hltb:sales-playstation-2___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:playstation-2 ;
+    hltb:unitsSold "26.59"^^xsd:float .
+
+hltb:sales-playstation-3___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:playstation-3 ;
+    hltb:unitsSold "30.87"^^xsd:float .
+
+hltb:sales-playstation-3___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:playstation-3 ;
+    hltb:unitsSold "87.4"^^xsd:float .
+
+hltb:sales-playstation-3___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:playstation-3 ;
+    hltb:unitsSold "10.47"^^xsd:float .
+
+hltb:sales-playstation-3___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:playstation-3 ;
+    hltb:unitsSold "29.92"^^xsd:float .
+
+hltb:sales-playstation-3___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:playstation-3 ;
+    hltb:unitsSold "16.14"^^xsd:float .
+
+hltb:sales-playstation-4___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:playstation-4 ;
+    hltb:unitsSold "45.92"^^xsd:float .
+
+hltb:sales-playstation-4___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:playstation-4 ;
+    hltb:unitsSold "117.01"^^xsd:float .
+
+hltb:sales-playstation-4___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:playstation-4 ;
+    hltb:unitsSold "9.57"^^xsd:float .
+
+hltb:sales-playstation-4___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:playstation-4 ;
+    hltb:unitsSold "38.19"^^xsd:float .
+
+hltb:sales-playstation-4___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:playstation-4 ;
+    hltb:unitsSold "23.32"^^xsd:float .
+
+hltb:sales-playstation-5___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:playstation-5 ;
+    hltb:unitsSold "8.38"^^xsd:float .
+
+hltb:sales-playstation-5___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:playstation-5 ;
+    hltb:unitsSold "24.46"^^xsd:float .
+
+hltb:sales-playstation-5___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:playstation-5 ;
+    hltb:unitsSold "2.0"^^xsd:float .
+
+hltb:sales-playstation-5___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:playstation-5 ;
+    hltb:unitsSold "9.84"^^xsd:float .
+
+hltb:sales-playstation-5___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:playstation-5 ;
+    hltb:unitsSold "4.24"^^xsd:float .
+
+hltb:sales-playstation-portable___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:playstation-portable ;
+    hltb:unitsSold "24.39"^^xsd:float .
+
+hltb:sales-playstation-portable___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:playstation-portable ;
+    hltb:unitsSold "80.79"^^xsd:float .
+
+hltb:sales-playstation-portable___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:playstation-portable ;
+    hltb:unitsSold "20.01"^^xsd:float .
+
+hltb:sales-playstation-portable___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:playstation-portable ;
+    hltb:unitsSold "21.41"^^xsd:float .
+
+hltb:sales-playstation-portable___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:playstation-portable ;
+    hltb:unitsSold "14.98"^^xsd:float .
+
+hltb:sales-playstation-vita___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:playstation-vita ;
+    hltb:unitsSold "3.94"^^xsd:float .
+
+hltb:sales-playstation-vita___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:playstation-vita ;
+    hltb:unitsSold "15.82"^^xsd:float .
+
+hltb:sales-playstation-vita___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:playstation-vita ;
+    hltb:unitsSold "5.73"^^xsd:float .
+
+hltb:sales-playstation-vita___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:playstation-vita ;
+    hltb:unitsSold "2.7"^^xsd:float .
+
+hltb:sales-playstation-vita___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:playstation-vita ;
+    hltb:unitsSold "3.44"^^xsd:float .
+
+hltb:sales-playstation___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:playstation ;
+    hltb:unitsSold "31.09"^^xsd:float .
+
+hltb:sales-playstation___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:playstation ;
+    hltb:unitsSold "102.49"^^xsd:float .
+
+hltb:sales-playstation___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:playstation ;
+    hltb:unitsSold "21.59"^^xsd:float .
+
+hltb:sales-playstation___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:playstation ;
+    hltb:unitsSold "40.78"^^xsd:float .
+
+hltb:sales-playstation___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:playstation ;
+    hltb:unitsSold "9.04"^^xsd:float .
+
+hltb:sales-sega-32x___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:sega-32x ;
+    hltb:unitsSold "0.8"^^xsd:float .
+
+hltb:sales-sega-cd___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:sega-cd ;
+    hltb:unitsSold "2.24"^^xsd:float .
+
+hltb:sales-sega-cd___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:sega-cd ;
+    hltb:unitsSold "0.4"^^xsd:float .
+
+hltb:sales-sega-master-system___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:sega-master-system ;
+    hltb:unitsSold "6.95"^^xsd:float .
+
+hltb:sales-sega-master-system___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:sega-master-system ;
+    hltb:unitsSold "20.84"^^xsd:float .
+
+hltb:sales-sega-master-system___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:sega-master-system ;
+    hltb:unitsSold "2.52"^^xsd:float .
+
+hltb:sales-sega-master-system___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:sega-master-system ;
+    hltb:unitsSold "2.0"^^xsd:float .
+
+hltb:sales-sega-master-system___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:sega-master-system ;
+    hltb:unitsSold "9.37"^^xsd:float .
+
+hltb:sales-sega-saturn___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:sega-saturn ;
+    hltb:unitsSold "1.1"^^xsd:float .
+
+hltb:sales-sega-saturn___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:sega-saturn ;
+    hltb:unitsSold "9.26"^^xsd:float .
+
+hltb:sales-sega-saturn___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:sega-saturn ;
+    hltb:unitsSold "5.8"^^xsd:float .
+
+hltb:sales-sega-saturn___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:sega-saturn ;
+    hltb:unitsSold "1.83"^^xsd:float .
+
+hltb:sales-sega-saturn___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:sega-saturn ;
+    hltb:unitsSold "0.53"^^xsd:float .
+
+hltb:sales-turbografx-16___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:turbografx-16 ;
+    hltb:unitsSold "10.0"^^xsd:float .
+
+hltb:sales-turbografx-16___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:turbografx-16 ;
+    hltb:unitsSold "7.76"^^xsd:float .
+
+hltb:sales-turbografx-16___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:turbografx-16 ;
+    hltb:unitsSold "0.75"^^xsd:float .
+
+hltb:sales-virtual-boy___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:virtual-boy ;
+    hltb:unitsSold "0.77"^^xsd:float .
+
+hltb:sales-virtual-boy___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:virtual-boy ;
+    hltb:unitsSold "0.14"^^xsd:float .
+
+hltb:sales-wonderswan___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:wonderswan ;
+    hltb:unitsSold "3.5"^^xsd:float .
+
+hltb:sales-wonderswan___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:wonderswan ;
+    hltb:unitsSold "3.5"^^xsd:float .
+
+hltb:sales-xbox-360___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:xbox-360 ;
+    hltb:unitsSold "25.08"^^xsd:float .
+
+hltb:sales-xbox-360___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:xbox-360 ;
+    hltb:unitsSold "85.73"^^xsd:float .
+
+hltb:sales-xbox-360___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:xbox-360 ;
+    hltb:unitsSold "1.66"^^xsd:float .
+
+hltb:sales-xbox-360___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:xbox-360 ;
+    hltb:unitsSold "47.09"^^xsd:float .
+
+hltb:sales-xbox-360___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:xbox-360 ;
+    hltb:unitsSold "11.9"^^xsd:float .
+
+hltb:sales-xbox-one___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:xbox-one ;
+    hltb:unitsSold "13.01"^^xsd:float .
+
+hltb:sales-xbox-one___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:xbox-one ;
+    hltb:unitsSold "51.28"^^xsd:float .
+
+hltb:sales-xbox-one___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:xbox-one ;
+    hltb:unitsSold "0.12"^^xsd:float .
+
+hltb:sales-xbox-one___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:xbox-one ;
+    hltb:unitsSold "31.61"^^xsd:float .
+
+hltb:sales-xbox-one___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:xbox-one ;
+    hltb:unitsSold "6.54"^^xsd:float .
+
+hltb:sales-xbox-series-x-s___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:xbox-series-x-s ;
+    hltb:unitsSold "4.76"^^xsd:float .
+
+hltb:sales-xbox-series-x-s___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:xbox-series-x-s ;
+    hltb:unitsSold "17.51"^^xsd:float .
+
+hltb:sales-xbox-series-x-s___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:xbox-series-x-s ;
+    hltb:unitsSold "0.37"^^xsd:float .
+
+hltb:sales-xbox-series-x-s___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:xbox-series-x-s ;
+    hltb:unitsSold "8.95"^^xsd:float .
+
+hltb:sales-xbox-series-x-s___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:xbox-series-x-s ;
+    hltb:unitsSold "3.42"^^xsd:float .
+
+hltb:sales-xbox___eu hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:eu ;
+    hltb:onPlatform hltb:xbox ;
+    hltb:unitsSold "7.17"^^xsd:float .
+
+hltb:sales-xbox___global hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:global ;
+    hltb:onPlatform hltb:xbox ;
+    hltb:unitsSold "24.65"^^xsd:float .
+
+hltb:sales-xbox___jp hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:jp ;
+    hltb:onPlatform hltb:xbox ;
+    hltb:unitsSold "0.47"^^xsd:float .
+
+hltb:sales-xbox___na hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:na ;
+    hltb:onPlatform hltb:xbox ;
+    hltb:unitsSold "15.77"^^xsd:float .
+
+hltb:sales-xbox___other hltb:Type hltb:Sale ;
+    hltb:locatedIn hltb:other ;
+    hltb:onPlatform hltb:xbox ;
+    hltb:unitsSold "1.24"^^xsd:float .
+
