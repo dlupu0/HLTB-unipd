@@ -7,8 +7,7 @@
 @base <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd> .
 
 <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd> rdf:type owl:Ontology ;
-                                                                      owl:versionIRI <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd/1.0> ;
-                                                                      owl:imports <http://eulersharp.sourceforge.net/2003/03swap/countries> .
+                                                                      owl:versionIRI <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd/1.0> .
 
 #################################################################
 #    Object Properties
@@ -112,13 +111,14 @@
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#completionistTime
-:completionistTime rdf:type owl:DatatypeProperty ;
+:completionistTime rdf:type owl:DatatypeProperty ,
+                            owl:FunctionalProperty ;
+                   rdfs:domain :Stats ;
                    rdfs:range xsd:int .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#cpu
-:cpu rdf:type owl:DatatypeProperty ,
-              owl:FunctionalProperty ;
+:cpu rdf:type owl:DatatypeProperty ;
      rdfs:domain :Platform ;
      rdfs:range xsd:string .
 
@@ -133,11 +133,13 @@
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#fastestTime
 :fastestTime rdf:type owl:DatatypeProperty ,
                       owl:FunctionalProperty ;
+             rdfs:domain :Stats ;
              rdfs:range xsd:int .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#id
-:id rdf:type owl:DatatypeProperty ;
+:id rdf:type owl:DatatypeProperty ,
+             owl:FunctionalProperty ;
     rdfs:domain :Game ;
     rdfs:range xsd:int .
 
@@ -150,18 +152,23 @@
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#mainPlusTime
-:mainPlusTime rdf:type owl:DatatypeProperty ;
+:mainPlusTime rdf:type owl:DatatypeProperty ,
+                       owl:FunctionalProperty ;
+              rdfs:domain :Stats ;
               rdfs:range xsd:int .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#mainTime
-:mainTime rdf:type owl:DatatypeProperty ;
+:mainTime rdf:type owl:DatatypeProperty ,
+                   owl:FunctionalProperty ;
+          rdfs:domain :Stats ;
           rdfs:range xsd:int .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#multiplayerFocus
 :multiplayerFocus rdf:type owl:DatatypeProperty ,
                            owl:FunctionalProperty ;
+                  rdfs:domain :Game ;
                   rdfs:range xsd:boolean .
 
 
@@ -170,7 +177,7 @@
                        owl:FunctionalProperty ;
               rdfs:domain [ rdf:type owl:Class ;
                             owl:unionOf ( :Company
-                                          :Genre
+                                          :Game
                                           :Platform
                                         )
                           ] ,
@@ -183,18 +190,22 @@
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#polledTime
-:polledTime rdf:type owl:DatatypeProperty ;
+:polledTime rdf:type owl:DatatypeProperty ,
+                     owl:FunctionalProperty ;
+            rdfs:domain :Stats ;
             rdfs:range xsd:int .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#popular
-:popular rdf:type owl:DatatypeProperty ;
+:popular rdf:type owl:DatatypeProperty ,
+                  owl:FunctionalProperty ;
          rdfs:domain :Platform ;
          rdfs:range xsd:boolean .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#releaseDate
-:releaseDate rdf:type owl:DatatypeProperty ;
+:releaseDate rdf:type owl:DatatypeProperty ,
+                      owl:FunctionalProperty ;
              rdfs:domain [ rdf:type owl:Class ;
                            owl:unionOf ( :Platform
                                          :Stats
@@ -206,6 +217,7 @@
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#slowestTime
 :slowestTime rdf:type owl:DatatypeProperty ,
                       owl:FunctionalProperty ;
+             rdfs:domain :Stats ;
              rdfs:range xsd:int .
 
 
@@ -218,11 +230,13 @@
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#unitsSold
 :unitsSold rdf:type owl:DatatypeProperty ;
-           rdfs:domain [ rdf:type owl:Restriction ;
+           rdfs:domain :Sale ,
+                       [ rdf:type owl:Restriction ;
                          owl:onProperty :unitsSold ;
                          owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
                          owl:onDataRange xsd:float
-                       ] .
+                       ] ;
+           rdfs:range xsd:float .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#userScore
@@ -263,6 +277,7 @@
                               owl:oneOf ( <http://eulersharp.sourceforge.net/2003/03swap/countries#jp>
                                           <http://eulersharp.sourceforge.net/2003/03swap/countries#na>
                                           :eu
+                                          :global
                                           :other
                                         )
                             ] .
@@ -293,6 +308,11 @@
 :eu rdf:type owl:NamedIndividual ,
              :Region ;
     rdfs:comment "eu equals to pal" .
+
+
+###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#global
+:global rdf:type owl:NamedIndividual ,
+                 :Region .
 
 
 ###  http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#na
