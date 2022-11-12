@@ -4,6 +4,9 @@
 hltb:eu a hltb:Region ;
     hltb: "eu"^^xsd:string .
 
+hltb:global a hltb:Region ;
+    hltb: "global"^^xsd:string .
+
 hltb:jp a hltb:Region ;
     hltb: "jp"^^xsd:string .
 
