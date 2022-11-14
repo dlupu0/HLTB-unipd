@@ -1,664 +1,442 @@
-@prefix countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#> .
 @prefix hltb: <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-countries:afghanistan a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ad hltb:subClassOf hltb:eu .
 
-countries:albania a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:ae hltb:subClassOf hltb:other .
 
-countries:algeria a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:af hltb:subClassOf hltb:other .
 
-countries:american-samoa a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ag hltb:subClassOf hltb:na .
 
-countries:andorra a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:ai hltb:subClassOf hltb:na .
 
-countries:angola a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:al hltb:subClassOf hltb:eu .
 
-countries:anguilla a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:am hltb:subClassOf hltb:other .
 
-countries:antarctica a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ao hltb:subClassOf hltb:other .
 
-countries:antigua-and-barbuda a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:aq hltb:subClassOf hltb:other .
 
-countries:argentina a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ar hltb:subClassOf hltb:other .
 
-countries:armenia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:as hltb:subClassOf hltb:other .
 
-countries:aruba a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:at hltb:subClassOf hltb:eu .
 
-countries:australia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:au hltb:subClassOf hltb:other .
 
-countries:austria a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:aw hltb:subClassOf hltb:na .
 
-countries:azerbaijan a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ax hltb:subClassOf hltb:eu .
 
-countries:bahamas a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:az hltb:subClassOf hltb:other .
 
-countries:bahrain a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ba hltb:subClassOf hltb:eu .
 
-countries:bangladesh a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:bb hltb:subClassOf hltb:na .
 
-countries:barbados a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:bd hltb:subClassOf hltb:other .
 
-countries:belarus a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:be hltb:subClassOf hltb:eu .
 
-countries:belgium a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:bf hltb:subClassOf hltb:other .
 
-countries:belize a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:bg hltb:subClassOf hltb:eu .
 
-countries:benin a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:bh hltb:subClassOf hltb:other .
 
-countries:bermuda a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:bi hltb:subClassOf hltb:other .
 
-countries:bhutan a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:bj hltb:subClassOf hltb:other .
 
-countries:bolivia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:bl hltb:subClassOf hltb:na .
 
-countries:bosnia-and-herzegovina a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:bm hltb:subClassOf hltb:na .
 
-countries:botswana a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:bn hltb:subClassOf hltb:other .
 
-countries:bouvet-island a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:bo hltb:subClassOf hltb:other .
 
-countries:brazil a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:br hltb:subClassOf hltb:other .
 
-countries:british-indian-ocean-territory a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:bs hltb:subClassOf hltb:na .
 
-countries:brunei-darussalam a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:bt hltb:subClassOf hltb:other .
 
-countries:bulgaria a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:bv hltb:subClassOf hltb:other .
 
-countries:burkina-faso a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:bw hltb:subClassOf hltb:other .
 
-countries:burundi a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:by hltb:subClassOf hltb:eu .
 
-countries:cambodia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:bz hltb:subClassOf hltb:na .
 
-countries:cameroon a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ca hltb:subClassOf hltb:na .
 
-countries:canada a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:cf hltb:subClassOf hltb:other .
 
-countries:cayman-islands a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:cg hltb:subClassOf hltb:other .
 
-countries:central-african-republic a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ch hltb:subClassOf hltb:eu .
 
-countries:chad a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ci hltb:subClassOf hltb:other .
 
-countries:chile a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ck hltb:subClassOf hltb:other .
 
-countries:china a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:cl hltb:subClassOf hltb:other .
 
-countries:christmas-island a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:cm hltb:subClassOf hltb:other .
 
-countries:colombia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:cn hltb:subClassOf hltb:other .
 
-countries:comoros a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:co hltb:subClassOf hltb:other .
 
-countries:congo a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:cr hltb:subClassOf hltb:na .
 
-countries:cook-islands a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:cu hltb:subClassOf hltb:na .
 
-countries:costa-rica a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:cx hltb:subClassOf hltb:other .
 
-countries:croatia a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:cy hltb:subClassOf hltb:other .
 
-countries:cuba a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:de hltb:subClassOf hltb:eu .
 
-countries:cyprus a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:dj hltb:subClassOf hltb:other .
 
-<http://eulersharp.sourceforge.net/2003/03swap/countries#côte-d'ivoire> a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:dk hltb:subClassOf hltb:eu .
 
-countries:denmark a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:dm hltb:subClassOf hltb:na .
 
-countries:djibouti a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:do hltb:subClassOf hltb:na .
 
-countries:dominica a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:dz hltb:subClassOf hltb:other .
 
-countries:dominican-republic a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:ec hltb:subClassOf hltb:other .
 
-countries:ecuador a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ee hltb:subClassOf hltb:eu .
 
-countries:egypt a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:eg hltb:subClassOf hltb:other .
 
-countries:el-salvador a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:eh hltb:subClassOf hltb:other .
 
-countries:equatorial-guinea a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:er hltb:subClassOf hltb:other .
 
-countries:eritrea a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:es hltb:subClassOf hltb:eu .
 
-countries:estonia a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:et hltb:subClassOf hltb:other .
 
-countries:ethiopia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:fi hltb:subClassOf hltb:eu .
 
-countries:faroe-islands a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:fj hltb:subClassOf hltb:other .
 
-countries:fiji a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:fo hltb:subClassOf hltb:eu .
 
-countries:finland a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:fr hltb:subClassOf hltb:eu .
 
-countries:france a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:ga hltb:subClassOf hltb:other .
 
-countries:french-guiana a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:gd hltb:subClassOf hltb:na .
 
-countries:french-polynesia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ge hltb:subClassOf hltb:other .
 
-countries:french-southern-territories a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:gf hltb:subClassOf hltb:other .
 
-countries:gabon a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:gg hltb:subClassOf hltb:eu .
 
-countries:gambia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:gh hltb:subClassOf hltb:other .
 
-countries:georgia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:gi hltb:subClassOf hltb:eu .
 
-countries:germany a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:gl hltb:subClassOf hltb:na .
 
-countries:ghana a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:gm hltb:subClassOf hltb:other .
 
-countries:gibraltar a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:gn hltb:subClassOf hltb:other .
 
-countries:greece a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:gp hltb:subClassOf hltb:na .
 
-countries:greenland a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:gq hltb:subClassOf hltb:other .
 
-countries:grenada a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:gr hltb:subClassOf hltb:eu .
 
-countries:guadeloupe a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:gs hltb:subClassOf hltb:other .
 
-countries:guam a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:gt hltb:subClassOf hltb:na .
 
-countries:guatemala a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:gu hltb:subClassOf hltb:other .
 
-countries:guernsey a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:gw hltb:subClassOf hltb:other .
 
-countries:guinea a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:gy hltb:subClassOf hltb:other .
 
-countries:guinea-bissau a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:hk hltb:subClassOf hltb:other .
 
-countries:guyana a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:hm hltb:subClassOf hltb:other .
 
-countries:haiti a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:hn hltb:subClassOf hltb:na .
 
-countries:heard-island-and-mcdonald-islands a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:hr hltb:subClassOf hltb:eu .
 
-countries:honduras a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:ht hltb:subClassOf hltb:na .
 
-countries:hong-kong a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:hu hltb:subClassOf hltb:eu .
 
-countries:hungary a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:id hltb:subClassOf hltb:other .
 
-countries:iceland a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:ie hltb:subClassOf hltb:eu .
 
-countries:india a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:il hltb:subClassOf hltb:other .
 
-countries:indonesia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:im hltb:subClassOf hltb:eu .
 
-countries:iran a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:in hltb:subClassOf hltb:other .
 
-countries:iraq a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:io hltb:subClassOf hltb:other .
 
-countries:ireland a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:iq hltb:subClassOf hltb:other .
 
-countries:isle-of-man a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:ir hltb:subClassOf hltb:other .
 
-countries:israel a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:is hltb:subClassOf hltb:eu .
 
-countries:italy a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:it hltb:subClassOf hltb:eu .
 
-countries:jamaica a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:je hltb:subClassOf hltb:eu .
 
-countries:japan a hltb:Country ;
-    hltb:subClassOf "ja"^^xsd:string .
+hltb:jm hltb:subClassOf hltb:na .
 
-countries:jersey a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:jo hltb:subClassOf hltb:other .
 
-countries:jordan a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:jp hltb:subClassOf hltb:ja .
 
-countries:kazakhstan a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ke hltb:subClassOf hltb:other .
 
-countries:kenya a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:kg hltb:subClassOf hltb:other .
 
-countries:kiribati a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:kh hltb:subClassOf hltb:other .
 
-countries:kuwait a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ki hltb:subClassOf hltb:other .
 
-countries:kyrgyzstan a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:km hltb:subClassOf hltb:other .
 
-countries:latvia a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:kn hltb:subClassOf hltb:na .
 
-countries:lebanon a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:kw hltb:subClassOf hltb:other .
 
-countries:lesotho a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ky hltb:subClassOf hltb:na .
 
-countries:liberia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:kz hltb:subClassOf hltb:other .
 
-countries:liechtenstein a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:lb hltb:subClassOf hltb:other .
 
-countries:lithuania a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:lc hltb:subClassOf hltb:na .
 
-countries:luxembourg a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:li hltb:subClassOf hltb:eu .
 
-countries:macao a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:lk hltb:subClassOf hltb:other .
 
-countries:madagascar a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:lr hltb:subClassOf hltb:other .
 
-countries:malawi a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ls hltb:subClassOf hltb:other .
 
-countries:malaysia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:lt hltb:subClassOf hltb:eu .
 
-countries:maldives a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:lu hltb:subClassOf hltb:eu .
 
-countries:mali a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:lv hltb:subClassOf hltb:eu .
 
-countries:malta a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:ma hltb:subClassOf hltb:other .
 
-countries:marshall-islands a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:mc hltb:subClassOf hltb:eu .
 
-countries:martinique a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:me hltb:subClassOf hltb:eu .
 
-countries:mauritania a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:mf hltb:subClassOf hltb:na .
 
-countries:mauritius a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:mg hltb:subClassOf hltb:other .
 
-countries:mayotte a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:mh hltb:subClassOf hltb:other .
 
-countries:mexico a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:ml hltb:subClassOf hltb:other .
 
-countries:monaco a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:mm hltb:subClassOf hltb:other .
 
-countries:mongolia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:mn hltb:subClassOf hltb:other .
 
-countries:montenegro a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:mo hltb:subClassOf hltb:other .
 
-countries:montserrat a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:mp hltb:subClassOf hltb:other .
 
-countries:morocco a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:mq hltb:subClassOf hltb:na .
 
-countries:mozambique a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:mr hltb:subClassOf hltb:other .
 
-countries:myanmar a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ms hltb:subClassOf hltb:na .
 
-countries:namibia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:mt hltb:subClassOf hltb:eu .
 
-countries:nauru a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:mu hltb:subClassOf hltb:other .
 
-countries:nepal a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:mv hltb:subClassOf hltb:other .
 
-countries:netherlands a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:mw hltb:subClassOf hltb:other .
 
-countries:new-caledonia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:mx hltb:subClassOf hltb:na .
 
-countries:new-zealand a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:my hltb:subClassOf hltb:other .
 
-countries:nicaragua a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:mz hltb:subClassOf hltb:other .
 
-countries:niger a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:nc hltb:subClassOf hltb:other .
 
-countries:nigeria a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ne hltb:subClassOf hltb:other .
 
-countries:niue a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:nf hltb:subClassOf hltb:other .
 
-countries:norfolk-island a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ng hltb:subClassOf hltb:other .
 
-countries:northern-mariana-islands a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ni hltb:subClassOf hltb:na .
 
-countries:norway a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:nl hltb:subClassOf hltb:eu .
 
-countries:oman a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:no hltb:subClassOf hltb:eu .
 
-countries:pakistan a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:np hltb:subClassOf hltb:other .
 
-countries:palau a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:nr hltb:subClassOf hltb:other .
 
-countries:panama a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:nu hltb:subClassOf hltb:other .
 
-countries:papua-new-guinea a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:nz hltb:subClassOf hltb:other .
 
-countries:paraguay a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:om hltb:subClassOf hltb:other .
 
-countries:peru a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:pa hltb:subClassOf hltb:na .
 
-countries:philippines a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:pe hltb:subClassOf hltb:other .
 
-countries:pitcairn a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:pf hltb:subClassOf hltb:other .
 
-countries:poland a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:pg hltb:subClassOf hltb:other .
 
-countries:portugal a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:ph hltb:subClassOf hltb:other .
 
-countries:puerto-rico a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:pk hltb:subClassOf hltb:other .
 
-countries:qatar a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:pl hltb:subClassOf hltb:eu .
 
-countries:romania a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:pm hltb:subClassOf hltb:na .
 
-countries:rwanda a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:pn hltb:subClassOf hltb:other .
 
-countries:saint-barthélemy a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:pr hltb:subClassOf hltb:na .
 
-countries:saint-kitts-and-nevis a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:pt hltb:subClassOf hltb:eu .
 
-countries:saint-lucia a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:pw hltb:subClassOf hltb:other .
 
-countries:saint-martin a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:py hltb:subClassOf hltb:other .
 
-countries:saint-pierre-and-miquelon a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:qa hltb:subClassOf hltb:other .
 
-countries:saint-vincent-and-the-grenadines a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:ro hltb:subClassOf hltb:eu .
 
-countries:samoa a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:rs hltb:subClassOf hltb:eu .
 
-countries:san-marino a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:rw hltb:subClassOf hltb:other .
 
-countries:sao-tome-and-principe a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:sa hltb:subClassOf hltb:other .
 
-countries:saudi-arabia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:sb hltb:subClassOf hltb:other .
 
-countries:senegal a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:sc hltb:subClassOf hltb:other .
 
-countries:serbia a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:sd hltb:subClassOf hltb:other .
 
-countries:seychelles a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:se hltb:subClassOf hltb:eu .
 
-countries:sierra-leone a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:sg hltb:subClassOf hltb:other .
 
-countries:singapore a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:si hltb:subClassOf hltb:eu .
 
-countries:slovakia a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:sj hltb:subClassOf hltb:eu .
 
-countries:slovenia a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:sk hltb:subClassOf hltb:eu .
 
-countries:solomon-islands a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:sl hltb:subClassOf hltb:other .
 
-countries:somalia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:sm hltb:subClassOf hltb:eu .
 
-countries:south-africa a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:sn hltb:subClassOf hltb:other .
 
-countries:south-georgia-and-the-south-sandwich-islands a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:so hltb:subClassOf hltb:other .
 
-countries:spain a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:sr hltb:subClassOf hltb:other .
 
-countries:sri-lanka a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:st hltb:subClassOf hltb:other .
 
-countries:sudan a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:sv hltb:subClassOf hltb:na .
 
-countries:suriname a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:sy hltb:subClassOf hltb:other .
 
-countries:svalbard-and-jan-mayen a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:td hltb:subClassOf hltb:other .
 
-countries:sweden a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:tf hltb:subClassOf hltb:other .
 
-countries:switzerland a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:tg hltb:subClassOf hltb:other .
 
-countries:syrian-arab-republic a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:th hltb:subClassOf hltb:other .
 
-countries:taiwan a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:tj hltb:subClassOf hltb:other .
 
-countries:tajikistan a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:tk hltb:subClassOf hltb:other .
 
-countries:thailand a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:tl hltb:subClassOf hltb:other .
 
-countries:timor-leste a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:tm hltb:subClassOf hltb:other .
 
-countries:togo a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:tn hltb:subClassOf hltb:other .
 
-countries:tokelau a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:to hltb:subClassOf hltb:other .
 
-countries:tonga a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:tr hltb:subClassOf hltb:other .
 
-countries:trinidad-and-tobago a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:tt hltb:subClassOf hltb:na .
 
-countries:tunisia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:tv hltb:subClassOf hltb:other .
 
-countries:turkey a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:tw hltb:subClassOf hltb:other .
 
-countries:turkmenistan a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ua hltb:subClassOf hltb:eu .
 
-countries:tuvalu a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ug hltb:subClassOf hltb:other .
 
-countries:uganda a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:um hltb:subClassOf hltb:other .
 
-countries:ukraine a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:uy hltb:subClassOf hltb:other .
 
-countries:united-arab-emirates a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:uz hltb:subClassOf hltb:other .
 
-countries:united-states-minor-outlying-islands a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:vc hltb:subClassOf hltb:na .
 
-countries:uruguay a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ve hltb:subClassOf hltb:na .
 
-countries:uzbekistan a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:vu hltb:subClassOf hltb:other .
 
-countries:vanuatu a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:wf hltb:subClassOf hltb:other .
 
-countries:venezuela a hltb:Country ;
-    hltb:subClassOf "na"^^xsd:string .
+hltb:ws hltb:subClassOf hltb:other .
 
-countries:wallis-and-futuna a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:ye hltb:subClassOf hltb:other .
 
-countries:western-sahara a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:yt hltb:subClassOf hltb:other .
 
-countries:yemen a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:za hltb:subClassOf hltb:other .
 
-countries:zambia a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:zm hltb:subClassOf hltb:other .
 
-countries:zimbabwe a hltb:Country ;
-    hltb:subClassOf "other"^^xsd:string .
+hltb:zw hltb:subClassOf hltb:other .
 
-countries:åland-islands a hltb:Country ;
-    hltb:subClassOf "eu"^^xsd:string .
+hltb:na hltb:subClassOf hltb:other .
 
