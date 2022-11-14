@@ -16,7 +16,7 @@ hltb:am hltb:subClassOf hltb:other .
 
 hltb:ao hltb:subClassOf hltb:other .
 
-hltb:aq hltb:subClassOf hltb:other .
+hltb:aq hltb:subClassOf hltb: .
 
 hltb:ar hltb:subClassOf hltb:other .
 
@@ -58,6 +58,8 @@ hltb:bn hltb:subClassOf hltb:other .
 
 hltb:bo hltb:subClassOf hltb:other .
 
+hltb:bq hltb:subClassOf hltb:na .
+
 hltb:br hltb:subClassOf hltb:other .
 
 hltb:bs hltb:subClassOf hltb:na .
@@ -73,6 +75,10 @@ hltb:by hltb:subClassOf hltb:eu .
 hltb:bz hltb:subClassOf hltb:na .
 
 hltb:ca hltb:subClassOf hltb:na .
+
+hltb:cc hltb:subClassOf hltb:other .
+
+hltb:cd hltb:subClassOf hltb:other .
 
 hltb:cf hltb:subClassOf hltb:other .
 
@@ -96,9 +102,15 @@ hltb:cr hltb:subClassOf hltb:na .
 
 hltb:cu hltb:subClassOf hltb:na .
 
+hltb:cv hltb:subClassOf hltb:other .
+
+hltb:cw hltb:subClassOf hltb:na .
+
 hltb:cx hltb:subClassOf hltb:other .
 
 hltb:cy hltb:subClassOf hltb:other .
+
+hltb:cz hltb:subClassOf hltb:eu .
 
 hltb:de hltb:subClassOf hltb:eu .
 
@@ -130,11 +142,17 @@ hltb:fi hltb:subClassOf hltb:eu .
 
 hltb:fj hltb:subClassOf hltb:other .
 
+hltb:fk hltb:subClassOf hltb:other .
+
+hltb:fm hltb:subClassOf hltb:other .
+
 hltb:fo hltb:subClassOf hltb:eu .
 
 hltb:fr hltb:subClassOf hltb:eu .
 
 hltb:ga hltb:subClassOf hltb:other .
+
+hltb:gb hltb:subClassOf hltb:eu .
 
 hltb:gd hltb:subClassOf hltb:na .
 
@@ -208,7 +226,7 @@ hltb:jm hltb:subClassOf hltb:na .
 
 hltb:jo hltb:subClassOf hltb:other .
 
-hltb:jp hltb:subClassOf hltb:ja .
+hltb:jp hltb:subClassOf hltb:other .
 
 hltb:ke hltb:subClassOf hltb:other .
 
@@ -222,11 +240,17 @@ hltb:km hltb:subClassOf hltb:other .
 
 hltb:kn hltb:subClassOf hltb:na .
 
+hltb:kp hltb:subClassOf hltb:other .
+
+hltb:kr hltb:subClassOf hltb:other .
+
 hltb:kw hltb:subClassOf hltb:other .
 
 hltb:ky hltb:subClassOf hltb:na .
 
 hltb:kz hltb:subClassOf hltb:other .
+
+hltb:la hltb:subClassOf hltb:other .
 
 hltb:lb hltb:subClassOf hltb:other .
 
@@ -246,9 +270,13 @@ hltb:lu hltb:subClassOf hltb:eu .
 
 hltb:lv hltb:subClassOf hltb:eu .
 
+hltb:ly hltb:subClassOf hltb:other .
+
 hltb:ma hltb:subClassOf hltb:other .
 
 hltb:mc hltb:subClassOf hltb:eu .
+
+hltb:md hltb:subClassOf hltb:eu .
 
 hltb:me hltb:subClassOf hltb:eu .
 
@@ -257,6 +285,8 @@ hltb:mf hltb:subClassOf hltb:na .
 hltb:mg hltb:subClassOf hltb:other .
 
 hltb:mh hltb:subClassOf hltb:other .
+
+hltb:mk hltb:subClassOf hltb:eu .
 
 hltb:ml hltb:subClassOf hltb:other .
 
@@ -332,6 +362,8 @@ hltb:pn hltb:subClassOf hltb:other .
 
 hltb:pr hltb:subClassOf hltb:na .
 
+hltb:ps hltb:subClassOf hltb:other .
+
 hltb:pt hltb:subClassOf hltb:eu .
 
 hltb:pw hltb:subClassOf hltb:other .
@@ -340,9 +372,13 @@ hltb:py hltb:subClassOf hltb:other .
 
 hltb:qa hltb:subClassOf hltb:other .
 
+hltb:re hltb:subClassOf hltb:other .
+
 hltb:ro hltb:subClassOf hltb:eu .
 
 hltb:rs hltb:subClassOf hltb:eu .
+
+hltb:ru hltb:subClassOf hltb:eu .
 
 hltb:rw hltb:subClassOf hltb:other .
 
@@ -357,6 +393,8 @@ hltb:sd hltb:subClassOf hltb:other .
 hltb:se hltb:subClassOf hltb:eu .
 
 hltb:sg hltb:subClassOf hltb:other .
+
+hltb:sh hltb:subClassOf hltb:other .
 
 hltb:si hltb:subClassOf hltb:eu .
 
@@ -374,11 +412,19 @@ hltb:so hltb:subClassOf hltb:other .
 
 hltb:sr hltb:subClassOf hltb:other .
 
+hltb:ss hltb:subClassOf hltb:other .
+
 hltb:st hltb:subClassOf hltb:other .
 
 hltb:sv hltb:subClassOf hltb:na .
 
+hltb:sx hltb:subClassOf hltb:na .
+
 hltb:sy hltb:subClassOf hltb:other .
+
+hltb:sz hltb:subClassOf hltb:other .
+
+hltb:tc hltb:subClassOf hltb:na .
 
 hltb:td hltb:subClassOf hltb:other .
 
@@ -408,19 +454,31 @@ hltb:tv hltb:subClassOf hltb:other .
 
 hltb:tw hltb:subClassOf hltb:other .
 
+hltb:tz hltb:subClassOf hltb:other .
+
 hltb:ua hltb:subClassOf hltb:eu .
 
 hltb:ug hltb:subClassOf hltb:other .
 
 hltb:um hltb:subClassOf hltb:other .
 
+hltb:us hltb:subClassOf hltb:na .
+
 hltb:uy hltb:subClassOf hltb:other .
 
 hltb:uz hltb:subClassOf hltb:other .
 
+hltb:va hltb:subClassOf hltb:eu .
+
 hltb:vc hltb:subClassOf hltb:na .
 
 hltb:ve hltb:subClassOf hltb:na .
+
+hltb:vg hltb:subClassOf hltb:na .
+
+hltb:vi hltb:subClassOf hltb:na .
+
+hltb:vn hltb:subClassOf hltb:other .
 
 hltb:vu hltb:subClassOf hltb:other .
 

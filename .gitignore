@@ -1,4 +1,4 @@
 .idea
 .git
-.xml
+*.xml
 catalog-v001.xml
