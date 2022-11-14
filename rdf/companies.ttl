@@ -1,3 +1,4 @@
+@prefix countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#> .
 @prefix hltb: <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
@@ -74,6 +75,14 @@ hltb:arrowhead-game-studios a hltb:Company ;
 hltb:artix-entertainment a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Artix Entertainment"^^xsd:string .
+
+hltb:atari-corporation a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:officialName "Atari Corporation"^^xsd:string .
+
+hltb:atari-inc a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:officialName "Atari Inc"^^xsd:string .
 
 hltb:atomic-planet-entertainment a hltb:Company ;
     hltb:officialName "Atomic Planet Entertainment"^^xsd:string .
@@ -197,9 +206,17 @@ hltb:coffee-stain-studios a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Coffee Stain Studios"^^xsd:string .
 
+hltb:coleco a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:officialName "Coleco"^^xsd:string .
+
 hltb:colossal-order a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Colossal Order"^^xsd:string .
+
+hltb:commodore a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:officialName "Commodore"^^xsd:string .
 
 hltb:compulsion-games a hltb:Company ;
     hltb:indieDeveloper true ;
@@ -343,6 +360,10 @@ hltb:frontier-developments a hltb:Company ;
 hltb:ftl-games a hltb:Company ;
     hltb:officialName "FTL Games"^^xsd:string .
 
+hltb:fujitsu a hltb:Company ;
+    hltb:basedIn countries:jp ;
+    hltb:officialName "Fujitsu"^^xsd:string .
+
 hltb:gamehouse a hltb:Company ;
     hltb:officialName "GameHouse"^^xsd:string .
 
@@ -356,6 +377,10 @@ hltb:garagegames a hltb:Company ;
 
 hltb:glu-mobile a hltb:Company ;
     hltb:officialName "Glu Mobile"^^xsd:string .
+
+hltb:goldstar a hltb:Company ;
+    hltb:basedIn countries:kr ;
+    hltb:officialName "GoldStar"^^xsd:string .
 
 hltb:gray-matter-interactive a hltb:Company ;
     hltb:officialName "Gray Matter Interactive"^^xsd:string .
@@ -562,6 +587,18 @@ hltb:madfinger-games a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Madfinger Games"^^xsd:string .
 
+hltb:magnavox a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:officialName "Magnavox"^^xsd:string .
+
+hltb:majesco-entertainment a hltb:Company ;
+    hltb:basedIn countries:jp ;
+    hltb:officialName "Majesco Entertainment"^^xsd:string .
+
+hltb:mattel-electronics a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:officialName "Mattel Electronics"^^xsd:string .
+
 hltb:maxis a hltb:Company ;
     hltb:officialName "Maxis"^^xsd:string .
 
@@ -577,6 +614,7 @@ hltb:messhof a hltb:Company ;
     hltb:officialName "Messhof"^^xsd:string .
 
 hltb:microsoft a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Microsoft"^^xsd:string .
 
 hltb:midboss a hltb:Company ;
@@ -642,6 +680,10 @@ hltb:nicalis a hltb:Company ;
 hltb:ninja-theory a hltb:Company ;
     hltb:officialName "Ninja Theory"^^xsd:string .
 
+hltb:nintendo a hltb:Company ;
+    hltb:basedIn countries:jp ;
+    hltb:officialName "Nintendo"^^xsd:string .
+
 hltb:nival-interactive a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Nival Interactive"^^xsd:string .
@@ -668,11 +710,19 @@ hltb:owlchemy-labs a hltb:Company ;
 hltb:page-44-studios a hltb:Company ;
     hltb:officialName "Page 44 Studios"^^xsd:string .
 
+hltb:panasonic a hltb:Company ;
+    hltb:basedIn countries:jp ;
+    hltb:officialName "Panasonic"^^xsd:string .
+
 hltb:pandemic-studios a hltb:Company ;
     hltb:officialName "Pandemic Studios"^^xsd:string .
 
 hltb:parallax-software a hltb:Company ;
     hltb:officialName "Parallax Software"^^xsd:string .
+
+hltb:philips a hltb:Company ;
+    hltb:basedIn countries:nl ;
+    hltb:officialName "Philips"^^xsd:string .
 
 hltb:piranha-games a hltb:Company ;
     hltb:officialName "Piranha Games"^^xsd:string .
@@ -788,6 +838,10 @@ hltb:sandlot-games a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Sandlot Games"^^xsd:string .
 
+hltb:sanyo a hltb:Company ;
+    hltb:basedIn countries:jp ;
+    hltb:officialName "Sanyo"^^xsd:string .
+
 hltb:sanzaru-games a hltb:Company ;
     hltb:officialName "Sanzaru Games"^^xsd:string .
 
@@ -803,6 +857,7 @@ hltb:scott-cawthon a hltb:Company ;
     hltb:officialName "Scott Cawthon"^^xsd:string .
 
 hltb:sega a hltb:Company ;
+    hltb:basedIn countries:jp ;
     hltb:officialName "Sega"^^xsd:string .
 
 hltb:sensible-software a hltb:Company ;
@@ -864,6 +919,10 @@ hltb:snowblind-studios a hltb:Company ;
 hltb:soldak-entertainment a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Soldak Entertainment"^^xsd:string .
+
+hltb:sony a hltb:Company ;
+    hltb:basedIn countries:jp ;
+    hltb:officialName "Sony"^^xsd:string .
 
 hltb:sony-computer-entertainment a hltb:Company ;
     hltb:officialName "Sony Computer Entertainment"^^xsd:string .
@@ -930,6 +989,10 @@ hltb:team-bondi a hltb:Company ;
 hltb:team-shanghai-alice a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Team Shanghai Alice"^^xsd:string .
+
+hltb:tec-toy a hltb:Company ;
+    hltb:basedIn countries:br ;
+    hltb:officialName "Tec Toy"^^xsd:string .
 
 hltb:telltale-games a hltb:Company ;
     hltb:indieDeveloper true ;
@@ -1073,6 +1136,10 @@ hltb:yacht-club-games a hltb:Company ;
 hltb:young-horses a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Young Horses"^^xsd:string .
+
+hltb:zeebo-inc a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:officialName "Zeebo Inc"^^xsd:string .
 
 hltb:zenimax-online-studios a hltb:Company ;
     hltb:officialName "ZeniMax Online Studios"^^xsd:string .

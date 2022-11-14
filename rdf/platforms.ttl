@@ -441,7 +441,8 @@ hltb:sega-mega-drive-genesis a hltb:Platform ;
 hltb:sega-pico a hltb:Platform ;
     hltb:bits "16"^^xsd:int ;
     hltb:cpu "Motorola 68000 @ 7.6 MHz, Zilog Z80 @ 3.58 MHz"^^xsd:string ;
-    hltb:createdBy hltb:majesco-entertainment ;
+    hltb:createdBy hltb:majesco-entertainment,
+        hltb:sega ;
     hltb:name "Sega Pico"^^xsd:string ;
     hltb:popular true ;
     hltb:releaseDate "1993-01-26T00:00:00"^^xsd:dateTime .
