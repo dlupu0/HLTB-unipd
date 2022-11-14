@@ -1,16 +1,10 @@
 @prefix hltb: <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#-adventure-puzzle> a hltb:Genre ;
-    hltb:name " adventure-puzzle"^^xsd:string .
-
-<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#-fantasy> a hltb:Genre ;
-    hltb:name " Fantasy"^^xsd:string .
-
-hltb:2.5d-platform-game a hltb:Genre ;
+hltb:2-5d-platform-game a hltb:Genre ;
     hltb:name "2.5D Platform game"^^xsd:string .
 
-hltb:2.5d-platformer a hltb:Genre ;
+hltb:2-5d-platformer a hltb:Genre ;
     hltb:name "2.5D Platformer"^^xsd:string .
 
 hltb:2d-action-platformer a hltb:Genre ;
@@ -46,10 +40,10 @@ hltb:action a hltb:Genre ;
     hltb:name "Action"^^xsd:string,
         "action"^^xsd:string .
 
-hltb:action-\(interactive-movie\) a hltb:Genre ;
+hltb:action--interactive-movie a hltb:Genre ;
     hltb:name "Action (Interactive movie)"^^xsd:string .
 
-hltb:action-\(rail-shooter\) a hltb:Genre ;
+hltb:action--rail-shooter a hltb:Genre ;
     hltb:name "Action (Rail shooter)"^^xsd:string .
 
 hltb:action-adventure a hltb:Genre ;
@@ -72,7 +66,7 @@ hltb:action-game a hltb:Genre ;
 hltb:action-role-playing a hltb:Genre ;
     hltb:name "Action role-playing"^^xsd:string .
 
-hltb:action-role-playing-\(hack-and-slash\) a hltb:Genre ;
+hltb:action-role-playing--hack-and-slash a hltb:Genre ;
     hltb:name "Action role-playing (hack and slash)"^^xsd:string .
 
 hltb:action-role-playing-game a hltb:Genre ;
@@ -89,13 +83,14 @@ hltb:ad a hltb:Genre ;
 
 hltb:adventure a hltb:Genre ;
     hltb:name "Adventure"^^xsd:string,
+        "Adventure."^^xsd:string,
         "adventure"^^xsd:string .
 
 hltb:adventure-game a hltb:Genre ;
     hltb:name "Adventure game"^^xsd:string .
 
-<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#adventure.> a hltb:Genre ;
-    hltb:name "Adventure."^^xsd:string .
+hltb:adventure-puzzle a hltb:Genre ;
+    hltb:name " adventure-puzzle"^^xsd:string .
 
 hltb:aerial-combat a hltb:Genre ;
     hltb:name "Aerial combat"^^xsd:string .
@@ -149,18 +144,18 @@ hltb:battle-arena a hltb:Genre ;
 hltb:beat a hltb:Genre ;
     hltb:name "Beat"^^xsd:string .
 
-hltb:beat-em-up a hltb:Genre ;
+hltb:beat--em-up a hltb:Genre ;
     hltb:name "Beat 'em Up"^^xsd:string,
         "Beat 'em up"^^xsd:string,
-        "Beat-em-up"^^xsd:string,
-        "beat 'em up"^^xsd:string,
-        "beat-em-up"^^xsd:string .
+        "beat 'em up"^^xsd:string .
 
-hltb:beat-em-up-action a hltb:Genre ;
+hltb:beat--em-up-action a hltb:Genre ;
     hltb:name "Beat 'em up action"^^xsd:string .
 
-hltb:beatem-up a hltb:Genre ;
-    hltb:name "Beat'em up"^^xsd:string .
+hltb:beat-em-up a hltb:Genre ;
+    hltb:name "Beat'em up"^^xsd:string,
+        "Beat-em-up"^^xsd:string,
+        "beat-em-up"^^xsd:string .
 
 hltb:block-breaker a hltb:Genre ;
     hltb:name "Block-breaker"^^xsd:string .
@@ -330,6 +325,9 @@ hltb:family a hltb:Genre ;
 hltb:family-games a hltb:Genre ;
     hltb:name "Family Games"^^xsd:string .
 
+hltb:fantasy a hltb:Genre ;
+    hltb:name " Fantasy"^^xsd:string .
+
 hltb:fantasy-action-adventure a hltb:Genre ;
     hltb:name "Fantasy action-adventure"^^xsd:string .
 
@@ -437,14 +435,14 @@ hltb:graphic-adventure a hltb:Genre ;
         "Graphic adventure"^^xsd:string,
         "graphic adventure"^^xsd:string .
 
+hltb:hack--n--slash a hltb:Genre ;
+    hltb:name "Hack 'n' Slash"^^xsd:string .
+
 hltb:hack-and-slash a hltb:Genre ;
     hltb:name "Hack and Slash"^^xsd:string,
         "Hack and slash"^^xsd:string,
         "Hack-and-slash"^^xsd:string,
         "hack and slash"^^xsd:string .
-
-hltb:hack-n-slash a hltb:Genre ;
-    hltb:name "Hack 'n' Slash"^^xsd:string .
 
 hltb:hacking-simulation a hltb:Genre ;
     hltb:name "Hacking simulation"^^xsd:string .
@@ -464,7 +462,7 @@ hltb:history a hltb:Genre ;
 hltb:horror a hltb:Genre ;
     hltb:name "Horror"^^xsd:string .
 
-<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#http:> a hltb:Genre ;
+hltb:http a hltb:Genre ;
     hltb:name "http:"^^xsd:string .
 
 hltb:indie a hltb:Genre ;
@@ -541,7 +539,7 @@ hltb:mecha-simulation-game a hltb:Genre ;
 hltb:medical-simulation a hltb:Genre ;
     hltb:name "Medical simulation"^^xsd:string .
 
-hltb:medieval- a hltb:Genre ;
+hltb:medieval a hltb:Genre ;
     hltb:name "Medieval "^^xsd:string .
 
 hltb:medieval-fantasy-action a hltb:Genre ;
@@ -624,7 +622,7 @@ hltb:platform a hltb:Genre ;
 hltb:platform-game a hltb:Genre ;
     hltb:name "Platform game"^^xsd:string .
 
-hltb:platform-shoot-em-up a hltb:Genre ;
+hltb:platform-shoot--em-up a hltb:Genre ;
     hltb:name "Platform shoot 'em up"^^xsd:string .
 
 hltb:platformer a hltb:Genre ;
@@ -648,7 +646,7 @@ hltb:point-and-click-adventure a hltb:Genre ;
 hltb:post-retro a hltb:Genre ;
     hltb:name "post-retro"^^xsd:string .
 
-hltb:prinnies.com a hltb:Genre ;
+hltb:prinnies-com a hltb:Genre ;
     hltb:name "prinnies.com"^^xsd:string .
 
 hltb:professional-wrestling a hltb:Genre ;
@@ -670,7 +668,7 @@ hltb:puzzle a hltb:Genre ;
     hltb:name "Puzzle"^^xsd:string,
         "puzzle"^^xsd:string .
 
-<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#puzzle-&-cards> a hltb:Genre ;
+hltb:puzzle---cards a hltb:Genre ;
     hltb:name "Puzzle & Cards"^^xsd:string .
 
 hltb:puzzle-game a hltb:Genre ;
@@ -783,14 +781,18 @@ hltb:scrolling-shooter a hltb:Genre ;
 hltb:shoot a hltb:Genre ;
     hltb:name "Shoot"^^xsd:string .
 
-hltb:shoot-em-up a hltb:Genre ;
+hltb:shoot--em-up a hltb:Genre ;
     hltb:name "Shoot 'Em Up"^^xsd:string,
         "Shoot 'em Up"^^xsd:string,
         "Shoot 'em up"^^xsd:string,
-        "Shoot em' Up"^^xsd:string,
-        "Shoot em' up"^^xsd:string,
-        "Shoot-em-up"^^xsd:string,
         "shoot 'em up"^^xsd:string .
+
+hltb:shoot-em--up a hltb:Genre ;
+    hltb:name "Shoot em' Up"^^xsd:string,
+        "Shoot em' up"^^xsd:string .
+
+hltb:shoot-em-up a hltb:Genre ;
+    hltb:name "Shoot-em-up"^^xsd:string .
 
 hltb:shoote a hltb:Genre ;
     hltb:name "Shoote"^^xsd:string .
@@ -822,7 +824,7 @@ hltb:side-scrolling a hltb:Genre ;
         "Side-scrolling"^^xsd:string,
         "side-scrolling"^^xsd:string .
 
-hltb:side-scrolling-beat-em-up a hltb:Genre ;
+hltb:side-scrolling-beat--em-up a hltb:Genre ;
     hltb:name "Side-scrolling beat 'em up"^^xsd:string .
 
 hltb:side-scrolling-platform a hltb:Genre ;
@@ -1108,6 +1110,6 @@ hltb:world-war-i a hltb:Genre ;
 hltb:wrestling a hltb:Genre ;
     hltb:name "Wrestling"^^xsd:string .
 
-hltb:www.cobramobile.com a hltb:Genre ;
+hltb:www-cobramobile-com a hltb:Genre ;
     hltb:name "www.cobramobile.com"^^xsd:string .
 
