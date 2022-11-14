@@ -46,11 +46,6 @@ hltb:sales-atari-7800___global hltb:Type hltb:Sale ;
     hltb:onPlatform hltb:atari-7800 ;
     hltb:unitsSold "3.77"^^xsd:float .
 
-hltb:sales-atari-7800___na hltb:Type hltb:Sale ;
-    hltb:locatedIn hltb:na ;
-    hltb:onPlatform hltb:atari-7800 ;
-    hltb:unitsSold "3.77"^^xsd:float .
-
 hltb:sales-atari-jaguar___global hltb:Type hltb:Sale ;
     hltb:locatedIn hltb:global ;
     hltb:onPlatform hltb:atari-jaguar ;

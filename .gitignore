@@ -2,3 +2,5 @@
 .git
 *.xml
 catalog-v001.xml
+.ipynb_checkpoints
+.DS_Store

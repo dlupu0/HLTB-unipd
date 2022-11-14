@@ -338,16 +338,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#totalShipped -->
-
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#totalShipped">
-        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#Sale"/>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
-    </owl:DatatypeProperty>
-    
-
-
     <!-- http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#unitsSold -->
 
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#unitsSold">

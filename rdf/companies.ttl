@@ -467,7 +467,7 @@ hltb:ice-pick-lodge a hltb:Company ;
 hltb:id-software a hltb:Company ;
     hltb:officialName "id Software"^^xsd:string .
 
-<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#image-&-form> a hltb:Company ;
+hltb:image---form a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Image & Form"^^xsd:string .
 
@@ -531,7 +531,7 @@ hltb:keen-software-house a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Keen Software House"^^xsd:string .
 
-<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#kiro'o-games> a hltb:Company ;
+hltb:kiro-o-games a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Kiro'o Games"^^xsd:string .
 
@@ -994,6 +994,10 @@ hltb:tec-toy a hltb:Company ;
     hltb:basedIn countries:br ;
     hltb:officialName "Tec Toy"^^xsd:string .
 
+hltb:tectoy a hltb:Company ;
+    hltb:basedIn countries:br ;
+    hltb:officialName "TecToy"^^xsd:string .
+
 hltb:telltale-games a hltb:Company ;
     hltb:indieDeveloper true ;
     hltb:officialName "Telltale Games"^^xsd:string .
@@ -1043,7 +1047,7 @@ hltb:toys-for-bob a hltb:Company ;
 hltb:transmission-games a hltb:Company ;
     hltb:officialName "Transmission Games"^^xsd:string .
 
-<http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#traveller's-tales> a hltb:Company ;
+hltb:traveller-s-tales a hltb:Company ;
     hltb:officialName "Traveller's Tales"^^xsd:string .
 
 hltb:trendy-entertainment a hltb:Company ;
