@@ -1,0 +1,501 @@
+@prefix countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#> .
+@prefix hltb: <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#> .
+
+countries:ad hltb:subClassOf hltb:eu .
+
+countries:ae hltb:subClassOf hltb:other .
+
+countries:af hltb:subClassOf hltb:other .
+
+countries:ag hltb:subClassOf hltb:na .
+
+countries:ai hltb:subClassOf hltb:na .
+
+countries:al hltb:subClassOf hltb:eu .
+
+countries:am hltb:subClassOf hltb:other .
+
+countries:ao hltb:subClassOf hltb:other .
+
+countries:aq hltb:subClassOf hltb: .
+
+countries:ar hltb:subClassOf hltb:other .
+
+countries:as hltb:subClassOf hltb:other .
+
+countries:at hltb:subClassOf hltb:eu .
+
+countries:au hltb:subClassOf hltb:other .
+
+countries:aw hltb:subClassOf hltb:na .
+
+countries:ax hltb:subClassOf hltb:eu .
+
+countries:az hltb:subClassOf hltb:other .
+
+countries:ba hltb:subClassOf hltb:eu .
+
+countries:bb hltb:subClassOf hltb:na .
+
+countries:bd hltb:subClassOf hltb:other .
+
+countries:be hltb:subClassOf hltb:eu .
+
+countries:bf hltb:subClassOf hltb:other .
+
+countries:bg hltb:subClassOf hltb:eu .
+
+countries:bh hltb:subClassOf hltb:other .
+
+countries:bi hltb:subClassOf hltb:other .
+
+countries:bj hltb:subClassOf hltb:other .
+
+countries:bl hltb:subClassOf hltb:na .
+
+countries:bm hltb:subClassOf hltb:na .
+
+countries:bn hltb:subClassOf hltb:other .
+
+countries:bo hltb:subClassOf hltb:other .
+
+countries:bq hltb:subClassOf hltb:na .
+
+countries:br hltb:subClassOf hltb:other .
+
+countries:bs hltb:subClassOf hltb:na .
+
+countries:bt hltb:subClassOf hltb:other .
+
+countries:bv hltb:subClassOf hltb:other .
+
+countries:bw hltb:subClassOf hltb:other .
+
+countries:by hltb:subClassOf hltb:eu .
+
+countries:bz hltb:subClassOf hltb:na .
+
+countries:ca hltb:subClassOf hltb:na .
+
+countries:cc hltb:subClassOf hltb:other .
+
+countries:cd hltb:subClassOf hltb:other .
+
+countries:cf hltb:subClassOf hltb:other .
+
+countries:cg hltb:subClassOf hltb:other .
+
+countries:ch hltb:subClassOf hltb:eu .
+
+countries:ci hltb:subClassOf hltb:other .
+
+countries:ck hltb:subClassOf hltb:other .
+
+countries:cl hltb:subClassOf hltb:other .
+
+countries:cm hltb:subClassOf hltb:other .
+
+countries:cn hltb:subClassOf hltb:other .
+
+countries:co hltb:subClassOf hltb:other .
+
+countries:cr hltb:subClassOf hltb:na .
+
+countries:cu hltb:subClassOf hltb:na .
+
+countries:cv hltb:subClassOf hltb:other .
+
+countries:cw hltb:subClassOf hltb:na .
+
+countries:cx hltb:subClassOf hltb:other .
+
+countries:cy hltb:subClassOf hltb:other .
+
+countries:cz hltb:subClassOf hltb:eu .
+
+countries:de hltb:subClassOf hltb:eu .
+
+countries:dj hltb:subClassOf hltb:other .
+
+countries:dk hltb:subClassOf hltb:eu .
+
+countries:dm hltb:subClassOf hltb:na .
+
+countries:do hltb:subClassOf hltb:na .
+
+countries:dz hltb:subClassOf hltb:other .
+
+countries:ec hltb:subClassOf hltb:other .
+
+countries:ee hltb:subClassOf hltb:eu .
+
+countries:eg hltb:subClassOf hltb:other .
+
+countries:eh hltb:subClassOf hltb:other .
+
+countries:er hltb:subClassOf hltb:other .
+
+countries:es hltb:subClassOf hltb:eu .
+
+countries:et hltb:subClassOf hltb:other .
+
+countries:fi hltb:subClassOf hltb:eu .
+
+countries:fj hltb:subClassOf hltb:other .
+
+countries:fk hltb:subClassOf hltb:other .
+
+countries:fm hltb:subClassOf hltb:other .
+
+countries:fo hltb:subClassOf hltb:eu .
+
+countries:fr hltb:subClassOf hltb:eu .
+
+countries:ga hltb:subClassOf hltb:other .
+
+countries:gb hltb:subClassOf hltb:eu .
+
+countries:gd hltb:subClassOf hltb:na .
+
+countries:ge hltb:subClassOf hltb:other .
+
+countries:gf hltb:subClassOf hltb:other .
+
+countries:gg hltb:subClassOf hltb:eu .
+
+countries:gh hltb:subClassOf hltb:other .
+
+countries:gi hltb:subClassOf hltb:eu .
+
+countries:gl hltb:subClassOf hltb:na .
+
+countries:gm hltb:subClassOf hltb:other .
+
+countries:gn hltb:subClassOf hltb:other .
+
+countries:gp hltb:subClassOf hltb:na .
+
+countries:gq hltb:subClassOf hltb:other .
+
+countries:gr hltb:subClassOf hltb:eu .
+
+countries:gs hltb:subClassOf hltb:other .
+
+countries:gt hltb:subClassOf hltb:na .
+
+countries:gu hltb:subClassOf hltb:other .
+
+countries:gw hltb:subClassOf hltb:other .
+
+countries:gy hltb:subClassOf hltb:other .
+
+countries:hk hltb:subClassOf hltb:other .
+
+countries:hm hltb:subClassOf hltb:other .
+
+countries:hn hltb:subClassOf hltb:na .
+
+countries:hr hltb:subClassOf hltb:eu .
+
+countries:ht hltb:subClassOf hltb:na .
+
+countries:hu hltb:subClassOf hltb:eu .
+
+countries:id hltb:subClassOf hltb:other .
+
+countries:ie hltb:subClassOf hltb:eu .
+
+countries:il hltb:subClassOf hltb:other .
+
+countries:im hltb:subClassOf hltb:eu .
+
+countries:in hltb:subClassOf hltb:other .
+
+countries:io hltb:subClassOf hltb:other .
+
+countries:iq hltb:subClassOf hltb:other .
+
+countries:ir hltb:subClassOf hltb:other .
+
+countries:is hltb:subClassOf hltb:eu .
+
+countries:it hltb:subClassOf hltb:eu .
+
+countries:je hltb:subClassOf hltb:eu .
+
+countries:jm hltb:subClassOf hltb:na .
+
+countries:jo hltb:subClassOf hltb:other .
+
+countries:jp hltb:subClassOf hltb:jp .
+
+countries:ke hltb:subClassOf hltb:other .
+
+countries:kg hltb:subClassOf hltb:other .
+
+countries:kh hltb:subClassOf hltb:other .
+
+countries:ki hltb:subClassOf hltb:other .
+
+countries:km hltb:subClassOf hltb:other .
+
+countries:kn hltb:subClassOf hltb:na .
+
+countries:kp hltb:subClassOf hltb:other .
+
+countries:kr hltb:subClassOf hltb:other .
+
+countries:kw hltb:subClassOf hltb:other .
+
+countries:ky hltb:subClassOf hltb:na .
+
+countries:kz hltb:subClassOf hltb:other .
+
+countries:la hltb:subClassOf hltb:other .
+
+countries:lb hltb:subClassOf hltb:other .
+
+countries:lc hltb:subClassOf hltb:na .
+
+countries:li hltb:subClassOf hltb:eu .
+
+countries:lk hltb:subClassOf hltb:other .
+
+countries:lr hltb:subClassOf hltb:other .
+
+countries:ls hltb:subClassOf hltb:other .
+
+countries:lt hltb:subClassOf hltb:eu .
+
+countries:lu hltb:subClassOf hltb:eu .
+
+countries:lv hltb:subClassOf hltb:eu .
+
+countries:ly hltb:subClassOf hltb:other .
+
+countries:ma hltb:subClassOf hltb:other .
+
+countries:mc hltb:subClassOf hltb:eu .
+
+countries:md hltb:subClassOf hltb:eu .
+
+countries:me hltb:subClassOf hltb:eu .
+
+countries:mf hltb:subClassOf hltb:na .
+
+countries:mg hltb:subClassOf hltb:other .
+
+countries:mh hltb:subClassOf hltb:other .
+
+countries:mk hltb:subClassOf hltb:eu .
+
+countries:ml hltb:subClassOf hltb:other .
+
+countries:mm hltb:subClassOf hltb:other .
+
+countries:mn hltb:subClassOf hltb:other .
+
+countries:mo hltb:subClassOf hltb:other .
+
+countries:mp hltb:subClassOf hltb:other .
+
+countries:mq hltb:subClassOf hltb:na .
+
+countries:mr hltb:subClassOf hltb:other .
+
+countries:ms hltb:subClassOf hltb:na .
+
+countries:mt hltb:subClassOf hltb:eu .
+
+countries:mu hltb:subClassOf hltb:other .
+
+countries:mv hltb:subClassOf hltb:other .
+
+countries:mw hltb:subClassOf hltb:other .
+
+countries:mx hltb:subClassOf hltb:na .
+
+countries:my hltb:subClassOf hltb:other .
+
+countries:mz hltb:subClassOf hltb:other .
+
+countries:na hltb:subClassOf hltb:other .
+
+countries:nc hltb:subClassOf hltb:other .
+
+countries:ne hltb:subClassOf hltb:other .
+
+countries:nf hltb:subClassOf hltb:other .
+
+countries:ng hltb:subClassOf hltb:other .
+
+countries:ni hltb:subClassOf hltb:na .
+
+countries:nl hltb:subClassOf hltb:eu .
+
+countries:no hltb:subClassOf hltb:eu .
+
+countries:np hltb:subClassOf hltb:other .
+
+countries:nr hltb:subClassOf hltb:other .
+
+countries:nu hltb:subClassOf hltb:other .
+
+countries:nz hltb:subClassOf hltb:other .
+
+countries:om hltb:subClassOf hltb:other .
+
+countries:pa hltb:subClassOf hltb:na .
+
+countries:pe hltb:subClassOf hltb:other .
+
+countries:pf hltb:subClassOf hltb:other .
+
+countries:pg hltb:subClassOf hltb:other .
+
+countries:ph hltb:subClassOf hltb:other .
+
+countries:pk hltb:subClassOf hltb:other .
+
+countries:pl hltb:subClassOf hltb:eu .
+
+countries:pm hltb:subClassOf hltb:na .
+
+countries:pn hltb:subClassOf hltb:other .
+
+countries:pr hltb:subClassOf hltb:na .
+
+countries:ps hltb:subClassOf hltb:other .
+
+countries:pt hltb:subClassOf hltb:eu .
+
+countries:pw hltb:subClassOf hltb:other .
+
+countries:py hltb:subClassOf hltb:other .
+
+countries:qa hltb:subClassOf hltb:other .
+
+countries:re hltb:subClassOf hltb:other .
+
+countries:ro hltb:subClassOf hltb:eu .
+
+countries:rs hltb:subClassOf hltb:eu .
+
+countries:ru hltb:subClassOf hltb:eu .
+
+countries:rw hltb:subClassOf hltb:other .
+
+countries:sa hltb:subClassOf hltb:other .
+
+countries:sb hltb:subClassOf hltb:other .
+
+countries:sc hltb:subClassOf hltb:other .
+
+countries:sd hltb:subClassOf hltb:other .
+
+countries:se hltb:subClassOf hltb:eu .
+
+countries:sg hltb:subClassOf hltb:other .
+
+countries:sh hltb:subClassOf hltb:other .
+
+countries:si hltb:subClassOf hltb:eu .
+
+countries:sj hltb:subClassOf hltb:eu .
+
+countries:sk hltb:subClassOf hltb:eu .
+
+countries:sl hltb:subClassOf hltb:other .
+
+countries:sm hltb:subClassOf hltb:eu .
+
+countries:sn hltb:subClassOf hltb:other .
+
+countries:so hltb:subClassOf hltb:other .
+
+countries:sr hltb:subClassOf hltb:other .
+
+countries:ss hltb:subClassOf hltb:other .
+
+countries:st hltb:subClassOf hltb:other .
+
+countries:sv hltb:subClassOf hltb:na .
+
+countries:sx hltb:subClassOf hltb:na .
+
+countries:sy hltb:subClassOf hltb:other .
+
+countries:sz hltb:subClassOf hltb:other .
+
+countries:tc hltb:subClassOf hltb:na .
+
+countries:td hltb:subClassOf hltb:other .
+
+countries:tf hltb:subClassOf hltb:other .
+
+countries:tg hltb:subClassOf hltb:other .
+
+countries:th hltb:subClassOf hltb:other .
+
+countries:tj hltb:subClassOf hltb:other .
+
+countries:tk hltb:subClassOf hltb:other .
+
+countries:tl hltb:subClassOf hltb:other .
+
+countries:tm hltb:subClassOf hltb:other .
+
+countries:tn hltb:subClassOf hltb:other .
+
+countries:to hltb:subClassOf hltb:other .
+
+countries:tr hltb:subClassOf hltb:other .
+
+countries:tt hltb:subClassOf hltb:na .
+
+countries:tv hltb:subClassOf hltb:other .
+
+countries:tw hltb:subClassOf hltb:other .
+
+countries:tz hltb:subClassOf hltb:other .
+
+countries:ua hltb:subClassOf hltb:eu .
+
+countries:ug hltb:subClassOf hltb:other .
+
+countries:um hltb:subClassOf hltb:other .
+
+countries:us hltb:subClassOf hltb:na .
+
+countries:uy hltb:subClassOf hltb:other .
+
+countries:uz hltb:subClassOf hltb:other .
+
+countries:va hltb:subClassOf hltb:eu .
+
+countries:vc hltb:subClassOf hltb:na .
+
+countries:ve hltb:subClassOf hltb:na .
+
+countries:vg hltb:subClassOf hltb:na .
+
+countries:vi hltb:subClassOf hltb:na .
+
+countries:vn hltb:subClassOf hltb:other .
+
+countries:vu hltb:subClassOf hltb:other .
+
+countries:wf hltb:subClassOf hltb:other .
+
+countries:ws hltb:subClassOf hltb:other .
+
+countries:ye hltb:subClassOf hltb:other .
+
+countries:yt hltb:subClassOf hltb:other .
+
+countries:za hltb:subClassOf hltb:other .
+
+countries:zm hltb:subClassOf hltb:other .
+
+countries:zw hltb:subClassOf hltb:other .
+
