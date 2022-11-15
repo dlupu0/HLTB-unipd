@@ -3,76 +3,127 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 hltb:11-bit-studios a hltb:Company ;
+    hltb:basedIn countries:pl ;
+    hltb:hasNotableGame hltb:frostpunk,
+        hltb:this-war-of-mine ;
     hltb:indieDeveloper true ;
     hltb:officialName "11 bit studios"^^xsd:string .
 
 hltb:2k-sports a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "2K Sports"^^xsd:string .
 
 hltb:343-industries a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "343 Industries"^^xsd:string .
 
 hltb:989-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:twisted-metal-iii ;
     hltb:officialName "989 Studios"^^xsd:string .
 
 hltb:access-software a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:the-pandora-directive,
+        hltb:under-a-killing-moon ;
     hltb:officialName "Access Software"^^xsd:string .
 
 hltb:acclaim-studios-austin a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:all-star-baseball-2002 ;
     hltb:officialName "Acclaim Studios Austin"^^xsd:string .
 
 hltb:accolade a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:test-drive-iii-the-passion ;
     hltb:officialName "Accolade"^^xsd:string .
 
 hltb:ace-team a hltb:Company ;
+    hltb:basedIn countries:cl ;
+    hltb:hasNotableGame hltb:rock-of-ages,
+        hltb:zeno-clash ;
     hltb:indieDeveloper true ;
     hltb:officialName "ACE Team"^^xsd:string .
 
 hltb:activision a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Activision"^^xsd:string .
 
 hltb:adventure-soft a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:simon-the-sorcerer,
+        hltb:simon-the-sorcerer-ii-the-lion-the-wizard-and-the-wardrobe ;
     hltb:officialName "Adventure Soft"^^xsd:string .
 
 hltb:alientrap a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:apotheon ;
     hltb:indieDeveloper true ;
     hltb:officialName "Alientrap"^^xsd:string .
 
 hltb:amazon-game-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Amazon Game Studios"^^xsd:string .
 
 hltb:ambrosia-software a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:escape-velocity,
+        hltb:escape-velocity-override ;
     hltb:indieDeveloper true ;
     hltb:officialName "Ambrosia Software"^^xsd:string .
 
 hltb:amplitude-studios a hltb:Company ;
+    hltb:basedIn countries:fr ;
+    hltb:hasNotableGame hltb:dungeon-of-the-endless,
+        hltb:endless-legend,
+        hltb:endless-space ;
     hltb:indieDeveloper true ;
     hltb:officialName "Amplitude Studios"^^xsd:string .
 
 hltb:ankama-games a hltb:Company ;
+    hltb:basedIn countries:fr ;
+    hltb:hasNotableGame hltb:dofus ;
     hltb:indieDeveloper true ;
     hltb:officialName "Ankama Games"^^xsd:string .
 
 hltb:anna-anthropy a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:dys4ia,
+        hltb:mighty-jill-off ;
     hltb:indieDeveloper true ;
     hltb:officialName "Anna Anthropy"^^xsd:string .
 
 hltb:arcane-kids a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:indieDeveloper true ;
     hltb:officialName "Arcane Kids"^^xsd:string .
 
 hltb:arcen-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:a-valley-without-wind,
+        hltb:a-valley-without-wind-2,
+        hltb:ai-war-2,
+        hltb:the-last-federation ;
     hltb:indieDeveloper true ;
     hltb:officialName "Arcen Games"^^xsd:string .
 
 hltb:arenanet a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:guild-wars-2 ;
     hltb:officialName "ArenaNet"^^xsd:string .
 
 hltb:arrowhead-game-studios a hltb:Company ;
+    hltb:basedIn countries:se ;
+    hltb:hasNotableGame hltb:helldivers,
+        hltb:magicka ;
     hltb:indieDeveloper true ;
     hltb:officialName "Arrowhead Game Studios"^^xsd:string .
 
 hltb:artix-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:adventurequest-worlds,
+        hltb:dragonfable,
+        hltb:mechquest ;
     hltb:indieDeveloper true ;
     hltb:officialName "Artix Entertainment"^^xsd:string .
 
@@ -85,124 +136,249 @@ hltb:atari-inc a hltb:Company ;
     hltb:officialName "Atari Inc"^^xsd:string .
 
 hltb:atomic-planet-entertainment a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:officialName "Atomic Planet Entertainment"^^xsd:string .
 
 hltb:aventurine-sa a hltb:Company ;
+    hltb:basedIn countries:gr ;
+    hltb:hasNotableGame hltb:darkfall ;
     hltb:indieDeveloper true ;
     hltb:officialName "Aventurine SA"^^xsd:string .
 
 hltb:backflip-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Backflip Studios"^^xsd:string .
 
 hltb:basilisk-games a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:indieDeveloper true ;
     hltb:officialName "Basilisk Games"^^xsd:string .
 
 hltb:beenox a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:crash-team-racing-nitro-fueled ;
     hltb:officialName "Beenox"^^xsd:string .
 
 hltb:bethesda-game-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:the-elder-scrolls-iii-morrowind,
+        hltb:the-elder-scrolls-iii-morrowind-game-of-the-year-edition,
+        hltb:the-elder-scrolls-iv-oblivion-game-of-the-year-edition,
+        hltb:the-elder-scrolls-iv-orrery,
+        hltb:the-elder-scrolls-v-skyrim,
+        hltb:the-elder-scrolls-v-skyrim-dawnguard-dlc,
+        hltb:the-elder-scrolls-v-skyrim-dragonborn-dlc,
+        hltb:the-elder-scrolls-v-skyrim-hearthfire,
+        hltb:the-elder-scrolls-v-skyrim-special-edition,
+        hltb:the-elder-scrolls-v-skyrim-vr ;
     hltb:officialName "Bethesda Game Studios"^^xsd:string .
 
 hltb:bethesda-softworks a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:an-elder-scrolls-legend-battlespire,
+        hltb:the-elder-scrolls-adventures-redguard,
+        hltb:the-elder-scrolls-ii-daggerfall,
+        hltb:the-elder-scrolls-iii-bloodmoon,
+        hltb:the-elder-scrolls-iii-tribunal,
+        hltb:the-elder-scrolls-iv-knights-of-the-nine,
+        hltb:the-elder-scrolls-iv-shivering-isles,
+        hltb:the-elder-scrolls-travels-stormhold ;
     hltb:officialName "Bethesda Softworks"^^xsd:string .
 
 hltb:big-finish-games a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:indieDeveloper true ;
     hltb:officialName "Big Finish Games"^^xsd:string .
 
 hltb:big-huge-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:rise-of-nations ;
     hltb:officialName "Big Huge Games"^^xsd:string .
 
 hltb:bioware a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:anthem,
+        hltb:baldur-s-gate,
+        hltb:baldur-s-gate-ii-shadows-of-amn,
+        hltb:baldur-s-gate-ii-throne-of-bhaal,
+        hltb:dragon-age-ii,
+        hltb:dragon-age-ii-legacy-dlc,
+        hltb:dragon-age-ii-mark-of-the-assassin-dlc,
+        hltb:dragon-age-ii-the-exiled-prince-dlc,
+        hltb:heroes-of-dragon-age,
+        hltb:mass-effect-2,
+        hltb:mass-effect-2-arrival-dlc,
+        hltb:mass-effect-2-firewalker-pack-dlc,
+        hltb:mass-effect-2-kasumi-dlc,
+        hltb:mass-effect-2-lair-of-the-shadow-broker-dlc,
+        hltb:mass-effect-2-normandy-crash-site-dlc,
+        hltb:mass-effect-2-overlord-dlc,
+        hltb:mass-effect-2-zaeed-the-price-of-revenge-dlc,
+        hltb:mass-effect-3,
+        hltb:mass-effect-3-citadel-dlc,
+        hltb:mass-effect-3-extended-cut-dlc,
+        hltb:mass-effect-3-from-ashes-dlc,
+        hltb:mass-effect-3-leviathan-dlc,
+        hltb:mass-effect-3-omega-dlc,
+        hltb:mass-effect-galaxy,
+        hltb:mass-effect-trilogy,
+        hltb:neverwinter-nights,
+        hltb:star-wars-knights-of-the-old-republic,
+        hltb:star-wars-the-old-republic,
+        hltb:star-wars-the-old-republic-rise-of-the-hutt-cartel,
+        hltb:star-wars-the-old-republic-shadow-of-revan ;
     hltb:officialName "BioWare"^^xsd:string .
 
 hltb:bits-studios a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:spider-man-return-of-the-sinister-six ;
     hltb:officialName "Bits Studios"^^xsd:string .
 
 hltb:bizarre-creations a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:project-gotham-racing,
+        hltb:project-gotham-racing-2,
+        hltb:project-gotham-racing-3,
+        hltb:project-gotham-racing-4 ;
     hltb:officialName "Bizarre Creations"^^xsd:string .
 
 hltb:black-isle-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:fallout-2,
+        hltb:icewind-dale,
+        hltb:planescape-torment ;
     hltb:officialName "Black Isle Studios"^^xsd:string .
 
 hltb:black-rock-studio a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:officialName "Black Rock Studio"^^xsd:string .
 
 hltb:blitz-games-studios a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:indieDeveloper true ;
     hltb:officialName "Blitz Games Studios"^^xsd:string .
 
 hltb:blizzard-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:hearthstone-heroes-of-warcraft,
+        hltb:heroes-of-the-storm,
+        hltb:overwatch,
+        hltb:starcraft-ii-heart-of-the-swarm ;
     hltb:officialName "Blizzard Entertainment"^^xsd:string .
 
 hltb:blue-fang-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:zoo-tycoon,
+        hltb:zoo-tycoon-2-ds ;
     hltb:indieDeveloper true ;
     hltb:officialName "Blue Fang Games"^^xsd:string .
 
 hltb:blue-tongue-entertainment a hltb:Company ;
+    hltb:basedIn countries:au ;
+    hltb:hasNotableGame hltb:jurassic-park-operation-genesis ;
     hltb:officialName "Blue Tongue Entertainment"^^xsd:string .
 
 hltb:bohemia-interactive-studio a hltb:Company ;
+    hltb:hasNotableGame hltb:operation-flashpoint-cold-war-crisis ;
     hltb:indieDeveloper true ;
     hltb:officialName "Bohemia Interactive Studio"^^xsd:string .
 
 hltb:boss-key-productions a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:lawbreakers ;
     hltb:officialName "Boss Key Productions"^^xsd:string .
 
 hltb:bullfrog-productions a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:dungeon-keeper,
+        hltb:dungeon-keeper-2,
+        hltb:magic-carpet,
+        hltb:magic-carpet-2-the-netherworlds,
+        hltb:syndicate,
+        hltb:theme-park,
+        hltb:theme-park-world ;
     hltb:officialName "Bullfrog Productions"^^xsd:string .
 
 hltb:bungie a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:destiny ;
     hltb:officialName "Bungie"^^xsd:string .
 
 hltb:capcom-vancouver a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:dead-rising-3,
+        hltb:dead-rising-3-chaos-rising-dlc,
+        hltb:dead-rising-3-fallen-angel-dlc,
+        hltb:dead-rising-3-operation-broken-eagle,
+        hltb:dead-rising-3-the-last-agent-dlc ;
     hltb:officialName "Capcom Vancouver"^^xsd:string .
 
 hltb:carbine-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:wildstar ;
     hltb:officialName "Carbine Studios"^^xsd:string .
 
 hltb:cbe-software a hltb:Company ;
+    hltb:hasNotableGame hltb:j-u-l-i-a ;
     hltb:indieDeveloper true ;
     hltb:officialName "CBE Software"^^xsd:string .
 
 hltb:ccp-games a hltb:Company ;
+    hltb:basedIn countries:is ;
+    hltb:hasNotableGame hltb:eve-online ;
     hltb:indieDeveloper true ;
     hltb:officialName "CCP Games"^^xsd:string .
 
 hltb:cd-projekt-red a hltb:Company ;
+    hltb:basedIn countries:pl ;
+    hltb:hasNotableGame hltb:cyberpunk-2077 ;
     hltb:officialName "CD Projekt Red"^^xsd:string .
 
 hltb:certain-affinity a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Certain Affinity"^^xsd:string .
 
 hltb:chair-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:undertow ;
     hltb:officialName "Chair Entertainment"^^xsd:string .
 
 hltb:choice-provisions a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:indieDeveloper true ;
     hltb:officialName "Choice Provisions"^^xsd:string .
 
 hltb:christine-love a hltb:Company ;
+    hltb:basedIn countries:ca ;
     hltb:indieDeveloper true ;
     hltb:officialName "Christine Love"^^xsd:string .
 
 hltb:chronic-logic a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:indieDeveloper true ;
     hltb:officialName "Chronic Logic"^^xsd:string .
 
 hltb:cinemax a hltb:Company ;
+    hltb:hasNotableGame hltb:numen-contest-of-heroes ;
     hltb:indieDeveloper true ;
     hltb:officialName "Cinemax"^^xsd:string .
 
 hltb:clockstone a hltb:Company ;
+    hltb:basedIn countries:at ;
     hltb:indieDeveloper true ;
     hltb:officialName "ClockStone"^^xsd:string .
 
 hltb:codemasters a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:colin-mcrae-rally-04,
+        hltb:colin-mcrae-rally-3 ;
     hltb:officialName "Codemasters"^^xsd:string .
 
 hltb:coffee-stain-studios a hltb:Company ;
+    hltb:basedIn countries:se ;
+    hltb:hasNotableGame hltb:goat-simulator,
+        hltb:goat-simulator-goat-mmo-simulator,
+        hltb:sanctum ;
     hltb:indieDeveloper true ;
     hltb:officialName "Coffee Stain Studios"^^xsd:string .
 
@@ -211,6 +387,8 @@ hltb:coleco a hltb:Company ;
     hltb:officialName "Coleco"^^xsd:string .
 
 hltb:colossal-order a hltb:Company ;
+    hltb:basedIn countries:fi ;
+    hltb:hasNotableGame hltb:cities-skylines ;
     hltb:indieDeveloper true ;
     hltb:officialName "Colossal Order"^^xsd:string .
 
@@ -219,145 +397,278 @@ hltb:commodore a hltb:Company ;
     hltb:officialName "Commodore"^^xsd:string .
 
 hltb:compulsion-games a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:contrast,
+        hltb:we-happy-few ;
     hltb:indieDeveloper true ;
     hltb:officialName "Compulsion Games"^^xsd:string .
 
 hltb:core-design a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:tomb-raider-2000,
+        hltb:tomb-raider-chronicles,
+        hltb:tomb-raider-gold-the-shadow-of-the-cat,
+        hltb:tomb-raider-ii,
+        hltb:tomb-raider-ii-golden-mask,
+        hltb:tomb-raider-iii,
+        hltb:tomb-raider-starring-lara-croft ;
     hltb:officialName "Core Design"^^xsd:string .
 
 hltb:creative-assembly a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:medieval-total-war-gold-edition,
+        hltb:shogun-total-war-gold-edition,
+        hltb:total-war-battles-kingdom,
+        hltb:total-war-saga-thrones-of-britannia ;
     hltb:officialName "Creative Assembly"^^xsd:string .
 
 hltb:criterion-games a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:burnout ;
     hltb:officialName "Criterion Games"^^xsd:string .
 
 hltb:croteam a hltb:Company ;
+    hltb:basedIn countries:hr ;
+    hltb:hasNotableGame hltb:serious-sam-2002,
+        hltb:serious-sam-3-bfe,
+        hltb:serious-sam-3-jewel-of-the-nile,
+        hltb:serious-sam-fusion-2017,
+        hltb:serious-sam-hd-the-first-encounter,
+        hltb:serious-sam-hd-the-second-encounter,
+        hltb:serious-sam-hd-the-second-encounter-legend-of-the-beast-dlc,
+        hltb:serious-sam-ii,
+        hltb:the-talos-principle,
+        hltb:the-talos-principle-public-test ;
     hltb:indieDeveloper true ;
     hltb:officialName "Croteam"^^xsd:string .
 
 hltb:cryptic-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:champions-online,
+        hltb:star-trek-online ;
     hltb:officialName "Cryptic Studios"^^xsd:string .
 
 hltb:crystal-dynamics a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:blood-omen-2-legacy-of-kain,
+        hltb:rise-of-the-tomb-raider,
+        hltb:rise-of-the-tomb-raider-baba-yaga-the-temple-of-the-witch,
+        hltb:rise-of-the-tomb-raider-blood-ties,
+        hltb:rise-of-the-tomb-raider-cold-darkness-awakened,
+        hltb:tomb-raider-tomb-of-the-lost-adventurer-dlc ;
     hltb:officialName "Crystal Dynamics"^^xsd:string .
 
 hltb:curve-digital a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:indieDeveloper true ;
     hltb:officialName "Curve Digital"^^xsd:string .
 
 hltb:cypronia a hltb:Company ;
+    hltb:basedIn countries:sk ;
     hltb:indieDeveloper true ;
     hltb:officialName "Cypronia"^^xsd:string .
 
 hltb:daedalic-entertainment a hltb:Company ;
+    hltb:basedIn countries:de ;
+    hltb:hasNotableGame hltb:chaos-on-deponia,
+        hltb:deponia,
+        hltb:edna-harvey-harvey-s-new-eyes,
+        hltb:edna-harvey-the-breakout,
+        hltb:the-night-of-the-rabbit,
+        hltb:the-whispered-world ;
     hltb:indieDeveloper true ;
     hltb:officialName "Daedalic Entertainment"^^xsd:string .
 
 hltb:dambuster-studios a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:officialName "Dambuster Studios"^^xsd:string .
 
 hltb:daniel-remar a hltb:Company ;
+    hltb:basedIn countries:se ;
+    hltb:hasNotableGame hltb:iji ;
     hltb:indieDeveloper true ;
     hltb:officialName "Daniel Remar"^^xsd:string .
 
 hltb:day-1-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:mechassault ;
     hltb:officialName "Day 1 Studios"^^xsd:string .
 
 hltb:daybreak-game-company a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:h1z1 ;
     hltb:officialName "Daybreak Game Company"^^xsd:string .
 
 hltb:dennaton-games a hltb:Company ;
+    hltb:basedIn countries:se ;
+    hltb:hasNotableGame hltb:hotline-miami,
+        hltb:hotline-miami-2-wrong-number ;
     hltb:indieDeveloper true ;
     hltb:officialName "Dennaton Games"^^xsd:string .
 
 hltb:digital-eel a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:weird-worlds-return-to-infinite-space ;
     hltb:indieDeveloper true ;
     hltb:officialName "Digital Eel"^^xsd:string .
 
 hltb:digital-extremes a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:warframe ;
     hltb:officialName "Digital Extremes"^^xsd:string .
 
 hltb:digital-happiness a hltb:Company ;
+    hltb:basedIn countries:id ;
     hltb:indieDeveloper true ;
     hltb:officialName "Digital Happiness"^^xsd:string .
 
 hltb:double-fine-productions a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:broken-age ;
     hltb:officialName "Double Fine Productions"^^xsd:string .
 
 hltb:drinkbox-studios a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:guacamelee ;
     hltb:indieDeveloper true ;
     hltb:officialName "DrinkBox Studios"^^xsd:string .
 
 hltb:dynamix a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:betrayal-at-krondor,
+        hltb:mechwarrior,
+        hltb:red-baron,
+        hltb:red-baron-3d ;
     hltb:officialName "Dynamix"^^xsd:string .
 
 hltb:ea-sports a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "EA Sports"^^xsd:string .
 
 hltb:eat-sleep-play a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:twisted-metal-2012 ;
     hltb:officialName "Eat Sleep Play"^^xsd:string .
 
 hltb:electronic-arts a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Electronic Arts"^^xsd:string .
 
 hltb:elixir-studios a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:evil-genius ;
     hltb:indieDeveloper true ;
     hltb:officialName "Elixir Studios"^^xsd:string .
 
 hltb:ensemble-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:age-of-empires,
+        hltb:age-of-empires-ii-the-age-of-kings,
+        hltb:age-of-empires-ii-the-conquerors,
+        hltb:age-of-empires-iii-complete-collection,
+        hltb:age-of-mythology ;
     hltb:officialName "Ensemble Studios"^^xsd:string .
 
 hltb:epic-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:gears-of-war,
+        hltb:gears-of-war-2,
+        hltb:gears-of-war-2-road-to-ruin-dlc,
+        hltb:gears-of-war-3,
+        hltb:gears-of-war-3-raam-s-shadow-dlc ;
     hltb:officialName "Epic Games"^^xsd:string .
 
 hltb:epyx a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:california-games,
+        hltb:california-games-ii,
+        hltb:impossible-mission-1984,
+        hltb:summer-games-ii ;
     hltb:officialName "Epyx"^^xsd:string .
 
 hltb:eurocom a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:batman-begins,
+        hltb:pirates-of-the-caribbean-at-world-s-end,
+        hltb:sphinx-and-the-cursed-mummy,
+        hltb:vancouver-2010 ;
     hltb:indieDeveloper true ;
     hltb:officialName "Eurocom"^^xsd:string .
 
 hltb:evolution-studios a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:motorstorm,
+        hltb:world-rally-championship-2001 ;
     hltb:officialName "Evolution Studios"^^xsd:string .
 
 hltb:facepunch-studios a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:garry-s-mod,
+        hltb:rust ;
     hltb:indieDeveloper true ;
     hltb:officialName "Facepunch Studios"^^xsd:string .
 
 hltb:fasa-studio a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "FASA Studio"^^xsd:string .
 
 hltb:firaxis-games a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Firaxis Games"^^xsd:string .
 
 hltb:firefly-studios a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:space-colony,
+        hltb:stronghold,
+        hltb:stronghold-2,
+        hltb:stronghold-3,
+        hltb:stronghold-kingdoms ;
     hltb:indieDeveloper true ;
     hltb:officialName "Firefly Studios"^^xsd:string .
 
 hltb:flagship-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:mythos ;
     hltb:officialName "Flagship Studios"^^xsd:string .
 
 hltb:flying-wild-hog a hltb:Company ;
+    hltb:basedIn countries:pl ;
+    hltb:hasNotableGame hltb:hard-reset-redux,
+        hltb:shadow-warrior-2,
+        hltb:shadow-warrior-2013 ;
     hltb:indieDeveloper true ;
     hltb:officialName "Flying Wild Hog"^^xsd:string .
 
 hltb:freebird-games a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:to-the-moon ;
     hltb:indieDeveloper true ;
     hltb:officialName "Freebird Games"^^xsd:string .
 
 hltb:frictional-games a hltb:Company ;
+    hltb:basedIn countries:se ;
+    hltb:hasNotableGame hltb:amnesia-the-dark-descent ;
     hltb:indieDeveloper true ;
     hltb:officialName "Frictional Games"^^xsd:string .
 
 hltb:frogwares a hltb:Company ;
+    hltb:basedIn countries:ua ;
+    hltb:hasNotableGame hltb:dracula-origin,
+        hltb:sherlock-holmes-the-awakened ;
     hltb:indieDeveloper true ;
     hltb:officialName "Frogwares"^^xsd:string .
 
 hltb:frontier-developments a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:lostwinds,
+        hltb:lostwinds-winter-of-the-melodias ;
     hltb:indieDeveloper true ;
     hltb:officialName "Frontier Developments"^^xsd:string .
 
 hltb:ftl-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:dungeon-master,
+        hltb:dungeon-master-ii-the-legend-of-skullkeep ;
     hltb:officialName "FTL Games"^^xsd:string .
 
 hltb:fujitsu a hltb:Company ;
@@ -365,17 +676,23 @@ hltb:fujitsu a hltb:Company ;
     hltb:officialName "Fujitsu"^^xsd:string .
 
 hltb:gamehouse a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "GameHouse"^^xsd:string .
 
 hltb:games-distillery a hltb:Company ;
+    hltb:basedIn countries:sk ;
+    hltb:hasNotableGame hltb:aqua ;
     hltb:indieDeveloper true ;
     hltb:officialName "Games Distillery"^^xsd:string .
 
 hltb:garagegames a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:marble-blast-ultra ;
     hltb:indieDeveloper true ;
     hltb:officialName "GarageGames"^^xsd:string .
 
 hltb:glu-mobile a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Glu Mobile"^^xsd:string .
 
 hltb:goldstar a hltb:Company ;
@@ -383,207 +700,422 @@ hltb:goldstar a hltb:Company ;
     hltb:officialName "GoldStar"^^xsd:string .
 
 hltb:gray-matter-interactive a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:call-of-duty-united-offensive ;
     hltb:officialName "Gray Matter Interactive"^^xsd:string .
 
 hltb:greenheart-games a hltb:Company ;
+    hltb:basedIn countries:au ;
+    hltb:hasNotableGame hltb:game-dev-tycoon ;
     hltb:indieDeveloper true ;
     hltb:officialName "Greenheart Games"^^xsd:string .
 
 hltb:gremlin-interactive a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:officialName "Gremlin Interactive"^^xsd:string .
 
 hltb:griptonite-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:marvel-super-hero-squad-comic-combat ;
     hltb:officialName "Griptonite Games"^^xsd:string .
 
 hltb:guerrilla-cambridge a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:officialName "Guerrilla Cambridge"^^xsd:string .
 
 hltb:gunfire-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:darksiders-iii ;
     hltb:officialName "Gunfire Games"^^xsd:string .
 
 hltb:haemimont-games a hltb:Company ;
+    hltb:basedIn countries:bg ;
     hltb:indieDeveloper true ;
     hltb:officialName "Haemimont Games"^^xsd:string .
 
 hltb:halfbrick a hltb:Company ;
+    hltb:basedIn countries:au ;
     hltb:officialName "Halfbrick"^^xsd:string .
 
 hltb:halfbrick-studios a hltb:Company ;
+    hltb:basedIn countries:au ;
+    hltb:hasNotableGame hltb:fruit-ninja,
+        hltb:jetpack-joyride ;
     hltb:indieDeveloper true ;
     hltb:officialName "Halfbrick Studios"^^xsd:string .
 
 hltb:hanako-games a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:cute-knight,
+        hltb:fatal-hearts ;
     hltb:indieDeveloper true ;
     hltb:officialName "Hanako Games"^^xsd:string .
 
 hltb:hangar-13 a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:mafia-iii ;
     hltb:officialName "Hangar 13"^^xsd:string .
 
 hltb:harebrained-schemes a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:shadowrun-dragonfall,
+        hltb:shadowrun-hong-kong,
+        hltb:shadowrun-returns ;
     hltb:officialName "Harebrained Schemes"^^xsd:string .
 
 hltb:harmonix-music-systems a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:dance-central,
+        hltb:dance-central-2,
+        hltb:guitar-hero,
+        hltb:guitar-hero-encore-rocks-the-80s,
+        hltb:guitar-hero-ii,
+        hltb:rock-band-track-pack-country,
+        hltb:rock-band-track-pack-metal,
+        hltb:rock-band-track-pack-volume-1,
+        hltb:rock-band-track-pack-volume-2 ;
     hltb:officialName "Harmonix Music Systems"^^xsd:string .
 
 hltb:headstrong-games a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:disney-art-academy,
+        hltb:new-art-academy,
+        hltb:pokémon-art-academy ;
     hltb:officialName "Headstrong Games"^^xsd:string .
 
 hltb:heart-machine a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:hyper-light-drifter ;
     hltb:indieDeveloper true ;
     hltb:officialName "Heart Machine"^^xsd:string .
 
 hltb:hexage a hltb:Company ;
+    hltb:hasNotableGame hltb:reaper-tale-of-a-pale-swordsman ;
     hltb:indieDeveloper true ;
     hltb:officialName "Hexage"^^xsd:string .
 
 hltb:hidden-path-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:defense-grid-2,
+        hltb:defense-grid-the-awakening ;
     hltb:indieDeveloper true ;
     hltb:officialName "Hidden Path Entertainment"^^xsd:string .
 
 hltb:high-impact-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:jak-and-daxter-the-lost-frontier,
+        hltb:ratchet-clank-size-matters ;
     hltb:officialName "High Impact Games"^^xsd:string .
 
 hltb:high-moon-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:deadpool,
+        hltb:transformers-war-for-cybertron ;
     hltb:officialName "High Moon Studios"^^xsd:string .
 
 hltb:himalaya-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:al-emmo-and-the-lost-dutchman-s-mine ;
     hltb:indieDeveloper true ;
     hltb:officialName "Himalaya Studios"^^xsd:string .
 
 hltb:hoplon-infotainment a hltb:Company ;
+    hltb:basedIn countries:br ;
+    hltb:hasNotableGame hltb:heavy-metal-machines ;
     hltb:indieDeveloper true ;
     hltb:officialName "Hoplon Infotainment"^^xsd:string .
 
 hltb:hothead-games a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:deathspank ;
     hltb:officialName "Hothead Games"^^xsd:string .
 
 hltb:humongous-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:fatty-bear-s-birthday-surprise,
+        hltb:freddi-fish-2-the-case-of-the-haunted-schoolhouse,
+        hltb:freddi-fish-4-the-case-of-the-hogfish-rustlers-of-briny-gulch,
+        hltb:freddi-fish-5-the-case-of-the-creature-of-coral-cove,
+        hltb:freddi-fish-and-luther-s-maze-madness,
+        hltb:freddi-fish-and-luther-s-water-worries,
+        hltb:freddi-fish-and-the-case-of-the-missing-kelp-seeds,
+        hltb:freddi-fish-and-the-case-of-the-stolen-conch-shell,
+        hltb:pajama-sam-2-thunder-and-lightning-aren-t-so-frightening,
+        hltb:pajama-sam-3-you-are-what-you-eat-from-your-head-to-your-feet,
+        hltb:putt-putt-and-fatty-bear-s-activity-pack,
+        hltb:putt-putt-and-pep-s-dog-on-a-stick,
+        hltb:putt-putt-pep-s-birthday-surprise,
+        hltb:spy-fox-2-some-assembly-required,
+        hltb:spy-fox-3-operation-ozone,
+        hltb:spy-fox-in-cheese-chase,
+        hltb:spy-fox-in-dry-cereal,
+        hltb:spy-fox-in-hold-the-mustard ;
     hltb:officialName "Humongous Entertainment"^^xsd:string .
 
 hltb:ice-pick-lodge a hltb:Company ;
+    hltb:hasNotableGame hltb:pathologic,
+        hltb:the-void ;
     hltb:indieDeveloper true ;
     hltb:officialName "Ice-Pick Lodge"^^xsd:string .
 
 hltb:id-software a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:quake ;
     hltb:officialName "id Software"^^xsd:string .
 
 hltb:image---form a hltb:Company ;
+    hltb:basedIn countries:se ;
     hltb:indieDeveloper true ;
     hltb:officialName "Image & Form"^^xsd:string .
 
 hltb:incognito-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Incognito Entertainment"^^xsd:string .
 
 hltb:incredible-technologies a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Incredible Technologies"^^xsd:string .
 
 hltb:infinity-ward a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:call-of-duty,
+        hltb:call-of-duty-2,
+        hltb:call-of-duty-4-modern-warfare,
+        hltb:call-of-duty-classic ;
     hltb:officialName "Infinity Ward"^^xsd:string .
 
 hltb:infocom a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:leather-goddesses-of-phobos,
+        hltb:leather-goddesses-of-phobos-2-gas-pump-girls-meet-the-pulsating-inconvenience-from-planet-x,
+        hltb:planetfall,
+        hltb:return-to-zork,
+        hltb:the-hitchhiker-s-guide-to-the-galaxy ;
     hltb:officialName "Infocom"^^xsd:string .
 
 hltb:insomniac-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:ratchet-clank,
+        hltb:ratchet-clank-2016,
+        hltb:ratchet-clank-all-4-one,
+        hltb:ratchet-clank-collection,
+        hltb:ratchet-clank-full-frontal-assault,
+        hltb:ratchet-clank-future-a-crack-in-time,
+        hltb:ratchet-clank-future-quest-for-booty,
+        hltb:ratchet-clank-future-tools-of-destruction,
+        hltb:ratchet-clank-going-commando,
+        hltb:ratchet-clank-into-the-nexus,
+        hltb:ratchet-clank-up-your-arsenal,
+        hltb:resistance-2,
+        hltb:spyro-the-dragon,
+        hltb:sunset-overdrive ;
     hltb:officialName "Insomniac Games"^^xsd:string .
 
 hltb:interplay-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:fallout ;
     hltb:officialName "Interplay Entertainment"^^xsd:string .
 
 hltb:inti-creates a hltb:Company ;
+    hltb:basedIn countries:jp ;
+    hltb:hasNotableGame hltb:azure-striker-gunvolt-2,
+        hltb:azure-striker-gunvolt-striker-pack,
+        hltb:blaster-master-zero,
+        hltb:blaster-master-zero-2,
+        hltb:mega-man-10,
+        hltb:mega-man-zero,
+        hltb:mega-man-zero-2,
+        hltb:mega-man-zero-3,
+        hltb:mega-man-zx,
+        hltb:mega-man-zx-advent ;
     hltb:indieDeveloper true ;
     hltb:officialName "Inti Creates"^^xsd:string .
 
 hltb:introversion-software a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:darwinia,
+        hltb:defcon,
+        hltb:multiwinia,
+        hltb:prison-architect,
+        hltb:uplink ;
     hltb:indieDeveloper true ;
     hltb:officialName "Introversion Software"^^xsd:string .
 
 hltb:invictus-games a hltb:Company ;
+    hltb:basedIn countries:hu ;
     hltb:indieDeveloper true ;
     hltb:officialName "Invictus Games"^^xsd:string .
 
 hltb:inxile-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:the-bard-s-tale-iv-barrows-deep,
+        hltb:wasteland-2 ;
     hltb:officialName "inXile Entertainment"^^xsd:string .
 
 hltb:ion-storm a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:anachronox,
+        hltb:daikatana ;
     hltb:officialName "Ion Storm"^^xsd:string .
 
 hltb:iron-lore-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Iron Lore Entertainment"^^xsd:string .
 
 hltb:irrational-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:bioshock-infinite-burial-at-sea-episode-2-dlc,
+        hltb:freedom-force-2002,
+        hltb:freedom-force-vs-the-3rd-reich ;
     hltb:officialName "Irrational Games"^^xsd:string .
 
 hltb:jagex a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:indieDeveloper true ;
     hltb:officialName "Jagex"^^xsd:string .
 
 hltb:jam-city a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:harry-potter-hogwarts-mystery ;
     hltb:officialName "Jam City"^^xsd:string .
 
 hltb:javaground a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:god-of-war-betrayal ;
     hltb:officialName "Javaground"^^xsd:string .
 
 hltb:jonas-kyratzes a hltb:Company ;
+    hltb:basedIn countries:de ;
     hltb:indieDeveloper true ;
     hltb:officialName "Jonas Kyratzes"^^xsd:string .
 
 hltb:keen-software-house a hltb:Company ;
+    hltb:hasNotableGame hltb:miner-wars-2081,
+        hltb:space-engineers ;
     hltb:indieDeveloper true ;
     hltb:officialName "Keen Software House"^^xsd:string .
 
 hltb:kiro-o-games a hltb:Company ;
+    hltb:basedIn countries:cm ;
+    hltb:hasNotableGame hltb:aurion-legacy-of-the-kori-odan ;
     hltb:indieDeveloper true ;
     hltb:officialName "Kiro'o Games"^^xsd:string .
 
 hltb:krome-studios a hltb:Company ;
+    hltb:basedIn countries:au ;
     hltb:officialName "Krome Studios"^^xsd:string .
 
 hltb:krome-studios-melbourne a hltb:Company ;
+    hltb:basedIn countries:au ;
     hltb:officialName "Krome Studios Melbourne"^^xsd:string .
 
 hltb:kuju-entertainment a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:microsoft-train-simulator ;
     hltb:officialName "Kuju Entertainment"^^xsd:string .
 
 hltb:kunos-simulazioni a hltb:Company ;
+    hltb:basedIn countries:it ;
+    hltb:hasNotableGame hltb:assetto-corsa ;
     hltb:indieDeveloper true ;
     hltb:officialName "Kunos Simulazioni"^^xsd:string .
 
 hltb:laminar-research a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:indieDeveloper true ;
     hltb:officialName "Laminar Research"^^xsd:string .
 
 hltb:larian-studios a hltb:Company ;
+    hltb:basedIn countries:be ;
+    hltb:hasNotableGame hltb:divinity-original-sin,
+        hltb:divinity-original-sin-ii ;
     hltb:indieDeveloper true ;
     hltb:officialName "Larian Studios"^^xsd:string .
 
 hltb:lazy-8-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:cogs ;
     hltb:indieDeveloper true ;
     hltb:officialName "Lazy 8 Studios"^^xsd:string .
 
 hltb:legend-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:superhero-league-of-hoboken,
+        hltb:the-wheel-of-time ;
     hltb:officialName "Legend Entertainment"^^xsd:string .
 
 hltb:lionhead-studios a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:black-white,
+        hltb:black-white-2,
+        hltb:black-white-2-battle-of-the-gods,
+        hltb:black-white-creature-isle ;
     hltb:officialName "Lionhead Studios"^^xsd:string .
 
 hltb:liquid-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:battle-realms ;
     hltb:officialName "Liquid Entertainment"^^xsd:string .
 
 hltb:little-green-men-games a hltb:Company ;
+    hltb:basedIn countries:hr ;
+    hltb:hasNotableGame hltb:starpoint-gemini ;
     hltb:indieDeveloper true ;
     hltb:officialName "Little Green Men Games"^^xsd:string .
 
 hltb:llamasoft a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:gridrunner-revolution,
+        hltb:polybius,
+        hltb:space-giraffe ;
     hltb:indieDeveloper true ;
     hltb:officialName "Llamasoft"^^xsd:string .
 
 hltb:locomotive-games a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Locomotive Games"^^xsd:string .
 
 hltb:lucasarts a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:day-of-the-tentacle,
+        hltb:escape-from-monkey-island,
+        hltb:full-throttle-1995,
+        hltb:grim-fandango,
+        hltb:monkey-island-2-lechuck-s-revenge,
+        hltb:sam-max-hit-the-road,
+        hltb:star-wars-1991,
+        hltb:star-wars-assault-team,
+        hltb:star-wars-bounty-hunter,
+        hltb:star-wars-dark-forces,
+        hltb:star-wars-episode-i-jedi-power-battles,
+        hltb:star-wars-episode-i-racer,
+        hltb:star-wars-episode-ii-attack-of-the-clones,
+        hltb:star-wars-jedi-knight-dark-forces-ii,
+        hltb:star-wars-jedi-knight-mysteries-of-the-sith,
+        hltb:star-wars-jedi-power-battles,
+        hltb:star-wars-jedi-starfighter,
+        hltb:star-wars-masters-of-teras-kasi,
+        hltb:star-wars-obi-wan,
+        hltb:star-wars-rebel-assault,
+        hltb:star-wars-rebel-assault-i-ii,
+        hltb:star-wars-rebel-assault-ii-the-hidden-empire,
+        hltb:star-wars-republic-commando,
+        hltb:star-wars-starfighter,
+        hltb:star-wars-the-clone-wars-jedi-alliance,
+        hltb:star-wars-the-force-unleashed,
+        hltb:star-wars-the-force-unleashed-hoth-dlc,
+        hltb:star-wars-the-force-unleashed-ii,
+        hltb:star-wars-the-force-unleashed-ii-endor-dlc,
+        hltb:star-wars-the-force-unleashed-jedi-temple-dlc,
+        hltb:star-wars-the-force-unleashed-tatooine-dlc,
+        hltb:star-wars-the-force-unleashed-ultimate-sith-edition,
+        hltb:star-wars-yoda-stories,
+        hltb:the-curse-of-monkey-island ;
     hltb:officialName "LucasArts"^^xsd:string .
 
 hltb:madfinger-games a hltb:Company ;
+    hltb:hasNotableGame hltb:dead-trigger,
+        hltb:shadowgun ;
     hltb:indieDeveloper true ;
     hltb:officialName "Madfinger Games"^^xsd:string .
 
@@ -600,16 +1132,22 @@ hltb:mattel-electronics a hltb:Company ;
     hltb:officialName "Mattel Electronics"^^xsd:string .
 
 hltb:maxis a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Maxis"^^xsd:string .
 
 hltb:media-molecule a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:littlebigplanet ;
     hltb:officialName "Media Molecule"^^xsd:string .
 
 hltb:mega-cat-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:indieDeveloper true ;
     hltb:officialName "Mega Cat Studios"^^xsd:string .
 
 hltb:messhof a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:nidhogg ;
     hltb:indieDeveloper true ;
     hltb:officialName "Messhof"^^xsd:string .
 
@@ -618,66 +1156,118 @@ hltb:microsoft a hltb:Company ;
     hltb:officialName "Microsoft"^^xsd:string .
 
 hltb:midboss a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:indieDeveloper true ;
     hltb:officialName "MidBoss"^^xsd:string .
 
 hltb:midway-games a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Midway Games"^^xsd:string .
 
 hltb:mighty-rabbit-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:breach-clear,
+        hltb:saturday-morning-rpg ;
     hltb:indieDeveloper true ;
     hltb:officialName "Mighty Rabbit Studios"^^xsd:string .
 
 hltb:mode-7-games a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:frozen-synapse ;
     hltb:indieDeveloper true ;
     hltb:officialName "Mode 7 Games"^^xsd:string .
 
 hltb:mojang a hltb:Company ;
+    hltb:basedIn countries:se ;
+    hltb:hasNotableGame hltb:minecraft,
+        hltb:scrolls ;
     hltb:indieDeveloper true ;
     hltb:officialName "Mojang"^^xsd:string .
 
 hltb:molleindustria a hltb:Company ;
+    hltb:basedIn countries:it ;
     hltb:indieDeveloper true ;
     hltb:officialName "Molleindustria"^^xsd:string .
 
 hltb:monolith-productions a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:middle-earth-shadow-of-mordor-game-of-the-year,
+        hltb:middle-earth-shadow-of-mordor-the-bright-lord-dlc,
+        hltb:middle-earth-shadow-of-war,
+        hltb:middle-earth-shadow-of-war-blade-of-galadriel,
+        hltb:middle-earth-shadow-of-war-the-desolation-of-mordor ;
     hltb:officialName "Monolith Productions"^^xsd:string .
 
 hltb:moon-studios a hltb:Company ;
+    hltb:basedIn countries:at ;
+    hltb:hasNotableGame hltb:ori-and-the-blind-forest,
+        hltb:ori-and-the-will-of-the-wisps ;
     hltb:indieDeveloper true ;
     hltb:officialName "Moon Studios"^^xsd:string .
 
 hltb:mythic-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:dark-age-of-camelot ;
     hltb:officialName "Mythic Entertainment"^^xsd:string .
 
 hltb:naturalmotion a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:backbreaker ;
     hltb:officialName "NaturalMotion"^^xsd:string .
 
 hltb:naughty-dog a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:crash-bandicoot,
+        hltb:crash-bandicoot-2-cortex-strikes-back,
+        hltb:crash-bandicoot-3-warped,
+        hltb:jak-and-daxter-the-precursor-legacy,
+        hltb:the-last-of-us,
+        hltb:the-last-of-us-remastered ;
     hltb:officialName "Naughty Dog"^^xsd:string .
 
 hltb:neocoregames a hltb:Company ;
+    hltb:basedIn countries:hu ;
+    hltb:hasNotableGame hltb:the-incredible-adventures-of-van-helsing ;
     hltb:indieDeveloper true ;
     hltb:officialName "NeocoreGames"^^xsd:string .
 
 hltb:netherrealm-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:injustice-2,
+        hltb:injustice-gods-among-us,
+        hltb:mortal-kombat-2011,
+        hltb:mortal-kombat-arcade-kollection,
+        hltb:mortal-kombat-x,
+        hltb:mortal-kombat-xl ;
     hltb:officialName "NetherRealm Studios"^^xsd:string .
 
 hltb:neversoft a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Neversoft"^^xsd:string .
 
 hltb:new-star-games a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:new-star-soccer ;
     hltb:indieDeveloper true ;
     hltb:officialName "New Star Games"^^xsd:string .
 
 hltb:new-world-interactive a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "New World Interactive"^^xsd:string .
 
 hltb:nicalis a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:nightsky,
+        hltb:the-binding-of-isaac-rebirth ;
     hltb:indieDeveloper true ;
     hltb:officialName "Nicalis"^^xsd:string .
 
 hltb:ninja-theory a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:dmc-devil-may-cry,
+        hltb:enslaved-odyssey-to-the-west,
+        hltb:heavenly-sword,
+        hltb:hellblade-senua-s-sacrifice ;
     hltb:officialName "Ninja Theory"^^xsd:string .
 
 hltb:nintendo a hltb:Company ;
@@ -685,29 +1275,54 @@ hltb:nintendo a hltb:Company ;
     hltb:officialName "Nintendo"^^xsd:string .
 
 hltb:nival-interactive a hltb:Company ;
+    hltb:hasNotableGame hltb:blitzkrieg,
+        hltb:silent-storm ;
     hltb:indieDeveloper true ;
     hltb:officialName "Nival Interactive"^^xsd:string .
 
 hltb:novalogic a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:delta-force,
+        hltb:delta-force-2 ;
     hltb:officialName "NovaLogic"^^xsd:string .
 
 hltb:obsidian-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:dungeon-siege-iii,
+        hltb:neverwinter-nights-2,
+        hltb:pillars-of-eternity,
+        hltb:south-park-the-stick-of-truth,
+        hltb:the-outer-worlds ;
     hltb:officialName "Obsidian Entertainment"^^xsd:string .
 
 hltb:origin-systems a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:wing-commander,
+        hltb:wing-commander-ii-vengeance-of-the-kilrathi,
+        hltb:wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1,
+        hltb:wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2,
+        hltb:wing-commander-iii-heart-of-the-tiger,
+        hltb:wing-commander-iv-the-price-of-freedom ;
     hltb:officialName "Origin Systems"^^xsd:string .
 
 hltb:otherside-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:underworld-ascendant ;
     hltb:officialName "OtherSide Entertainment"^^xsd:string .
 
 hltb:outrage-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:descent-3 ;
     hltb:officialName "Outrage Entertainment"^^xsd:string .
 
 hltb:owlchemy-labs a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:snuggle-truck ;
     hltb:indieDeveloper true ;
     hltb:officialName "Owlchemy Labs"^^xsd:string .
 
 hltb:page-44-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Page 44 Studios"^^xsd:string .
 
 hltb:panasonic a hltb:Company ;
@@ -715,9 +1330,19 @@ hltb:panasonic a hltb:Company ;
     hltb:officialName "Panasonic"^^xsd:string .
 
 hltb:pandemic-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:destroy-all-humans,
+        hltb:destroy-all-humans-2,
+        hltb:full-spectrum-warrior,
+        hltb:mercenaries-playground-of-destruction,
+        hltb:star-wars-battlefront-2004,
+        hltb:star-wars-battlefront-ii-2005,
+        hltb:star-wars-the-clone-wars ;
     hltb:officialName "Pandemic Studios"^^xsd:string .
 
 hltb:parallax-software a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:descent ;
     hltb:officialName "Parallax Software"^^xsd:string .
 
 hltb:philips a hltb:Company ;
@@ -725,116 +1350,246 @@ hltb:philips a hltb:Company ;
     hltb:officialName "Philips"^^xsd:string .
 
 hltb:piranha-games a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:bass-pro-shops-the-strike,
+        hltb:die-hard-nakatomi-plaza,
+        hltb:mechwarrior-online ;
     hltb:officialName "Piranha Games"^^xsd:string .
 
 hltb:pixeljam-games a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:indieDeveloper true ;
     hltb:officialName "PixelJAM Games"^^xsd:string .
 
 hltb:playfish a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:officialName "Playfish"^^xsd:string .
 
 hltb:playground-games a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:forza-horizon-2-presents-fast-furious,
+        hltb:forza-horizon-3,
+        hltb:forza-horizon-3-blizzard-mountain,
+        hltb:forza-horizon-4,
+        hltb:forza-horizon-4-fortune-island ;
     hltb:officialName "Playground Games"^^xsd:string .
 
 hltb:popcap-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:bejeweled,
+        hltb:plants-vs-zombies,
+        hltb:plants-vs-zombies-2-it-s-about-time,
+        hltb:plants-vs-zombies-garden-warfare,
+        hltb:plants-vs-zombies-garden-warfare-2,
+        hltb:plants-vs-zombies-heroes ;
     hltb:officialName "PopCap Games"^^xsd:string .
 
 hltb:positech-games a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:gratuitous-space-battles ;
     hltb:indieDeveloper true ;
     hltb:officialName "Positech Games"^^xsd:string .
 
 hltb:provox-games a hltb:Company ;
+    hltb:basedIn countries:hr ;
+    hltb:hasNotableGame hltb:space-force-rogue-universe ;
     hltb:indieDeveloper true ;
     hltb:officialName "Provox Games"^^xsd:string .
 
 hltb:psyonix a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:rocket-league ;
     hltb:officialName "Psyonix"^^xsd:string .
 
 hltb:psyonix-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:supersonic-acrobatic-rocket-powered-battle-cars ;
     hltb:indieDeveloper true ;
     hltb:officialName "Psyonix Studios"^^xsd:string .
 
 hltb:puppy-games a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:revenge-of-the-titans ;
     hltb:indieDeveloper true ;
     hltb:officialName "Puppy Games"^^xsd:string .
 
 hltb:q-games a hltb:Company ;
+    hltb:basedIn countries:jp ;
     hltb:indieDeveloper true ;
     hltb:officialName "Q-Games"^^xsd:string .
 
 hltb:rainbow-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:mx-vs-atv-alive,
+        hltb:mx-vs-atv-all-out,
+        hltb:mx-vs-atv-supercross,
+        hltb:mx-vs-atv-unleashed ;
     hltb:officialName "Rainbow Studios"^^xsd:string .
 
 hltb:rake-in-grass a hltb:Company ;
+    hltb:hasNotableGame hltb:larva-mortus ;
     hltb:indieDeveloper true ;
     hltb:officialName "Rake In Grass"^^xsd:string .
 
 hltb:rare a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:banjo-kazooie,
+        hltb:battletoads-in-ragnarok-s-world,
+        hltb:conker-s-bad-fur-day,
+        hltb:donkey-kong-64,
+        hltb:donkey-kong-country,
+        hltb:donkey-kong-country-2-diddy-s-kong-quest,
+        hltb:donkey-kong-country-3-dixie-kong-s-double-trouble,
+        hltb:donkey-kong-land,
+        hltb:donkey-kong-land-2,
+        hltb:donkey-kong-land-iii,
+        hltb:goldeneye-007-1997,
+        hltb:killer-instinct-1994,
+        hltb:killer-instinct-2-classic,
+        hltb:killer-instinct-gold,
+        hltb:perfect-dark-zero,
+        hltb:sea-of-thieves ;
     hltb:officialName "Rare"^^xsd:string .
 
 hltb:raven-software a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:heretic,
+        hltb:heretic-ii,
+        hltb:hexen,
+        hltb:hexen-ii,
+        hltb:hexen-ii-mission-pack-portal-of-praevus,
+        hltb:marvel-ultimate-alliance,
+        hltb:singularity,
+        hltb:soldier-of-fortune ;
     hltb:officialName "Raven Software"^^xsd:string .
 
 hltb:ready-at-dawn a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:daxter,
+        hltb:deformers,
+        hltb:lone-echo ;
     hltb:officialName "Ready at Dawn"^^xsd:string .
 
 hltb:realtime-worlds a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:crackdown ;
     hltb:officialName "Realtime Worlds"^^xsd:string .
 
 hltb:red-storm-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:tom-clancy-s-rainbow-six ;
     hltb:officialName "Red Storm Entertainment"^^xsd:string .
 
 hltb:red-thread-games a hltb:Company ;
+    hltb:basedIn countries:no ;
+    hltb:hasNotableGame hltb:draugen,
+        hltb:dreamfall-chapters ;
     hltb:indieDeveloper true ;
     hltb:officialName "Red Thread Games"^^xsd:string .
 
 hltb:reflexive-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Reflexive Entertainment"^^xsd:string .
 
 hltb:relentless-software a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:indieDeveloper true ;
     hltb:officialName "Relentless Software"^^xsd:string .
 
 hltb:relic-entertainment a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:company-of-heroes,
+        hltb:company-of-heroes-2,
+        hltb:company-of-heroes-2-ardennes-assault,
+        hltb:company-of-heroes-the-great-war-1918,
+        hltb:homeworld,
+        hltb:warhammer-40-000-dawn-of-war,
+        hltb:warhammer-40-000-dawn-of-war-dark-crusade,
+        hltb:warhammer-40-000-dawn-of-war-ii,
+        hltb:warhammer-40-000-dawn-of-war-ii-chaos-rising,
+        hltb:warhammer-40-000-dawn-of-war-ii-retribution,
+        hltb:warhammer-40-000-dawn-of-war-ii-retribution-the-last-standalone,
+        hltb:warhammer-40-000-dawn-of-war-iii,
+        hltb:warhammer-40-000-dawn-of-war-winter-assault ;
     hltb:officialName "Relic Entertainment"^^xsd:string .
 
 hltb:renegade-kid a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:dementium-ii,
+        hltb:dementium-the-ward,
+        hltb:moon,
+        hltb:mutant-mudds ;
     hltb:indieDeveloper true ;
     hltb:officialName "Renegade Kid"^^xsd:string .
 
 hltb:respawn-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:apex-legends,
+        hltb:star-wars-jedi-fallen-order,
+        hltb:titanfall ;
     hltb:officialName "Respawn Entertainment"^^xsd:string .
 
 hltb:riot-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:league-of-legends ;
     hltb:officialName "Riot Games"^^xsd:string .
 
 hltb:rockstar-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:grand-theft-auto-online ;
     hltb:officialName "Rockstar Games"^^xsd:string .
 
 hltb:rocksteady-studios a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:batman-arkham-asylum,
+        hltb:batman-arkham-asylum-goty,
+        hltb:batman-arkham-city-goty,
+        hltb:batman-arkham-city-harley-quinn-s-revenge-dlc,
+        hltb:batman-arkham-knight,
+        hltb:batman-arkham-knight-a-flip-of-a-coin,
+        hltb:batman-arkham-knight-catwoman-s-revenge,
+        hltb:batman-arkham-knight-gcpd-lockdown,
+        hltb:batman-arkham-knight-harley-quinn-story-pack,
+        hltb:batman-arkham-knight-premium-edition,
+        hltb:batman-arkham-knight-red-hood-story-pack,
+        hltb:batman-arkham-knight-season-of-infamy-most-wanted ;
     hltb:officialName "Rocksteady Studios"^^xsd:string .
 
 hltb:roll7 a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:olliolli,
+        hltb:olliolli2-welcome-to-olliwood ;
     hltb:indieDeveloper true ;
     hltb:officialName "Roll7"^^xsd:string .
 
 hltb:rovio-entertainment a hltb:Company ;
+    hltb:basedIn countries:fi ;
     hltb:indieDeveloper true ;
     hltb:officialName "Rovio Entertainment"^^xsd:string .
 
 hltb:runic-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:torchlight ;
     hltb:officialName "Runic Games"^^xsd:string .
 
 hltb:s2-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:heroes-of-newerth,
+        hltb:savage-2-a-tortured-soul,
+        hltb:savage-the-battle-for-newerth ;
     hltb:indieDeveloper true ;
     hltb:officialName "S2 Games"^^xsd:string .
 
 hltb:saber-interactive a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:timeshift,
+        hltb:will-rock ;
     hltb:indieDeveloper true ;
     hltb:officialName "Saber Interactive"^^xsd:string .
 
 hltb:sandlot-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:cake-mania ;
     hltb:indieDeveloper true ;
     hltb:officialName "Sandlot Games"^^xsd:string .
 
@@ -843,80 +1598,176 @@ hltb:sanyo a hltb:Company ;
     hltb:officialName "Sanyo"^^xsd:string .
 
 hltb:sanzaru-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:sly-cooper-thieves-in-time,
+        hltb:sonic-boom-fire-ice,
+        hltb:sonic-boom-shattered-crystal ;
     hltb:officialName "Sanzaru Games"^^xsd:string .
 
 hltb:sce-studio-liverpool a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:formula-one-championship-edition,
+        hltb:wipeout-2048-wipeout-hd-game-pack ;
     hltb:officialName "SCE Studio Liverpool"^^xsd:string .
 
 hltb:schell-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:i-expect-you-to-die ;
     hltb:indieDeveloper true ;
     hltb:officialName "Schell Games"^^xsd:string .
 
 hltb:scott-cawthon a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:five-nights-at-freddy-s,
+        hltb:five-nights-at-freddy-s-2,
+        hltb:five-nights-at-freddy-s-3,
+        hltb:five-nights-at-freddy-s-4,
+        hltb:five-nights-at-freddy-s-sister-location ;
     hltb:indieDeveloper true ;
     hltb:officialName "Scott Cawthon"^^xsd:string .
 
 hltb:sega a hltb:Company ;
-    hltb:basedIn countries:jp ;
+    hltb:basedIn countries:jp,
+        countries:us ;
+    hltb:hasNotableGame hltb:golden-axe-ii,
+        hltb:golden-axe-iii,
+        hltb:golden-axe-warrior,
+        hltb:hatsune-miku-project-diva,
+        hltb:hatsune-miku-project-diva-2nd,
+        hltb:hatsune-miku-project-diva-extend,
+        hltb:hatsune-miku-project-diva-future-tone,
+        hltb:hatsune-miku-project-mirai-dx,
+        hltb:phantasy-star-generation-1,
+        hltb:phantasy-star-iii-generations-of-doom,
+        hltb:phantasy-star-iv-the-end-of-the-millennium,
+        hltb:phantasy-star-online-2,
+        hltb:sakura-taisen-v-episode-0-kouya-no-samurai-musume,
+        hltb:super-monkey-ball-banana-blitz,
+        hltb:super-monkey-ball-deluxe,
+        hltb:super-monkey-ball-step-roll,
+        hltb:super-monkey-ball-touch-roll,
+        hltb:valkyria-chronicles-4,
+        hltb:valkyria-chronicles-ii,
+        hltb:valkyria-chronicles-remastered ;
     hltb:officialName "Sega"^^xsd:string .
 
 hltb:sensible-software a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:cannon-fodder,
+        hltb:cannon-fodder-2,
+        hltb:mega-lo-mania,
+        hltb:sensible-golf,
+        hltb:sensible-soccer,
+        hltb:sensible-world-of-soccer,
+        hltb:wizball ;
     hltb:officialName "Sensible Software"^^xsd:string .
 
 hltb:sidhe a hltb:Company ;
+    hltb:basedIn countries:nz ;
+    hltb:hasNotableGame hltb:rugby-challenge,
+        hltb:rugby-challenge-2,
+        hltb:rugby-league-2 ;
     hltb:indieDeveloper true ;
     hltb:officialName "Sidhe"^^xsd:string .
 
 hltb:sie-bend-studio a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:days-gone ;
     hltb:officialName "SIE Bend Studio"^^xsd:string .
 
 hltb:sie-san-diego-studio a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:mlb-17-the-show,
+        hltb:mlb-the-show-19 ;
     hltb:officialName "SIE San Diego Studio"^^xsd:string .
 
 hltb:sie-santa-monica-studio a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:god-of-war-2018 ;
     hltb:officialName "SIE Santa Monica Studio"^^xsd:string .
 
 hltb:sierra-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:king-s-quest-iv-the-perils-of-rosella,
+        hltb:king-s-quest-vi-heir-today-gone-tomorrow,
+        hltb:leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work,
+        hltb:leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals ;
     hltb:officialName "Sierra Entertainment"^^xsd:string .
 
 hltb:silicon-knights a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:blood-omen-legacy-of-kain,
+        hltb:eternal-darkness-sanity-s-requiem,
+        hltb:too-human ;
     hltb:officialName "Silicon Knights"^^xsd:string .
 
 hltb:silver-creek-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:soltrio-solitaire ;
     hltb:indieDeveloper true ;
     hltb:officialName "Silver Creek Entertainment"^^xsd:string .
 
 hltb:simogo a hltb:Company ;
+    hltb:basedIn countries:se ;
+    hltb:hasNotableGame hltb:beat-sneak-bandit,
+        hltb:year-walk ;
     hltb:indieDeveloper true ;
     hltb:officialName "Simogo"^^xsd:string .
 
 hltb:simtex a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:master-of-magic-1994,
+        hltb:master-of-orion-1993,
+        hltb:master-of-orion-ii-battle-at-antares ;
     hltb:officialName "Simtex"^^xsd:string .
 
 hltb:singletrac a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:jet-moto,
+        hltb:warhawk-1995 ;
     hltb:officialName "SingleTrac"^^xsd:string .
 
 hltb:ska-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:charlie-murder,
+        hltb:the-dishwasher-dead-samurai,
+        hltb:the-dishwasher-vampire-smile ;
     hltb:indieDeveloper true ;
     hltb:officialName "Ska Studios"^^xsd:string .
 
 hltb:skygoblin a hltb:Company ;
+    hltb:basedIn countries:se ;
     hltb:indieDeveloper true ;
     hltb:officialName "Skygoblin"^^xsd:string .
 
 hltb:slant-six-games a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:socom-u-s-navy-seals-confrontation,
+        hltb:socom-u-s-navy-seals-fireteam-bravo-3,
+        hltb:socom-u-s-navy-seals-tactical-strike ;
     hltb:officialName "Slant Six Games"^^xsd:string .
 
 hltb:sledgehammer-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:call-of-duty-advanced-warfare ;
     hltb:officialName "Sledgehammer Games"^^xsd:string .
 
 hltb:slightly-mad-studios a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:project-cars,
+        hltb:project-cars-pagani-edition ;
     hltb:officialName "Slightly Mad Studios"^^xsd:string .
 
 hltb:snowblind-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:champions-of-norrath,
+        hltb:top-gear-overdrive ;
     hltb:officialName "Snowblind Studios"^^xsd:string .
 
 hltb:soldak-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:depths-of-peril,
+        hltb:din-s-curse ;
     hltb:indieDeveloper true ;
     hltb:officialName "Soldak Entertainment"^^xsd:string .
 
@@ -925,68 +1776,117 @@ hltb:sony a hltb:Company ;
     hltb:officialName "Sony"^^xsd:string .
 
 hltb:sony-computer-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Sony Computer Entertainment"^^xsd:string .
 
 hltb:spiderweb-software a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:avernum,
+        hltb:geneforge ;
     hltb:indieDeveloper true ;
     hltb:officialName "Spiderweb Software"^^xsd:string .
 
 hltb:splash-damage a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:brink,
+        hltb:dirty-bomb ;
     hltb:indieDeveloper true ;
     hltb:officialName "Splash Damage"^^xsd:string .
 
 hltb:squad a hltb:Company ;
+    hltb:basedIn countries:mx ;
+    hltb:hasNotableGame hltb:kerbal-space-program ;
     hltb:indieDeveloper true ;
     hltb:officialName "Squad"^^xsd:string .
 
 hltb:stainless-steel-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:empire-earth ;
     hltb:officialName "Stainless Steel Studios"^^xsd:string .
 
 hltb:stardock a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:galactic-civilizations,
+        hltb:galactic-civilizations-ii-dark-avatar,
+        hltb:galactic-civilizations-ii-dread-lords,
+        hltb:galactic-civilizations-ii-twilight-of-the-arnor,
+        hltb:galactic-civilizations-iii,
+        hltb:the-political-machine,
+        hltb:the-political-machine-2008 ;
     hltb:indieDeveloper true ;
     hltb:officialName "Stardock"^^xsd:string .
 
 hltb:strategic-simulations a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:panzer-general,
+        hltb:panzer-general-3d-assault ;
     hltb:officialName "Strategic Simulations"^^xsd:string .
 
 hltb:studio-pixel a hltb:Company ;
+    hltb:basedIn countries:jp ;
+    hltb:hasNotableGame hltb:kero-blaster ;
     hltb:indieDeveloper true ;
     hltb:officialName "Studio Pixel"^^xsd:string .
 
 hltb:subatomic-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:indieDeveloper true ;
     hltb:officialName "Subatomic Studios"^^xsd:string .
 
 hltb:sucker-punch-productions a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:ghost-of-tsushima,
+        hltb:rocket-robot-on-wheels,
+        hltb:sly-cooper-and-the-thievius-raccoonus ;
     hltb:officialName "Sucker Punch Productions"^^xsd:string .
 
 hltb:sunstorm-interactive a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:deer-hunter-3-the-legend-continues,
+        hltb:deer-hunter-4-world-class-record-bucks,
+        hltb:deer-hunter-ii-extended-season ;
     hltb:officialName "Sunstorm Interactive"^^xsd:string .
 
 hltb:supergiant-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:bastion,
+        hltb:hades,
+        hltb:pyre,
+        hltb:transistor ;
     hltb:indieDeveloper true ;
     hltb:officialName "Supergiant Games"^^xsd:string .
 
 hltb:supervillain-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:dungeon-siege-throne-of-agony,
+        hltb:order-up ;
     hltb:indieDeveloper true ;
     hltb:officialName "SuperVillain Studios"^^xsd:string .
 
 hltb:tale-of-tales a hltb:Company ;
+    hltb:basedIn countries:be ;
+    hltb:hasNotableGame hltb:the-graveyard,
+        hltb:the-path ;
     hltb:indieDeveloper true ;
     hltb:officialName "Tale of Tales"^^xsd:string .
 
 hltb:taleworlds a hltb:Company ;
+    hltb:basedIn countries:tr ;
     hltb:indieDeveloper true ;
     hltb:officialName "TaleWorlds"^^xsd:string .
 
 hltb:tarsier-studios a hltb:Company ;
+    hltb:basedIn countries:se ;
+    hltb:hasNotableGame hltb:little-nightmares ;
     hltb:indieDeveloper true ;
     hltb:officialName "Tarsier Studios"^^xsd:string .
 
 hltb:team-bondi a hltb:Company ;
+    hltb:basedIn countries:au ;
     hltb:officialName "Team Bondi"^^xsd:string .
 
 hltb:team-shanghai-alice a hltb:Company ;
+    hltb:basedIn countries:jp ;
     hltb:indieDeveloper true ;
     hltb:officialName "Team Shanghai Alice"^^xsd:string .
 
@@ -999,145 +1899,335 @@ hltb:tectoy a hltb:Company ;
     hltb:officialName "TecToy"^^xsd:string .
 
 hltb:telltale-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:back-to-the-future-the-game,
+        hltb:back-to-the-future-the-game-episode-1-it-s-about-time,
+        hltb:back-to-the-future-the-game-episode-2-get-tannen,
+        hltb:back-to-the-future-the-game-episode-3-citizen-brown,
+        hltb:back-to-the-future-the-game-episode-4-double-visions,
+        hltb:back-to-the-future-the-game-episode-5-outatime,
+        hltb:game-of-thrones-a-telltale-games-series,
+        hltb:game-of-thrones-episode-1-iron-from-ice,
+        hltb:game-of-thrones-episode-2-the-lost-lords,
+        hltb:game-of-thrones-episode-3-the-sword-in-the-darkness,
+        hltb:game-of-thrones-episode-4-sons-of-winter,
+        hltb:game-of-thrones-episode-5-a-nest-of-vipers,
+        hltb:game-of-thrones-episode-6-the-ice-dragon,
+        hltb:minecraft-story-mode,
+        hltb:minecraft-story-mode-episode-1-the-order-of-the-stone,
+        hltb:minecraft-story-mode-episode-2-assembly-required,
+        hltb:minecraft-story-mode-episode-3-the-last-place-you-look,
+        hltb:minecraft-story-mode-episode-4-a-block-and-a-hard-place,
+        hltb:minecraft-story-mode-episode-5-order-up,
+        hltb:minecraft-story-mode-episode-6-a-portal-to-mystery,
+        hltb:minecraft-story-mode-episode-7-access-denied,
+        hltb:minecraft-story-mode-episode-8-a-journey-s-end,
+        hltb:minecraft-story-mode-season-two,
+        hltb:minecraft-story-mode-season-two-episode-1-hero-in-residence,
+        hltb:minecraft-story-mode-season-two-episode-2-giant-consequences,
+        hltb:minecraft-story-mode-season-two-episode-3-jailhouse-block,
+        hltb:minecraft-story-mode-season-two-episode-4-below-the-bedrock,
+        hltb:minecraft-story-mode-season-two-episode-5-above-and-beyond,
+        hltb:sam-max-101-culture-shock,
+        hltb:sam-max-102-situation-comedy,
+        hltb:sam-max-103-the-mole-the-mob-and-the-meatball,
+        hltb:sam-max-104-abe-lincoln-must-die,
+        hltb:sam-max-105-reality-2-0,
+        hltb:sam-max-106-bright-side-of-the-moon,
+        hltb:sam-max-201-ice-station-santa,
+        hltb:sam-max-202-moai-better-blues,
+        hltb:sam-max-203-night-of-the-raving-dead,
+        hltb:sam-max-204-chariots-of-the-dogs,
+        hltb:sam-max-205-what-s-new-beelzebub,
+        hltb:sam-max-301-the-penal-zone,
+        hltb:sam-max-302-the-tomb-of-sammun-mak,
+        hltb:sam-max-303-they-stole-max-s-brain,
+        hltb:sam-max-304-beyond-the-alley-of-the-dolls,
+        hltb:sam-max-305-the-city-that-dares-not-sleep,
+        hltb:sam-max-beyond-time-and-space,
+        hltb:sam-max-save-the-world,
+        hltb:sam-max-the-devil-s-playhouse,
+        hltb:tales-from-the-borderlands,
+        hltb:tales-from-the-borderlands-episode-1-zer0-sum,
+        hltb:tales-from-the-borderlands-episode-2-atlas-mugged,
+        hltb:tales-from-the-borderlands-episode-3-catch-a-ride,
+        hltb:tales-from-the-borderlands-episode-4-escape-plan-bravo,
+        hltb:tales-from-the-borderlands-episode-5-the-vault-of-the-traveler,
+        hltb:tales-of-monkey-island-chapter-4-the-trial-and-execution-of-guybrush-threepwood,
+        hltb:the-walking-dead-a-new-frontier,
+        hltb:the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-i,
+        hltb:the-walking-dead-a-new-frontier-episode-2-ties-that-bind-part-ii,
+        hltb:the-walking-dead-a-new-frontier-episode-3-above-the-law,
+        hltb:the-walking-dead-a-new-frontier-episode-4-thicker-than-water,
+        hltb:the-walking-dead-a-new-frontier-episode-5-from-the-gallows,
+        hltb:the-walking-dead-a-telltale-games-series,
+        hltb:the-walking-dead-collection-the-telltale-series,
+        hltb:the-walking-dead-episode-1-a-new-day,
+        hltb:the-walking-dead-episode-2-starved-for-help,
+        hltb:the-walking-dead-episode-3-long-road-ahead,
+        hltb:the-walking-dead-episode-4-around-every-corner,
+        hltb:the-walking-dead-episode-5-no-time-left,
+        hltb:the-walking-dead-season-2-episode-2-a-house-divided,
+        hltb:the-wolf-among-us,
+        hltb:the-wolf-among-us-episode-1-faith,
+        hltb:the-wolf-among-us-episode-2-smoke-and-mirrors,
+        hltb:the-wolf-among-us-episode-3-a-crooked-mile,
+        hltb:the-wolf-among-us-episode-4-in-sheep-s-clothing,
+        hltb:the-wolf-among-us-episode-5-cry-wolf,
+        hltb:the-wolf-among-us-season-2 ;
     hltb:indieDeveloper true ;
     hltb:officialName "Telltale Games"^^xsd:string .
 
 hltb:terminal-reality a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Terminal Reality"^^xsd:string .
 
 hltb:terri-vellmann a hltb:Company ;
+    hltb:basedIn countries:br ;
+    hltb:hasNotableGame hltb:heavy-bullets ;
     hltb:indieDeveloper true ;
     hltb:officialName "Terri Vellmann"^^xsd:string .
 
 hltb:terry-cavanagh a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:hexagon,
+        hltb:super-hexagon ;
     hltb:indieDeveloper true ;
     hltb:officialName "Terry Cavanagh"^^xsd:string .
 
 hltb:tetris-online a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Tetris Online"^^xsd:string .
 
 hltb:the-bitmap-brothers a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:officialName "The Bitmap Brothers"^^xsd:string .
 
 hltb:the-chinese-room a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:officialName "The Chinese Room"^^xsd:string .
 
 hltb:three-fields-entertainment a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:danger-zone,
+        hltb:danger-zone-2,
+        hltb:dangerous-driving ;
     hltb:officialName "Three Fields Entertainment"^^xsd:string .
 
 hltb:three-rings-design a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:yohoho-puzzle-pirates ;
     hltb:indieDeveloper true ;
     hltb:officialName "Three Rings Design"^^xsd:string .
 
 hltb:toby-fox a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:indieDeveloper true ;
     hltb:officialName "Toby Fox"^^xsd:string .
 
 hltb:tomorrow-corporation a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:little-inferno ;
     hltb:indieDeveloper true ;
     hltb:officialName "Tomorrow Corporation"^^xsd:string .
 
 hltb:torpex-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:schizoid ;
     hltb:indieDeveloper true ;
     hltb:officialName "Torpex Games"^^xsd:string .
 
 hltb:toys-for-bob a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:spyro-reignited-trilogy ;
     hltb:officialName "Toys for Bob"^^xsd:string .
 
 hltb:transmission-games a hltb:Company ;
+    hltb:basedIn countries:au ;
+    hltb:hasNotableGame hltb:heroes-of-the-pacific,
+        hltb:heroes-over-europe ;
     hltb:officialName "Transmission Games"^^xsd:string .
 
 hltb:traveller-s-tales a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:officialName "Traveller's Tales"^^xsd:string .
 
 hltb:trendy-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:dungeon-defenders ;
     hltb:indieDeveloper true ;
     hltb:officialName "Trendy Entertainment"^^xsd:string .
 
 hltb:treyarch a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:call-of-duty-3,
+        hltb:call-of-duty-black-ops-ii-apocalypse-dlc,
+        hltb:call-of-duty-black-ops-ii-revolution-dlc,
+        hltb:call-of-duty-black-ops-ii-uprising-dlc,
+        hltb:call-of-duty-black-ops-ii-vengeance-dlc,
+        hltb:call-of-duty-black-ops-iii-awakening-dlc-pack,
+        hltb:call-of-duty-black-ops-iii-eclipse-dlc-pack,
+        hltb:call-of-duty-modern-warfare-reflex-edition ;
     hltb:officialName "Treyarch"^^xsd:string .
 
 hltb:tribute-games a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:curses-n-chaos,
+        hltb:mercenary-kings,
+        hltb:wizorb ;
     hltb:indieDeveloper true ;
     hltb:officialName "Tribute Games"^^xsd:string .
 
 hltb:trickster-arts a hltb:Company ;
+    hltb:hasNotableGame hltb:hero-of-many ;
     hltb:indieDeveloper true ;
     hltb:officialName "Trickster Arts"^^xsd:string .
 
 hltb:trion-worlds a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:rift ;
     hltb:officialName "Trion Worlds"^^xsd:string .
 
 hltb:turn-10-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:forza-motorsport,
+        hltb:forza-motorsport-2,
+        hltb:forza-motorsport-3,
+        hltb:forza-motorsport-4,
+        hltb:forza-motorsport-5,
+        hltb:forza-motorsport-6,
+        hltb:forza-motorsport-6-apex,
+        hltb:forza-motorsport-7 ;
     hltb:officialName "Turn 10 Studios"^^xsd:string .
 
 hltb:two-point-studios a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:two-point-hospital ;
     hltb:officialName "Two Point Studios"^^xsd:string .
 
 hltb:uber-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:monday-night-combat,
+        hltb:planetary-annihilation,
+        hltb:super-monday-night-combat ;
     hltb:indieDeveloper true ;
     hltb:officialName "Uber Entertainment"^^xsd:string .
 
 hltb:ubisoft-reflections a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:officialName "Ubisoft Reflections"^^xsd:string .
 
 hltb:ultimate-play-the-game a hltb:Company ;
+    hltb:basedIn countries:gb ;
     hltb:officialName "Ultimate Play the Game"^^xsd:string .
 
 hltb:undead-labs a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:state-of-decay,
+        hltb:state-of-decay-2,
+        hltb:state-of-decay-2-daybreak-dlc ;
     hltb:officialName "Undead Labs"^^xsd:string .
 
 hltb:united-front-games a hltb:Company ;
+    hltb:basedIn countries:ca ;
+    hltb:hasNotableGame hltb:modnation-racers ;
     hltb:officialName "United Front Games"^^xsd:string .
 
 hltb:valve a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:left-4-dead-2-the-passing-dlc ;
     hltb:officialName "Valve"^^xsd:string .
 
 hltb:vectorpark a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:metamorphabet ;
     hltb:indieDeveloper true ;
     hltb:officialName "Vectorpark"^^xsd:string .
 
 hltb:venan-entertainment a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:ninjatown ;
     hltb:officialName "Venan Entertainment"^^xsd:string .
 
 hltb:vicarious-visions a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:crash-bandicoot-2-n-tranced,
+        hltb:crash-bandicoot-n-sane-trilogy,
+        hltb:crash-bandicoot-purple-ripto-s-rampage ;
     hltb:officialName "Vicarious Visions"^^xsd:string .
 
 hltb:vigil-games a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Vigil Games"^^xsd:string .
 
 hltb:visceral-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:dead-space,
+        hltb:dead-space-2,
+        hltb:dead-space-2-severed-dlc,
+        hltb:dead-space-3,
+        hltb:dead-space-3-awakened-dlc ;
     hltb:officialName "Visceral Games"^^xsd:string .
 
 hltb:visual-concepts a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:nba-2k,
+        hltb:nfl-2k ;
     hltb:officialName "Visual Concepts"^^xsd:string .
 
 hltb:voxelstorm a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:advertcity ;
     hltb:indieDeveloper true ;
     hltb:officialName "VoxelStorm"^^xsd:string .
 
 hltb:wadjet-eye-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:shardlight ;
     hltb:indieDeveloper true ;
     hltb:officialName "Wadjet Eye Games"^^xsd:string .
 
 hltb:webfoot-technologies a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:dragon-ball-gt-transformation,
+        hltb:dragon-ball-z-buu-s-fury,
+        hltb:dragon-ball-z-the-legacy-of-goku,
+        hltb:dragon-ball-z-the-legacy-of-goku-ii ;
     hltb:officialName "Webfoot Technologies"^^xsd:string .
 
 hltb:westwood-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:command-conquer-red-alert,
+        hltb:command-conquer-red-alert-retaliation,
+        hltb:command-conquer-renegade,
+        hltb:command-conquer-the-covert-operations,
+        hltb:command-conquer-tiberian-sun,
+        hltb:dune-ii-the-building-of-a-dynasty,
+        hltb:lands-of-lore-iii,
+        hltb:the-legend-of-kyrandia-book-one,
+        hltb:the-legend-of-kyrandia-book-three-malcolm-s-revenge,
+        hltb:the-legend-of-kyrandia-book-two-the-hand-of-fate ;
     hltb:officialName "Westwood Studios"^^xsd:string .
 
 hltb:wideload-games a hltb:Company ;
+    hltb:basedIn countries:us ;
     hltb:officialName "Wideload Games"^^xsd:string .
 
 hltb:wolfire-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:overgrowth ;
     hltb:indieDeveloper true ;
     hltb:officialName "Wolfire Games"^^xsd:string .
 
 hltb:yacht-club-games a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:shovel-knight ;
     hltb:indieDeveloper true ;
     hltb:officialName "Yacht Club Games"^^xsd:string .
 
 hltb:young-horses a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:octodad-dadliest-catch ;
     hltb:indieDeveloper true ;
     hltb:officialName "Young Horses"^^xsd:string .
 
@@ -1146,27 +2236,45 @@ hltb:zeebo-inc a hltb:Company ;
     hltb:officialName "Zeebo Inc"^^xsd:string .
 
 hltb:zenimax-online-studios a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:the-elder-scrolls-online ;
     hltb:officialName "ZeniMax Online Studios"^^xsd:string .
 
 hltb:zipper-interactive a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:mechwarrior-3,
+        hltb:socom-3-u-s-navy-seals,
+        hltb:socom-4-u-s-navy-seals-special-forces,
+        hltb:socom-u-s-navy-seals,
+        hltb:socom-u-s-navy-seals-combined-assault,
+        hltb:socom-u-s-navy-seals-fireteam-bravo,
+        hltb:socom-u-s-navy-seals-fireteam-bravo-2 ;
     hltb:officialName "Zipper Interactive"^^xsd:string .
 
 hltb:zoetrope-interactive a hltb:Company ;
+    hltb:basedIn countries:tr ;
     hltb:indieDeveloper true ;
     hltb:officialName "Zoetrope Interactive"^^xsd:string .
 
 hltb:zoink a hltb:Company ;
+    hltb:basedIn countries:se ;
     hltb:indieDeveloper true ;
     hltb:officialName "Zoink"^^xsd:string .
 
 hltb:zoonami a hltb:Company ;
+    hltb:basedIn countries:gb ;
+    hltb:hasNotableGame hltb:bonsai-barber,
+        hltb:zendoku ;
     hltb:indieDeveloper true ;
     hltb:officialName "Zoonami"^^xsd:string .
 
 hltb:zootfly a hltb:Company ;
+    hltb:basedIn countries:si ;
     hltb:indieDeveloper true ;
     hltb:officialName "ZootFly"^^xsd:string .
 
 hltb:zynga a hltb:Company ;
+    hltb:basedIn countries:us ;
+    hltb:hasNotableGame hltb:farmville ;
     hltb:officialName "Zynga"^^xsd:string .
 
