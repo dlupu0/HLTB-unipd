@@ -1,501 +1,502 @@
 @prefix countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#> .
 @prefix hltb: <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
-countries:ad hltb:subClassOf hltb:eu .
+countries:ad rdfs:subClassOf hltb:eu .
 
-countries:ae hltb:subClassOf hltb:other .
+countries:ae rdfs:subClassOf hltb:other .
 
-countries:af hltb:subClassOf hltb:other .
+countries:af rdfs:subClassOf hltb:other .
 
-countries:ag hltb:subClassOf hltb:na .
+countries:ag rdfs:subClassOf hltb:na .
 
-countries:ai hltb:subClassOf hltb:na .
+countries:ai rdfs:subClassOf hltb:na .
 
-countries:al hltb:subClassOf hltb:eu .
+countries:al rdfs:subClassOf hltb:eu .
 
-countries:am hltb:subClassOf hltb:other .
+countries:am rdfs:subClassOf hltb:other .
 
-countries:ao hltb:subClassOf hltb:other .
+countries:ao rdfs:subClassOf hltb:other .
 
-countries:aq hltb:subClassOf hltb: .
+countries:aq rdfs:subClassOf hltb: .
 
-countries:ar hltb:subClassOf hltb:other .
+countries:ar rdfs:subClassOf hltb:other .
 
-countries:as hltb:subClassOf hltb:other .
+countries:as rdfs:subClassOf hltb:other .
 
-countries:at hltb:subClassOf hltb:eu .
+countries:at rdfs:subClassOf hltb:eu .
 
-countries:au hltb:subClassOf hltb:other .
+countries:au rdfs:subClassOf hltb:other .
 
-countries:aw hltb:subClassOf hltb:na .
+countries:aw rdfs:subClassOf hltb:na .
 
-countries:ax hltb:subClassOf hltb:eu .
+countries:ax rdfs:subClassOf hltb:eu .
 
-countries:az hltb:subClassOf hltb:other .
+countries:az rdfs:subClassOf hltb:other .
 
-countries:ba hltb:subClassOf hltb:eu .
+countries:ba rdfs:subClassOf hltb:eu .
 
-countries:bb hltb:subClassOf hltb:na .
+countries:bb rdfs:subClassOf hltb:na .
 
-countries:bd hltb:subClassOf hltb:other .
+countries:bd rdfs:subClassOf hltb:other .
 
-countries:be hltb:subClassOf hltb:eu .
+countries:be rdfs:subClassOf hltb:eu .
 
-countries:bf hltb:subClassOf hltb:other .
+countries:bf rdfs:subClassOf hltb:other .
 
-countries:bg hltb:subClassOf hltb:eu .
+countries:bg rdfs:subClassOf hltb:eu .
 
-countries:bh hltb:subClassOf hltb:other .
+countries:bh rdfs:subClassOf hltb:other .
 
-countries:bi hltb:subClassOf hltb:other .
+countries:bi rdfs:subClassOf hltb:other .
 
-countries:bj hltb:subClassOf hltb:other .
+countries:bj rdfs:subClassOf hltb:other .
 
-countries:bl hltb:subClassOf hltb:na .
+countries:bl rdfs:subClassOf hltb:na .
 
-countries:bm hltb:subClassOf hltb:na .
+countries:bm rdfs:subClassOf hltb:na .
 
-countries:bn hltb:subClassOf hltb:other .
+countries:bn rdfs:subClassOf hltb:other .
 
-countries:bo hltb:subClassOf hltb:other .
+countries:bo rdfs:subClassOf hltb:other .
 
-countries:bq hltb:subClassOf hltb:na .
+countries:bq rdfs:subClassOf hltb:na .
 
-countries:br hltb:subClassOf hltb:other .
+countries:br rdfs:subClassOf hltb:other .
 
-countries:bs hltb:subClassOf hltb:na .
+countries:bs rdfs:subClassOf hltb:na .
 
-countries:bt hltb:subClassOf hltb:other .
+countries:bt rdfs:subClassOf hltb:other .
 
-countries:bv hltb:subClassOf hltb:other .
+countries:bv rdfs:subClassOf hltb:other .
 
-countries:bw hltb:subClassOf hltb:other .
+countries:bw rdfs:subClassOf hltb:other .
 
-countries:by hltb:subClassOf hltb:eu .
+countries:by rdfs:subClassOf hltb:eu .
 
-countries:bz hltb:subClassOf hltb:na .
+countries:bz rdfs:subClassOf hltb:na .
 
-countries:ca hltb:subClassOf hltb:na .
+countries:ca rdfs:subClassOf hltb:na .
 
-countries:cc hltb:subClassOf hltb:other .
+countries:cc rdfs:subClassOf hltb:other .
 
-countries:cd hltb:subClassOf hltb:other .
+countries:cd rdfs:subClassOf hltb:other .
 
-countries:cf hltb:subClassOf hltb:other .
+countries:cf rdfs:subClassOf hltb:other .
 
-countries:cg hltb:subClassOf hltb:other .
+countries:cg rdfs:subClassOf hltb:other .
 
-countries:ch hltb:subClassOf hltb:eu .
+countries:ch rdfs:subClassOf hltb:eu .
 
-countries:ci hltb:subClassOf hltb:other .
+countries:ci rdfs:subClassOf hltb:other .
 
-countries:ck hltb:subClassOf hltb:other .
+countries:ck rdfs:subClassOf hltb:other .
 
-countries:cl hltb:subClassOf hltb:other .
+countries:cl rdfs:subClassOf hltb:other .
 
-countries:cm hltb:subClassOf hltb:other .
+countries:cm rdfs:subClassOf hltb:other .
 
-countries:cn hltb:subClassOf hltb:other .
+countries:cn rdfs:subClassOf hltb:other .
 
-countries:co hltb:subClassOf hltb:other .
+countries:co rdfs:subClassOf hltb:other .
 
-countries:cr hltb:subClassOf hltb:na .
+countries:cr rdfs:subClassOf hltb:na .
 
-countries:cu hltb:subClassOf hltb:na .
+countries:cu rdfs:subClassOf hltb:na .
 
-countries:cv hltb:subClassOf hltb:other .
+countries:cv rdfs:subClassOf hltb:other .
 
-countries:cw hltb:subClassOf hltb:na .
+countries:cw rdfs:subClassOf hltb:na .
 
-countries:cx hltb:subClassOf hltb:other .
+countries:cx rdfs:subClassOf hltb:other .
 
-countries:cy hltb:subClassOf hltb:other .
+countries:cy rdfs:subClassOf hltb:other .
 
-countries:cz hltb:subClassOf hltb:eu .
+countries:cz rdfs:subClassOf hltb:eu .
 
-countries:de hltb:subClassOf hltb:eu .
+countries:de rdfs:subClassOf hltb:eu .
 
-countries:dj hltb:subClassOf hltb:other .
+countries:dj rdfs:subClassOf hltb:other .
 
-countries:dk hltb:subClassOf hltb:eu .
+countries:dk rdfs:subClassOf hltb:eu .
 
-countries:dm hltb:subClassOf hltb:na .
+countries:dm rdfs:subClassOf hltb:na .
 
-countries:do hltb:subClassOf hltb:na .
+countries:do rdfs:subClassOf hltb:na .
 
-countries:dz hltb:subClassOf hltb:other .
+countries:dz rdfs:subClassOf hltb:other .
 
-countries:ec hltb:subClassOf hltb:other .
+countries:ec rdfs:subClassOf hltb:other .
 
-countries:ee hltb:subClassOf hltb:eu .
+countries:ee rdfs:subClassOf hltb:eu .
 
-countries:eg hltb:subClassOf hltb:other .
+countries:eg rdfs:subClassOf hltb:other .
 
-countries:eh hltb:subClassOf hltb:other .
+countries:eh rdfs:subClassOf hltb:other .
 
-countries:er hltb:subClassOf hltb:other .
+countries:er rdfs:subClassOf hltb:other .
 
-countries:es hltb:subClassOf hltb:eu .
+countries:es rdfs:subClassOf hltb:eu .
 
-countries:et hltb:subClassOf hltb:other .
+countries:et rdfs:subClassOf hltb:other .
 
-countries:fi hltb:subClassOf hltb:eu .
+countries:fi rdfs:subClassOf hltb:eu .
 
-countries:fj hltb:subClassOf hltb:other .
+countries:fj rdfs:subClassOf hltb:other .
 
-countries:fk hltb:subClassOf hltb:other .
+countries:fk rdfs:subClassOf hltb:other .
 
-countries:fm hltb:subClassOf hltb:other .
+countries:fm rdfs:subClassOf hltb:other .
 
-countries:fo hltb:subClassOf hltb:eu .
+countries:fo rdfs:subClassOf hltb:eu .
 
-countries:fr hltb:subClassOf hltb:eu .
+countries:fr rdfs:subClassOf hltb:eu .
 
-countries:ga hltb:subClassOf hltb:other .
+countries:ga rdfs:subClassOf hltb:other .
 
-countries:gb hltb:subClassOf hltb:eu .
+countries:gb rdfs:subClassOf hltb:eu .
 
-countries:gd hltb:subClassOf hltb:na .
+countries:gd rdfs:subClassOf hltb:na .
 
-countries:ge hltb:subClassOf hltb:other .
+countries:ge rdfs:subClassOf hltb:other .
 
-countries:gf hltb:subClassOf hltb:other .
+countries:gf rdfs:subClassOf hltb:other .
 
-countries:gg hltb:subClassOf hltb:eu .
+countries:gg rdfs:subClassOf hltb:eu .
 
-countries:gh hltb:subClassOf hltb:other .
+countries:gh rdfs:subClassOf hltb:other .
 
-countries:gi hltb:subClassOf hltb:eu .
+countries:gi rdfs:subClassOf hltb:eu .
 
-countries:gl hltb:subClassOf hltb:na .
+countries:gl rdfs:subClassOf hltb:na .
 
-countries:gm hltb:subClassOf hltb:other .
+countries:gm rdfs:subClassOf hltb:other .
 
-countries:gn hltb:subClassOf hltb:other .
+countries:gn rdfs:subClassOf hltb:other .
 
-countries:gp hltb:subClassOf hltb:na .
+countries:gp rdfs:subClassOf hltb:na .
 
-countries:gq hltb:subClassOf hltb:other .
+countries:gq rdfs:subClassOf hltb:other .
 
-countries:gr hltb:subClassOf hltb:eu .
+countries:gr rdfs:subClassOf hltb:eu .
 
-countries:gs hltb:subClassOf hltb:other .
+countries:gs rdfs:subClassOf hltb:other .
 
-countries:gt hltb:subClassOf hltb:na .
+countries:gt rdfs:subClassOf hltb:na .
 
-countries:gu hltb:subClassOf hltb:other .
+countries:gu rdfs:subClassOf hltb:other .
 
-countries:gw hltb:subClassOf hltb:other .
+countries:gw rdfs:subClassOf hltb:other .
 
-countries:gy hltb:subClassOf hltb:other .
+countries:gy rdfs:subClassOf hltb:other .
 
-countries:hk hltb:subClassOf hltb:other .
+countries:hk rdfs:subClassOf hltb:other .
 
-countries:hm hltb:subClassOf hltb:other .
+countries:hm rdfs:subClassOf hltb:other .
 
-countries:hn hltb:subClassOf hltb:na .
+countries:hn rdfs:subClassOf hltb:na .
 
-countries:hr hltb:subClassOf hltb:eu .
+countries:hr rdfs:subClassOf hltb:eu .
 
-countries:ht hltb:subClassOf hltb:na .
+countries:ht rdfs:subClassOf hltb:na .
 
-countries:hu hltb:subClassOf hltb:eu .
+countries:hu rdfs:subClassOf hltb:eu .
 
-countries:id hltb:subClassOf hltb:other .
+countries:id rdfs:subClassOf hltb:other .
 
-countries:ie hltb:subClassOf hltb:eu .
+countries:ie rdfs:subClassOf hltb:eu .
 
-countries:il hltb:subClassOf hltb:other .
+countries:il rdfs:subClassOf hltb:other .
 
-countries:im hltb:subClassOf hltb:eu .
+countries:im rdfs:subClassOf hltb:eu .
 
-countries:in hltb:subClassOf hltb:other .
+countries:in rdfs:subClassOf hltb:other .
 
-countries:io hltb:subClassOf hltb:other .
+countries:io rdfs:subClassOf hltb:other .
 
-countries:iq hltb:subClassOf hltb:other .
+countries:iq rdfs:subClassOf hltb:other .
 
-countries:ir hltb:subClassOf hltb:other .
+countries:ir rdfs:subClassOf hltb:other .
 
-countries:is hltb:subClassOf hltb:eu .
+countries:is rdfs:subClassOf hltb:eu .
 
-countries:it hltb:subClassOf hltb:eu .
+countries:it rdfs:subClassOf hltb:eu .
 
-countries:je hltb:subClassOf hltb:eu .
+countries:je rdfs:subClassOf hltb:eu .
 
-countries:jm hltb:subClassOf hltb:na .
+countries:jm rdfs:subClassOf hltb:na .
 
-countries:jo hltb:subClassOf hltb:other .
+countries:jo rdfs:subClassOf hltb:other .
 
-countries:jp hltb:subClassOf hltb:jp .
+countries:jp rdfs:subClassOf hltb:jp .
 
-countries:ke hltb:subClassOf hltb:other .
+countries:ke rdfs:subClassOf hltb:other .
 
-countries:kg hltb:subClassOf hltb:other .
+countries:kg rdfs:subClassOf hltb:other .
 
-countries:kh hltb:subClassOf hltb:other .
+countries:kh rdfs:subClassOf hltb:other .
 
-countries:ki hltb:subClassOf hltb:other .
+countries:ki rdfs:subClassOf hltb:other .
 
-countries:km hltb:subClassOf hltb:other .
+countries:km rdfs:subClassOf hltb:other .
 
-countries:kn hltb:subClassOf hltb:na .
+countries:kn rdfs:subClassOf hltb:na .
 
-countries:kp hltb:subClassOf hltb:other .
+countries:kp rdfs:subClassOf hltb:other .
 
-countries:kr hltb:subClassOf hltb:other .
+countries:kr rdfs:subClassOf hltb:other .
 
-countries:kw hltb:subClassOf hltb:other .
+countries:kw rdfs:subClassOf hltb:other .
 
-countries:ky hltb:subClassOf hltb:na .
+countries:ky rdfs:subClassOf hltb:na .
 
-countries:kz hltb:subClassOf hltb:other .
+countries:kz rdfs:subClassOf hltb:other .
 
-countries:la hltb:subClassOf hltb:other .
+countries:la rdfs:subClassOf hltb:other .
 
-countries:lb hltb:subClassOf hltb:other .
+countries:lb rdfs:subClassOf hltb:other .
 
-countries:lc hltb:subClassOf hltb:na .
+countries:lc rdfs:subClassOf hltb:na .
 
-countries:li hltb:subClassOf hltb:eu .
+countries:li rdfs:subClassOf hltb:eu .
 
-countries:lk hltb:subClassOf hltb:other .
+countries:lk rdfs:subClassOf hltb:other .
 
-countries:lr hltb:subClassOf hltb:other .
+countries:lr rdfs:subClassOf hltb:other .
 
-countries:ls hltb:subClassOf hltb:other .
+countries:ls rdfs:subClassOf hltb:other .
 
-countries:lt hltb:subClassOf hltb:eu .
+countries:lt rdfs:subClassOf hltb:eu .
 
-countries:lu hltb:subClassOf hltb:eu .
+countries:lu rdfs:subClassOf hltb:eu .
 
-countries:lv hltb:subClassOf hltb:eu .
+countries:lv rdfs:subClassOf hltb:eu .
 
-countries:ly hltb:subClassOf hltb:other .
+countries:ly rdfs:subClassOf hltb:other .
 
-countries:ma hltb:subClassOf hltb:other .
+countries:ma rdfs:subClassOf hltb:other .
 
-countries:mc hltb:subClassOf hltb:eu .
+countries:mc rdfs:subClassOf hltb:eu .
 
-countries:md hltb:subClassOf hltb:eu .
+countries:md rdfs:subClassOf hltb:eu .
 
-countries:me hltb:subClassOf hltb:eu .
+countries:me rdfs:subClassOf hltb:eu .
 
-countries:mf hltb:subClassOf hltb:na .
+countries:mf rdfs:subClassOf hltb:na .
 
-countries:mg hltb:subClassOf hltb:other .
+countries:mg rdfs:subClassOf hltb:other .
 
-countries:mh hltb:subClassOf hltb:other .
+countries:mh rdfs:subClassOf hltb:other .
 
-countries:mk hltb:subClassOf hltb:eu .
+countries:mk rdfs:subClassOf hltb:eu .
 
-countries:ml hltb:subClassOf hltb:other .
+countries:ml rdfs:subClassOf hltb:other .
 
-countries:mm hltb:subClassOf hltb:other .
+countries:mm rdfs:subClassOf hltb:other .
 
-countries:mn hltb:subClassOf hltb:other .
+countries:mn rdfs:subClassOf hltb:other .
 
-countries:mo hltb:subClassOf hltb:other .
+countries:mo rdfs:subClassOf hltb:other .
 
-countries:mp hltb:subClassOf hltb:other .
+countries:mp rdfs:subClassOf hltb:other .
 
-countries:mq hltb:subClassOf hltb:na .
+countries:mq rdfs:subClassOf hltb:na .
 
-countries:mr hltb:subClassOf hltb:other .
+countries:mr rdfs:subClassOf hltb:other .
 
-countries:ms hltb:subClassOf hltb:na .
+countries:ms rdfs:subClassOf hltb:na .
 
-countries:mt hltb:subClassOf hltb:eu .
+countries:mt rdfs:subClassOf hltb:eu .
 
-countries:mu hltb:subClassOf hltb:other .
+countries:mu rdfs:subClassOf hltb:other .
 
-countries:mv hltb:subClassOf hltb:other .
+countries:mv rdfs:subClassOf hltb:other .
 
-countries:mw hltb:subClassOf hltb:other .
+countries:mw rdfs:subClassOf hltb:other .
 
-countries:mx hltb:subClassOf hltb:na .
+countries:mx rdfs:subClassOf hltb:na .
 
-countries:my hltb:subClassOf hltb:other .
+countries:my rdfs:subClassOf hltb:other .
 
-countries:mz hltb:subClassOf hltb:other .
+countries:mz rdfs:subClassOf hltb:other .
 
-countries:na hltb:subClassOf hltb:other .
+countries:na rdfs:subClassOf hltb:other .
 
-countries:nc hltb:subClassOf hltb:other .
+countries:nc rdfs:subClassOf hltb:other .
 
-countries:ne hltb:subClassOf hltb:other .
+countries:ne rdfs:subClassOf hltb:other .
 
-countries:nf hltb:subClassOf hltb:other .
+countries:nf rdfs:subClassOf hltb:other .
 
-countries:ng hltb:subClassOf hltb:other .
+countries:ng rdfs:subClassOf hltb:other .
 
-countries:ni hltb:subClassOf hltb:na .
+countries:ni rdfs:subClassOf hltb:na .
 
-countries:nl hltb:subClassOf hltb:eu .
+countries:nl rdfs:subClassOf hltb:eu .
 
-countries:no hltb:subClassOf hltb:eu .
+countries:no rdfs:subClassOf hltb:eu .
 
-countries:np hltb:subClassOf hltb:other .
+countries:np rdfs:subClassOf hltb:other .
 
-countries:nr hltb:subClassOf hltb:other .
+countries:nr rdfs:subClassOf hltb:other .
 
-countries:nu hltb:subClassOf hltb:other .
+countries:nu rdfs:subClassOf hltb:other .
 
-countries:nz hltb:subClassOf hltb:other .
+countries:nz rdfs:subClassOf hltb:other .
 
-countries:om hltb:subClassOf hltb:other .
+countries:om rdfs:subClassOf hltb:other .
 
-countries:pa hltb:subClassOf hltb:na .
+countries:pa rdfs:subClassOf hltb:na .
 
-countries:pe hltb:subClassOf hltb:other .
+countries:pe rdfs:subClassOf hltb:other .
 
-countries:pf hltb:subClassOf hltb:other .
+countries:pf rdfs:subClassOf hltb:other .
 
-countries:pg hltb:subClassOf hltb:other .
+countries:pg rdfs:subClassOf hltb:other .
 
-countries:ph hltb:subClassOf hltb:other .
+countries:ph rdfs:subClassOf hltb:other .
 
-countries:pk hltb:subClassOf hltb:other .
+countries:pk rdfs:subClassOf hltb:other .
 
-countries:pl hltb:subClassOf hltb:eu .
+countries:pl rdfs:subClassOf hltb:eu .
 
-countries:pm hltb:subClassOf hltb:na .
+countries:pm rdfs:subClassOf hltb:na .
 
-countries:pn hltb:subClassOf hltb:other .
+countries:pn rdfs:subClassOf hltb:other .
 
-countries:pr hltb:subClassOf hltb:na .
+countries:pr rdfs:subClassOf hltb:na .
 
-countries:ps hltb:subClassOf hltb:other .
+countries:ps rdfs:subClassOf hltb:other .
 
-countries:pt hltb:subClassOf hltb:eu .
+countries:pt rdfs:subClassOf hltb:eu .
 
-countries:pw hltb:subClassOf hltb:other .
+countries:pw rdfs:subClassOf hltb:other .
 
-countries:py hltb:subClassOf hltb:other .
+countries:py rdfs:subClassOf hltb:other .
 
-countries:qa hltb:subClassOf hltb:other .
+countries:qa rdfs:subClassOf hltb:other .
 
-countries:re hltb:subClassOf hltb:other .
+countries:re rdfs:subClassOf hltb:other .
 
-countries:ro hltb:subClassOf hltb:eu .
+countries:ro rdfs:subClassOf hltb:eu .
 
-countries:rs hltb:subClassOf hltb:eu .
+countries:rs rdfs:subClassOf hltb:eu .
 
-countries:ru hltb:subClassOf hltb:eu .
+countries:ru rdfs:subClassOf hltb:eu .
 
-countries:rw hltb:subClassOf hltb:other .
+countries:rw rdfs:subClassOf hltb:other .
 
-countries:sa hltb:subClassOf hltb:other .
+countries:sa rdfs:subClassOf hltb:other .
 
-countries:sb hltb:subClassOf hltb:other .
+countries:sb rdfs:subClassOf hltb:other .
 
-countries:sc hltb:subClassOf hltb:other .
+countries:sc rdfs:subClassOf hltb:other .
 
-countries:sd hltb:subClassOf hltb:other .
+countries:sd rdfs:subClassOf hltb:other .
 
-countries:se hltb:subClassOf hltb:eu .
+countries:se rdfs:subClassOf hltb:eu .
 
-countries:sg hltb:subClassOf hltb:other .
+countries:sg rdfs:subClassOf hltb:other .
 
-countries:sh hltb:subClassOf hltb:other .
+countries:sh rdfs:subClassOf hltb:other .
 
-countries:si hltb:subClassOf hltb:eu .
+countries:si rdfs:subClassOf hltb:eu .
 
-countries:sj hltb:subClassOf hltb:eu .
+countries:sj rdfs:subClassOf hltb:eu .
 
-countries:sk hltb:subClassOf hltb:eu .
+countries:sk rdfs:subClassOf hltb:eu .
 
-countries:sl hltb:subClassOf hltb:other .
+countries:sl rdfs:subClassOf hltb:other .
 
-countries:sm hltb:subClassOf hltb:eu .
+countries:sm rdfs:subClassOf hltb:eu .
 
-countries:sn hltb:subClassOf hltb:other .
+countries:sn rdfs:subClassOf hltb:other .
 
-countries:so hltb:subClassOf hltb:other .
+countries:so rdfs:subClassOf hltb:other .
 
-countries:sr hltb:subClassOf hltb:other .
+countries:sr rdfs:subClassOf hltb:other .
 
-countries:ss hltb:subClassOf hltb:other .
+countries:ss rdfs:subClassOf hltb:other .
 
-countries:st hltb:subClassOf hltb:other .
+countries:st rdfs:subClassOf hltb:other .
 
-countries:sv hltb:subClassOf hltb:na .
+countries:sv rdfs:subClassOf hltb:na .
 
-countries:sx hltb:subClassOf hltb:na .
+countries:sx rdfs:subClassOf hltb:na .
 
-countries:sy hltb:subClassOf hltb:other .
+countries:sy rdfs:subClassOf hltb:other .
 
-countries:sz hltb:subClassOf hltb:other .
+countries:sz rdfs:subClassOf hltb:other .
 
-countries:tc hltb:subClassOf hltb:na .
+countries:tc rdfs:subClassOf hltb:na .
 
-countries:td hltb:subClassOf hltb:other .
+countries:td rdfs:subClassOf hltb:other .
 
-countries:tf hltb:subClassOf hltb:other .
+countries:tf rdfs:subClassOf hltb:other .
 
-countries:tg hltb:subClassOf hltb:other .
+countries:tg rdfs:subClassOf hltb:other .
 
-countries:th hltb:subClassOf hltb:other .
+countries:th rdfs:subClassOf hltb:other .
 
-countries:tj hltb:subClassOf hltb:other .
+countries:tj rdfs:subClassOf hltb:other .
 
-countries:tk hltb:subClassOf hltb:other .
+countries:tk rdfs:subClassOf hltb:other .
 
-countries:tl hltb:subClassOf hltb:other .
+countries:tl rdfs:subClassOf hltb:other .
 
-countries:tm hltb:subClassOf hltb:other .
+countries:tm rdfs:subClassOf hltb:other .
 
-countries:tn hltb:subClassOf hltb:other .
+countries:tn rdfs:subClassOf hltb:other .
 
-countries:to hltb:subClassOf hltb:other .
+countries:to rdfs:subClassOf hltb:other .
 
-countries:tr hltb:subClassOf hltb:other .
+countries:tr rdfs:subClassOf hltb:other .
 
-countries:tt hltb:subClassOf hltb:na .
+countries:tt rdfs:subClassOf hltb:na .
 
-countries:tv hltb:subClassOf hltb:other .
+countries:tv rdfs:subClassOf hltb:other .
 
-countries:tw hltb:subClassOf hltb:other .
+countries:tw rdfs:subClassOf hltb:other .
 
-countries:tz hltb:subClassOf hltb:other .
+countries:tz rdfs:subClassOf hltb:other .
 
-countries:ua hltb:subClassOf hltb:eu .
+countries:ua rdfs:subClassOf hltb:eu .
 
-countries:ug hltb:subClassOf hltb:other .
+countries:ug rdfs:subClassOf hltb:other .
 
-countries:um hltb:subClassOf hltb:other .
+countries:um rdfs:subClassOf hltb:other .
 
-countries:us hltb:subClassOf hltb:na .
+countries:us rdfs:subClassOf hltb:na .
 
-countries:uy hltb:subClassOf hltb:other .
+countries:uy rdfs:subClassOf hltb:other .
 
-countries:uz hltb:subClassOf hltb:other .
+countries:uz rdfs:subClassOf hltb:other .
 
-countries:va hltb:subClassOf hltb:eu .
+countries:va rdfs:subClassOf hltb:eu .
 
-countries:vc hltb:subClassOf hltb:na .
+countries:vc rdfs:subClassOf hltb:na .
 
-countries:ve hltb:subClassOf hltb:na .
+countries:ve rdfs:subClassOf hltb:na .
 
-countries:vg hltb:subClassOf hltb:na .
+countries:vg rdfs:subClassOf hltb:na .
 
-countries:vi hltb:subClassOf hltb:na .
+countries:vi rdfs:subClassOf hltb:na .
 
-countries:vn hltb:subClassOf hltb:other .
+countries:vn rdfs:subClassOf hltb:other .
 
-countries:vu hltb:subClassOf hltb:other .
+countries:vu rdfs:subClassOf hltb:other .
 
-countries:wf hltb:subClassOf hltb:other .
+countries:wf rdfs:subClassOf hltb:other .
 
-countries:ws hltb:subClassOf hltb:other .
+countries:ws rdfs:subClassOf hltb:other .
 
-countries:ye hltb:subClassOf hltb:other .
+countries:ye rdfs:subClassOf hltb:other .
 
-countries:yt hltb:subClassOf hltb:other .
+countries:yt rdfs:subClassOf hltb:other .
 
-countries:za hltb:subClassOf hltb:other .
+countries:za rdfs:subClassOf hltb:other .
 
-countries:zm hltb:subClassOf hltb:other .
+countries:zm rdfs:subClassOf hltb:other .
 
-countries:zw hltb:subClassOf hltb:other .
+countries:zw rdfs:subClassOf hltb:other .
 
