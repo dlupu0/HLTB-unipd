@@ -8,7 +8,7 @@ The main modelled topic are video games and their completion time from www.howlo
 
 1. **HLTB_scraper.ipynb**, to retrieve additional completion time for games.Takes several minutes to execute.
 2. **Platforms.ipynb**, to clean platforms datasets.
-3. **indiegamesdevelopers&games&vgchartz&videogamesdevelopers_cleaning.ipynb**, to clean datasets.
+3. **indie_games_developers_cleaning 2.ipynb**, to clean datasets.
 4. **HLTB_RDF_Creatory.ipynb**, to generate .ttl files. Takes several minutes to execute.
 
 
@@ -23,3 +23,13 @@ All source datasets are in the *raw_datasets* folder
 - *plaforms/console_sales_vgchartz.csv* &rarr; sales data for console platforms. Retreived from the web page  https://www.vgchartz.com/charts/platform_totals/Hardware.php/
 - *plaforms/platforms_hltb.txt* and *platforms/popular_platforms_hltb.txt* &rarr; list of console platforms available on the howlongtobeat website. Retrieved from https://howlongtobeat.com/stats 
 - *platforms/platforms_wikipedia.csv* table with console platforms information. Retrieved from https://en.wikipedia.org/wiki/Home_video_game_console#Released_systems
+
+### Cleaned Datasets
+All the cleaned datasets are in the *cleaned_datasets* folder
+
+- *games_cleaned.csv*
+- *vgchartz_cleaned.csv*
+- *indiegamesdevelopers_cleaned.csv*
+- *videogamesdevelopers_cleaned_seriesexplode.csv*
+- *plaforms*
+
