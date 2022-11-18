@@ -131,9 +131,6 @@ hltb:fm-towns a hltb:Platform ;
     hltb:officialName "FM Towns"^^xsd:string ;
     hltb:releaseDate "1993-01-20T00:00:00"^^xsd:dateTime .
 
-hltb:game---watch a hltb:Platform ;
-    hltb:officialName "Game & Watch"^^xsd:string .
-
 hltb:game-boy a hltb:Platform ;
     hltb:acronym "GB"^^xsd:string ;
     hltb:officialName "Game Boy"^^xsd:string .
@@ -144,6 +141,9 @@ hltb:game-boy-advance a hltb:Platform ;
 
 hltb:game-boy-color a hltb:Platform ;
     hltb:officialName "Game Boy Color"^^xsd:string .
+
+hltb:game-watch a hltb:Platform ;
+    hltb:officialName "Game & Watch"^^xsd:string .
 
 hltb:gear-vr a hltb:Platform ;
     hltb:officialName "Gear VR"^^xsd:string .
@@ -333,7 +333,7 @@ hltb:playstation-vita a hltb:Platform ;
     hltb:acronym "PSV"^^xsd:string ;
     hltb:officialName "PlayStation Vita"^^xsd:string .
 
-hltb:plug---play a hltb:Platform ;
+hltb:plug-play a hltb:Platform ;
     hltb:officialName "Plug & Play"^^xsd:string .
 
 hltb:sega-32x a hltb:Platform ;
