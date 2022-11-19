@@ -1,0 +1,363 @@
+@prefix : <http://www.dei.unipd.it/database2/HLTB-db2unipd> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix terms: <http://purl.org/dc/terms/> .
+@base <http://www.dei.unipd.it/database2/HLTB-db2unipd> .
+
+<http://www.dei.unipd.it/database2/HLTB-db2unipd> rdf:type owl:Ontology ;
+                                                   owl:versionIRI <http://www.dei.unipd.it/database2/HLTB-db2unipd/1.0> ;
+                                                   owl:imports <http://eulersharp.sourceforge.net/2003/03swap/countries> ;
+                                                   rdfs:comment """This is the OWL file for modeling ontology of the HowLongToBeats project.
+It is used to model information about video games and their completion time. In addition, information about the developers and related sales for the games has been integrated.""" .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#basedIn
+:basedIn rdf:type owl:ObjectProperty ,
+                  owl:FunctionalProperty ;
+         rdfs:domain :Company ;
+         rdfs:range <http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl#Country> ;
+         rdfs:comment "property that connects company to country" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#createdBy
+:createdBy rdf:type owl:ObjectProperty ,
+                    owl:AsymmetricProperty ;
+           rdfs:domain :Platform ;
+           rdfs:range :Company ;
+           rdfs:comment "property that connects Platform to the Company that created the relative platform" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#developedBy
+:developedBy rdf:type owl:ObjectProperty ,
+                      owl:AsymmetricProperty ;
+             rdfs:domain :Game ;
+             rdfs:range :Company ;
+             rdfs:comment "property that connects Game to Company. With this property we are going to identify which company developed the game" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#hasGenre
+:hasGenre rdf:type owl:ObjectProperty ;
+          rdfs:domain :Game ;
+          rdfs:range :Genre ;
+          rdfs:comment "Propety that connect Games to his Genre" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#hasNotableGame
+:hasNotableGame rdf:type owl:ObjectProperty ,
+                         owl:AsymmetricProperty ;
+                rdfs:domain :Company ;
+                rdfs:range :Game ;
+                rdfs:comment "Properties to connect a game to a developer. In this case, a developer can have multiple notable games." .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#hasStats
+:hasStats rdf:type owl:ObjectProperty ,
+                   owl:InverseFunctionalProperty ;
+          rdfs:domain :Game ;
+          rdfs:range :Stats ;
+          rdfs:comment "Properties to connect a game to this stats. The relation is unique." .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#locatedIn
+:locatedIn rdf:type owl:ObjectProperty ,
+                    owl:TransitiveProperty ;
+           rdfs:range [ rdf:type owl:Class ;
+                        owl:unionOf ( <http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl#Country>
+                                      :Region
+                                    )
+                      ] ;
+           rdfs:comment """A resource is located in a geographical region
+May consider to add domain in Sale, Company and Country""" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#onPlatform
+:onPlatform rdf:type owl:ObjectProperty ;
+            rdfs:domain [ rdf:type owl:Class ;
+                          owl:unionOf ( :Sale
+                                        :Stats
+                                      )
+                        ] ;
+            rdfs:range :Platform ;
+            rdfs:comment """the property connects the sales of a game related to a platform
+the property connects the Stats of a game related to a platform""" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#publishedBy
+:publishedBy rdf:type owl:ObjectProperty ,
+                      owl:AsymmetricProperty ;
+             rdfs:domain :Game ;
+             rdfs:range :Company ;
+             rdfs:comment "the property connects Game to a Company. In this case it is identified which company publishes the game." .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#releasedOn
+:releasedOn rdf:type owl:ObjectProperty ;
+            rdfs:domain :Game ;
+            rdfs:range :Platform ;
+            rdfs:comment "the property connects Game to Platform. It is identified for which platform the game is released" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#sold
+:sold rdf:type owl:ObjectProperty ,
+               owl:InverseFunctionalProperty ;
+      rdfs:domain [ rdf:type owl:Class ;
+                    owl:unionOf ( :Game
+                                  :Platform
+                                )
+                  ] ;
+      rdfs:range :Sale ;
+      rdfs:comment "the property connects Platform to Sale. The information on how many units of that platform are sold is identified" .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#acronym
+:acronym rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Platform ;
+         rdfs:range xsd:string ;
+         rdfs:comment "Platform acronym" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#bits
+:bits rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Platform ;
+      rdfs:range xsd:int ;
+      rdfs:comment "platform processor bits" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#completionistTime
+:completionistTime rdf:type owl:DatatypeProperty ,
+                            owl:FunctionalProperty ;
+                   rdfs:domain :Stats ;
+                   rdfs:range xsd:int ;
+                   rdfs:comment "Time to complete the game" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#cpu
+:cpu rdf:type owl:DatatypeProperty ;
+     rdfs:domain :Platform ;
+     rdfs:range xsd:string ;
+     rdfs:comment "cpu mounted on the platform" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#criticScore
+:criticScore rdf:type owl:DatatypeProperty ,
+                      owl:FunctionalProperty ;
+             rdfs:domain :Stats ;
+             rdfs:range xsd:float ;
+             rdfs:comment "critical score of a game" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#fastestTime
+:fastestTime rdf:type owl:DatatypeProperty ,
+                      owl:FunctionalProperty ;
+             rdfs:domain :Stats ;
+             rdfs:range xsd:int ;
+             rdfs:comment "fastest time to complete the game" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#id
+:id rdf:type owl:DatatypeProperty ,
+             owl:FunctionalProperty ;
+    rdfs:domain :Game ;
+    rdfs:range xsd:int ;
+    rdfs:comment "id to identify the game" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#indieDeveloper
+:indieDeveloper rdf:type owl:DatatypeProperty ,
+                         owl:FunctionalProperty ;
+                rdfs:domain :Company ;
+                rdfs:range xsd:boolean ;
+                rdfs:comment "attribute that identifies if a Company is an indie developer" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#mainPlusTime
+:mainPlusTime rdf:type owl:DatatypeProperty ,
+                       owl:FunctionalProperty ;
+              rdfs:domain :Stats ;
+              rdfs:range xsd:int ;
+              rdfs:comment "time to finish mainPlus of the game" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#mainTime
+:mainTime rdf:type owl:DatatypeProperty ,
+                   owl:FunctionalProperty ;
+          rdfs:domain :Stats ;
+          rdfs:range xsd:int ;
+          rdfs:comment "time to finish main of the game" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#multiplayerFocus
+:multiplayerFocus rdf:type owl:DatatypeProperty ,
+                           owl:FunctionalProperty ;
+                  rdfs:domain :Game ;
+                  rdfs:range xsd:boolean ;
+                  rdfs:comment "Attribute to tell if a game is multiplayer" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#officialName
+:officialName rdf:type owl:DatatypeProperty ,
+                       owl:FunctionalProperty ;
+              rdfs:domain [ rdf:type owl:Class ;
+                            owl:unionOf ( :Company
+                                          :Game
+                                          :Platform
+                                        )
+                          ] ,
+                          [ rdf:type owl:Restriction ;
+                            owl:onProperty :officialName ;
+                            owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                            owl:onDataRange xsd:string
+                          ] ;
+              rdfs:range xsd:string ;
+              rdfs:comment "attribute that identifies the official name of a Game, Platform or Company" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#polledTime
+:polledTime rdf:type owl:DatatypeProperty ,
+                     owl:FunctionalProperty ;
+            rdfs:domain :Stats ;
+            rdfs:range xsd:int ;
+            rdfs:comment "Number of stats collected for a related game" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#popular
+:popular rdf:type owl:DatatypeProperty ,
+                  owl:FunctionalProperty ;
+         rdfs:domain :Platform ;
+         rdfs:range xsd:boolean ;
+         rdfs:comment "attribute to identify whether a platform is popular or not" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#releaseDate
+:releaseDate rdf:type owl:DatatypeProperty ,
+                      owl:FunctionalProperty ;
+             rdfs:domain [ rdf:type owl:Class ;
+                           owl:unionOf ( :Platform
+                                         :Stats
+                                       )
+                         ] ;
+             rdfs:range xsd:dateTime ;
+             rdfs:comment "release date of a platform or Stats" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#slowestTime
+:slowestTime rdf:type owl:DatatypeProperty ,
+                      owl:FunctionalProperty ;
+             rdfs:domain :Stats ;
+             rdfs:range xsd:int ;
+             rdfs:comment "slowest time to complete the game" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#unitsSold
+:unitsSold rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Sale ,
+                       [ rdf:type owl:Restriction ;
+                         owl:onProperty :unitsSold ;
+                         owl:qualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                         owl:onDataRange xsd:float
+                       ] ;
+           rdfs:range xsd:float ;
+           rdfs:comment "units sold related to a sale, which may identify a game or platform" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#userScore
+:userScore rdf:type owl:DatatypeProperty ,
+                    owl:FunctionalProperty ;
+           rdfs:domain :Stats ;
+           rdfs:range xsd:float ;
+           rdfs:comment "user score about a related game" .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl#Country
+<http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl#Country> rdf:type owl:Class ;
+                                                              rdfs:comment "The Country class used to locate the companies" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#Company
+:Company rdf:type owl:Class ;
+         rdfs:comment "The class Company represents both developers and platform manufacturers" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#Game
+:Game rdf:type owl:Class ;
+      rdfs:comment "The class represents the video game" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#Genre
+:Genre rdf:type owl:Class ;
+       rdfs:comment "The genre class is used to identify the genre of the game" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#Platform
+:Platform rdf:type owl:Class ;
+          rdfs:comment "The platform class is used to identify on which platform a given game was developed" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#Region
+:Region rdf:type owl:Class ;
+        rdfs:comment "The Region class contains an enumeration of all geographic areas of the world. Used in classification of sales and where the companys are located" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#Sale
+:Sale rdf:type owl:Class ;
+      rdfs:comment "Dummy class to represent units sold of a particular game on a platform and in a region" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#Stats
+:Stats rdf:type owl:Class ;
+       rdfs:comment "Dummy class to represent statistics about a game on a given platform" .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://eulersharp.sourceforge.net/2003/03swap/countries#jp
+<http://eulersharp.sourceforge.net/2003/03swap/countries#jp> rdf:type owl:NamedIndividual ,
+                                                                      :Region .
+
+
+###  http://eulersharp.sourceforge.net/2003/03swap/countries#na
+<http://eulersharp.sourceforge.net/2003/03swap/countries#na> rdf:type owl:NamedIndividual .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#eu
+:eu rdf:type owl:NamedIndividual ,
+             :Region ;
+    rdfs:comment "eu equals to pal" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#global
+:global rdf:type owl:NamedIndividual ,
+                 :Region .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#na
+:na rdf:type owl:NamedIndividual ,
+             :Region ;
+    rdfs:comment "North America region" .
+
+
+###  http://www.dei.unipd.it/database2/HLTB-db2unipd#other
+:other rdf:type owl:NamedIndividual ,
+                :Region .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi

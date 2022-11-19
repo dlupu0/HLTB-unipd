@@ -1,5 +1,5 @@
 @prefix countries: <http://eulersharp.sourceforge.net/2003/03swap/countries#> .
-@prefix hltb: <http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#> .
+@prefix hltb: <http://www.dei.unipd.it/database2/HLTB-db2unipd#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 hltb: a hltb:Company .
