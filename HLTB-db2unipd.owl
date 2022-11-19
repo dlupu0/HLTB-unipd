@@ -7,7 +7,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://www.dei.unipd.it/database2/HLTB-db2unipd"
      versionIRI="http://www.dei.unipd.it/database2/HLTB-db2unipd/1.0">
-    <Prefix name="" IRI="http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd"/>
+    <Prefix name="" IRI="http://www.dei.unipd.it/database2/HLTB-db2unipd#"/>
     <Prefix name="dc" IRI="http://purl.org/dc/elements/1.1/"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
