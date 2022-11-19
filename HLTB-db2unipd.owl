@@ -7,7 +7,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd"
      versionIRI="http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd/1.0">
-    <Prefix name="" IRI="http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd#"/>
+    <Prefix name="" IRI="http://www.semanticweb.org/enrico/ontologies/2022/10/HLTB-db2unipd"/>
     <Prefix name="dc" IRI="http://purl.org/dc/elements/1.1/"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
@@ -17,6 +17,7 @@
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Prefix name="skos" IRI="http://www.w3.org/2004/02/skos/core#"/>
     <Prefix name="terms" IRI="http://purl.org/dc/terms/"/>
+    <Import>http://eulersharp.sourceforge.net/2003/03swap/countries</Import>
     <Annotation>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <Literal>This is the OWL file for modeling ontology of the HowLongToBeats project.
@@ -151,20 +152,6 @@ It is used to model information about video games and their completion time. In 
     <Declaration>
         <NamedIndividual IRI="#other"/>
     </Declaration>
-    <EquivalentClasses>
-        <Class IRI="#Region"/>
-        <ObjectOneOf>
-            <NamedIndividual IRI="http://eulersharp.sourceforge.net/2003/03swap/countries#jp"/>
-            <NamedIndividual IRI="http://eulersharp.sourceforge.net/2003/03swap/countries#na"/>
-            <NamedIndividual IRI="#eu"/>
-            <NamedIndividual IRI="#global"/>
-            <NamedIndividual IRI="#other"/>
-        </ObjectOneOf>
-    </EquivalentClasses>
-    <SubClassOf>
-        <Class IRI="http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl#Country"/>
-        <Class IRI="#Region"/>
-    </SubClassOf>
     <ClassAssertion>
         <Class IRI="#Region"/>
         <NamedIndividual IRI="http://eulersharp.sourceforge.net/2003/03swap/countries#jp"/>
@@ -512,7 +499,7 @@ It is used to model information about video games and their completion time. In 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl#Country</IRI>
-        <Literal>The Country class used to locate the companys</Literal>
+        <Literal>The Country class used to locate the companies</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
@@ -627,7 +614,8 @@ It is used to model information about video games and their completion time. In 
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
         <IRI>#locatedIn</IRI>
-        <Literal>property that connects the class Sale with its sales region</Literal>
+        <Literal>A resource is located in a geographical region
+May consider to add domain in Sale, Company and Country</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
