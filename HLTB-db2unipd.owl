@@ -329,6 +329,9 @@ It is used to model information about video games and their completion time. In 
         <DataProperty IRI="#slowestTime"/>
     </FunctionalDataProperty>
     <FunctionalDataProperty>
+        <DataProperty IRI="#unitsSold"/>
+    </FunctionalDataProperty>
+    <FunctionalDataProperty>
         <DataProperty IRI="#userScore"/>
     </FunctionalDataProperty>
     <DataPropertyDomain>

@@ -262,7 +262,8 @@ the property connects the Stats of a game related to a platform""" .
 
 
 ###  http://www.dei.unipd.it/database2/HLTB-db2unipd#unitsSold
-:unitsSold rdf:type owl:DatatypeProperty ;
+:unitsSold rdf:type owl:DatatypeProperty ,
+                    owl:FunctionalProperty ;
            rdfs:domain :Sale ,
                        [ rdf:type owl:Restriction ;
                          owl:onProperty :unitsSold ;
