@@ -12,7 +12,7 @@ The main modelled topic are video games and their completion time from www.howlo
 4. **HLTB_RDF_Creatory.ipynb**, to generate .ttl files. Takes several minutes to execute.
 
 ### Queries 
-Tested queries are in the "queries" folder of the project. 
+Tested queries are in the "queries" folder of the project. Please refer to *Queries.pdf*, and to *Queries.txt* only if the previous one doesn't work. 
 
 
 ### Source Datasets
