@@ -11,6 +11,9 @@ The main modelled topic are video games and their completion time from www.howlo
 3. **indie_games_developers_videogamesdevelopers_cleaning.ipynb**, to clean datasets.
 4. **HLTB_RDF_Creatory.ipynb**, to generate .ttl files. Takes several minutes to execute.
 
+### Queries 
+Tested queries are in the "queries" folder of the project. 
+
 
 ### Source Datasets
 All source datasets are in the *raw_datasets* folder
