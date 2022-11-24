@@ -34,7 +34,7 @@ All the cleaned datasets are in the *cleaned_datasets* folder
 
 - *games_cleaned.csv*
 - *vgchartz_cleaned.csv*
-- *indiegamesdevelopers_cleaned.csv*
+- *indiegamesdevelopers_cleaned_seriesExplode.csv*
 - *videogamesdevelopers_cleaned_seriesexplode.csv*
 - *plaforms.csv*
 
