@@ -1,3 +1,4 @@
+> :warning:!!! **Do not run indie_games_developers_videogamesdevelopers_cleaning.ipynb and do not delete anything from cleaned_datasets**!!!
 # **HLTB-unipd**
 Group Project for Database 2 at University of Padua 
 
@@ -8,7 +9,7 @@ The main modelled topic are video games and their completion time from www.howlo
 
 1. **HLTB_scraper.ipynb**, to retrieve additional completion time for games.Takes several minutes to execute.
 2. **Platforms.ipynb**, to clean platforms datasets.
-3. **indie_games_developers_videogamesdevelopers_cleaning.ipynb**, to clean datasets.
+3. ~~**indie_games_developers_videogamesdevelopers_cleaning.ipynb**~~, to clean datasets.
 4. **HLTB_RDF_Creatory.ipynb**, to generate .ttl files. Takes several minutes to execute.
 
 ### **Queries**
