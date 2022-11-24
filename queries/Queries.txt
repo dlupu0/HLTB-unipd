@@ -1,9 +1,7 @@
 ﻿1. How many games per platform ?
 
-
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 #how many games per platform
-
 
 select distinct ?platform (COUNT(?game) as ?games) where{
            ?game :releasedOn ?platform.
@@ -15,10 +13,8 @@ ORDER BY DESC (?games)
 
 2. Do people play the same game the most time on Nintendo Switch or on PC?
 
-
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 #check if people play the same game the most time on nintendo switch or pc (in seconds)?
-
 
 select distinct (COUNT(?game) as ?totalGames) (xsd:integer(AVG(?switch)) as ?averageTimeNintendoSwitch) (xsd:integer(AVG(?avgPC)) as ?averageTimePC) where {
         select distinct ?game (AVG(?switchTime) as ?switch) ?avgPC where{
@@ -42,16 +38,10 @@ select distinct (COUNT(?game) as ?totalGames) (xsd:integer(AVG(?switch)) as ?ave
 }
 
 
-
-
-
-
 3. Are the number of games released before 2013 on pc more than the ones released after 2013?
-
 
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 #Are the number of games released before 2013 on pc more than the ones released after 2013?
-
 
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 ask where{
@@ -79,7 +69,6 @@ FILTER(?before2013>?after2013)
 
 4. How many adventure games are released on pc?
 
-
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 #released adventure games per year on pc
 
@@ -98,9 +87,9 @@ ORDER BY DESC(?year)
 
 5.  How many copies sold the games for which the users inserted the most completion time data? (likely the most appreciated)
 
-
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 #units sold worldwide on all platforms for the most polled games (likely appreciated games by fans)
+
 select distinct ?game (SUM(?people) as ?howManyPolled) (SUM(?units) as ?unitsSold) where{
         ?game :hasStats ?stats.
         ?stats :polledTime ?people.
@@ -118,9 +107,9 @@ LIMIT 10
 
 6. How many exclusive games each popular platform has?
 
-
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 #exclusive games on popular platforms
+
 select distinct ?name (COUNT(?game) as ?games)  where {
         ?game :releasedOn ?platform.
         ?platform :officialName ?name;
@@ -139,10 +128,8 @@ GROUP BY ?name
 
 7. What are the most praised games by the critic?
 
-
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 #games with a very high critic score grouped by year
-
 
 select distinct ?year (GROUP_CONCAT(DISTINCT ?name; separator = ", ") as ?games) where{
     ?game :hasStats ?stats;
@@ -157,9 +144,9 @@ ORDER BY DESC (?year)
 
 8. What multiplayer focused games of Electronic Arts sold the most?
 
-
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 #all multiplayer focused games of Electronic Arts
+
 select distinct ?game (SUM(?soldUnits) as ?totalUnits) where{
     ?game a :Game;
           :officialName ?name;
@@ -174,14 +161,10 @@ HAVING (?totalUnits > 0.4)
 ORDER BY DESC (?totalUnits)
 
 
-
-
 9. How many companies per region?
-
 
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 #how many companies per region
-
 
 select distinct ?region (COUNT(?company) as ?howManyCompanies)  where{
             ?company :basedIn ?country.
@@ -193,10 +176,8 @@ ORDER BY ?howManyCompanies
 
 10. How long does it take to beat the most played Pokèmon games?
 
-
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 #how long to beat every most played pokémon game
-
 
 select distinct ?name (xsd:integer(AVG(?mainStory/3600)) as ?avgMainStory_hours) (xsd:integer(AVG(?completionistTime/3600)) as ?avgCompletionistTime_hours)  where{
     ?game :hasStats ?stats;
@@ -213,19 +194,15 @@ ORDER BY DESC (?avgMainStory_hours)
 
 11. How many bits is the cpu that runs the given game? (CONSTRUCT Query)
 
-
 PREFIX hltb: <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 #How many bits is the cpu that runs the given game?
 #example of construct query.
 
-
 CONSTRUCT {
     ?game rdf:type hltb:Game . 
     ?game hltb:officialName ?name .
     ?platform hltb:bits ?bit .
-
-
 }WHERE{
     ?game hltb:officialName ?name ;
        hltb:releasedOn ?platform .
@@ -233,14 +210,10 @@ CONSTRUCT {
 }
 
 
-
-
 12. (Bonus Query) Data about Fifa and PES.
-
 
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 #time to beat the career, the critic score and sold units for "fifa" and "pro evolution soccer"
-
 
 select distinct ?name  (xsd:integer(AVG(?carriera/3600)) as ?carrerTime_hours) (AVG(?score) as ?criticScore) (SUM(DISTINCT ?sales) as ?soldUnits) where{
     ?game :officialName ?name.
@@ -255,22 +228,12 @@ GROUP BY ?name
 
 
 
-
-
-
-
-
-
-
 ANALYTICS QUERIES
-
 
 1. Number of games in the databases, for how many we have Stats data, for how many we have Sales data and for how many both. 
 
-
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 #number of games in the databases, for how many we have Stats data, for how many we have Sales data and for how many both. 
-
 
 select distinct (COUNT(DISTINCT?game2) as ?totalGames)(COUNT(DISTINCT?game1)  as ?gamesWithStatsData) (COUNT(DISTINCT?game) as ?gamesWithSalesData)  (COUNT(DISTINCT?game3) as ?gamesWithBothData)where {
     {
@@ -292,15 +255,11 @@ select distinct (COUNT(DISTINCT?game2) as ?totalGames)(COUNT(DISTINCT?game1)  as
 }
 
 
-
-
 2. Triples, edges, nodes and attributes in the graph. 
-
 
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 #how many triples,edges,nodes and attributes in the graph
-
 
 SELECT DISTINCT (COUNT (?l) as ?totalTriples)  (COUNT (?v) as ?totalNodes)  (COUNT (?s) as ?totalAttributes) (COUNT (?b) as ?totalEdges)WHERE
 {
