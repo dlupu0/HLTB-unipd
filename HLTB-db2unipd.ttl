@@ -313,6 +313,14 @@ the property connects the Stats of a game related to a platform""" .
 
 ###  http://www.dei.unipd.it/database2/HLTB-db2unipd#Region
 :Region rdf:type owl:Class ;
+        owl:equivalentClass [ rdf:type owl:Class ;
+                              owl:oneOf ( <http://eulersharp.sourceforge.net/2003/03swap/countries#jp>
+                                          :na
+                                          :eu
+                                          :global
+                                          :other
+                                        )
+                            ] ;
         rdfs:comment "The Region class contains an enumeration of all geographic areas of the world. Used in classification of sales and where the companys are located" .
 
 
@@ -333,10 +341,6 @@ the property connects the Stats of a game related to a platform""" .
 ###  http://eulersharp.sourceforge.net/2003/03swap/countries#jp
 <http://eulersharp.sourceforge.net/2003/03swap/countries#jp> rdf:type owl:NamedIndividual ,
                                                                       :Region .
-
-
-###  http://eulersharp.sourceforge.net/2003/03swap/countries#na
-<http://eulersharp.sourceforge.net/2003/03swap/countries#na> rdf:type owl:NamedIndividual .
 
 
 ###  http://www.dei.unipd.it/database2/HLTB-db2unipd#eu
