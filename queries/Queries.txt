@@ -1,4 +1,4 @@
-1. How many games per platform ?
+﻿1. How many games per platform ?
 
 
 PREFIX : <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
@@ -255,84 +255,8 @@ GROUP BY ?name
 
 
 
-13.Show the game named "007 Legends"
-
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX hltb: <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
-#Show the game named "007 Legends"
-
-SELECT ?game WHERE 
-{ 
-	?game hltb:officialName "007 Legends"^^xsd:string .
-} 
 
 
-14. List the games whose platform has 32-bits or 8-bits CPU
-
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX hltb: <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-#List the games whose platform has 32-bits or 8-bits CPU
-
-SELECT ?name ?platform ?bit WHERE { 
-	?game hltb:officialName ?name ;
-       hltb:releasedOn ?platform .
-    ?platform hltb:bits ?bit .
-    FILTER(?bit = "32"^^xsd:int || ?bit = "8"^^xsd:int) . 
-	
-} limit 100 
-
-
-15. Are the average number of games sold in Europe more than North America?
-
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX hltb: <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-#Are the average number of games sold in Europe more than North America?
-
-ASK WHERE{
-    {
-        SELECT ( AVG(?unitsSold) AS ?totsale_eu) WHERE{
-        	?game  hltb:officialName ?name ;
-                hltb:locatedIn hltb:eu ;
-       			hltb:sold ?placeplatform .
-    		?placeplatform hltb:unitsSold ?unitsSold .
-    	}
-    }
-    {
-        SELECT ( AVG(?unitsSold) AS ?totsale_na) WHERE{
-        	?game  hltb:officialName ?name ;
-                hltb:locatedIn hltb:na ;
-       			hltb:sold ?placeplatform .
-    		?placeplatform hltb:unitsSold ?unitsSold .
-    	}
-    } 
-FILTER (?totsale_eu > ?totsale_na)
-}
-
-16. list of games and their platforms sold in Japan and North America
-
-PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
-PREFIX hltb: <http://www.dei.unipd.it/database2/HLTB-db2unipd#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-#list of games and their platforms sold in Japan and North America
-
-SELECT ?name ?placeplatform ?unitsSold WHERE{
-	{
-    ?game hltb:officialName ?name ;
-       hltb:sold ?placeplatform .
-    ?placeplatform hltb:unitsSold ?unitsSold ;
-    	hltb:locatedIn 	hltb:jp .
-	}
-UNION
-	{
-    ?game hltb:officialName ?name ;
-       hltb:sold ?placeplatform .
-    ?placeplatform hltb:unitsSold ?unitsSold ;
-    	hltb:locatedIn 	hltb:na .
-	}
-}
-ORDER BY ?unitsSold
 
 
 
